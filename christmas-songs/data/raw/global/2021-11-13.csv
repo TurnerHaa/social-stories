@@ -1,0 +1,201 @@
+date,region,rank,previous_rank,peak_rank,days_on_chart,streams,track_name,artists,track_uri,labels,release_date
+2021-11-13,global,1,1,1,2,5887398,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,spotify:track:5enxwA8aAbwZbf5qCHORXi,Taylor Swift,2021-11-12
+2021-11-13,global,2,3,1,128,5646068,STAY (with Justin Bieber),"The Kid LAROI, Justin Bieber",spotify:track:5PjdY0CKGZdEuoNab3yDmX,Columbia,2021-07-27
+2021-11-13,global,3,2,1,31,5440140,Easy On Me,Adele,spotify:track:0gplL1WMoJ6iYaPgMCL0gX,Columbia,2021-10-14
+2021-11-13,global,4,5,2,114,4916528,INDUSTRY BABY (feat. Jack Harlow),"Lil Nas X, Jack Harlow",spotify:track:5Z9KJZvQzH6PFmb8SNkxuk,Columbia,2021-09-17
+2021-11-13,global,5,8,5,93,4451471,Cold Heart - PNAU Remix,"Elton John, Dua Lipa, PNAU",spotify:track:7rglLriMNBPAyuJOMGwi39,EMI,2021-10-22
+2021-11-13,global,6,10,4,65,4070167,Shivers,Ed Sheeran,spotify:track:50nfwKoDiSYg8zOCREWAm5,Atlantic Records UK,2021-10-25
+2021-11-13,global,7,11,3,329,4047824,Heat Waves,Glass Animals,spotify:track:02MWAaffLxlfxAUY7c5dvx,Polydor Records,2020-08-07
+2021-11-13,global,8,6,6,9,3971044,Smokin Out The Window,"Bruno Mars, Anderson .Paak, Silk Sonic",spotify:track:7sMBvZCSUl99bJLXZaLa0b,Aftermath Entertainment/Atlantic,2021-11-11
+2021-11-13,global,9,16,3,125,3766778,Pepas,Farruko,spotify:track:2B4GHvToeLTOBB4QLzW3Ni,Sony Music Latin,2021-10-01
+2021-11-13,global,10,17,3,142,3501023,Bad Habits,Ed Sheeran,spotify:track:3rmo8F54jFF8OgYsqTxm5d,Atlantic Records UK,2021-10-25
+2021-11-13,global,11,4,4,2,3348114,Red (Taylor's Version),Taylor Swift,spotify:track:4OAuvHryIVv4kMDNSLuPt6,Taylor Swift,2021-11-12
+2021-11-13,global,12,7,7,2,3326933,All Too Well (Taylor's Version),Taylor Swift,spotify:track:3nsfB1vus2qaloUdcBZvDu,Taylor Swift,2021-11-12
+2021-11-13,global,13,22,5,65,2971247,MONEY,LISA,spotify:track:7hU3IHwjX150XLoTVmjD0q,YG Entertainment/Interscope Records,2021-09-10
+2021-11-13,global,14,14,14,2,2933264,Already Dead,Juice WRLD,spotify:track:7qM1BWAsZMTYh4BcYLb0uQ,Grade A Productions/Interscope Records,2022-03-18
+2021-11-13,global,15,27,5,124,2847251,Woman,Doja Cat,spotify:track:6Uj1ctrBOjOas8xZXGqKk4,Kemosabe Records/RCA Records,2021-06-25
+2021-11-13,global,16,25,3,51,2842185,My Universe,"Coldplay, BTS",spotify:track:46HNZY1i7O6jwTA7Slo2PI,Parlophone UK,2021-10-15
+2021-11-13,global,17,19,7,9,2841640,One Right Now (with The Weeknd),"Post Malone, The Weeknd",spotify:track:00Blm7zeNqgYLPtW6zg8cj,Republic Records,2021-11-05
+2021-11-13,global,18,9,9,2,2788975,I Knew You Were Trouble (Taylor's Version),Taylor Swift,spotify:track:6AtZLIzUINvExIUy4QhdjP,Taylor Swift,2021-11-12
+2021-11-13,global,19,32,9,62,2651176,love nwantiti (ah ah ah),CKay,spotify:track:2Xr1dTzJee307rmrkt8c0g,Chocolate City Music,2019-08-30
+2021-11-13,global,20,13,13,2,2632876,22 (Taylor's Version),Taylor Swift,spotify:track:3yII7UwgLF6K5zW3xad3MP,Taylor Swift,2021-11-12
+2021-11-13,global,21,34,13,60,2582313,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,"CKay, Dj Yo!, AX'EL",spotify:track:4gvrJnKCKIPiacNsWVQwEU,WM South Africa,2021-09-09
+2021-11-13,global,22,12,12,2,2517993,State Of Grace (Taylor's Version),Taylor Swift,spotify:track:6lzc0Al0zfZOIFsFvBS1ki,Taylor Swift,2021-11-12
+2021-11-13,global,23,15,15,2,2388608,We Are Never Ever Getting Back Together (Taylor's Version),Taylor Swift,spotify:track:5YqltLsjdqFtvqE7Nrysvs,Taylor Swift,2021-11-12
+2021-11-13,global,24,30,4,254,2365832,Leave The Door Open,"Bruno Mars, Anderson .Paak, Silk Sonic",spotify:track:1LPSkqVhWVRUkKE03YUkpB,Aftermath Entertainment/Atlantic,2021-11-11
+2021-11-13,global,25,39,1,184,2362703,good 4 u,Olivia Rodrigo,spotify:track:4ZtFanR9U6ndgddUvNcjcG,Olivia Rodrigo PS,2021-05-21
+2021-11-13,global,26,20,20,2,2358907,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),"Taylor Swift, Phoebe Bridgers",spotify:track:01K4zKU104LyJ8gMb7227B,Taylor Swift,2021-11-12
+2021-11-13,global,27,45,1,166,2350593,Beggin',Måneskin,spotify:track:3Wrjm47oTz2sjIgck11l5e,RCA Records Label,2017-12-08
+2021-11-13,global,28,23,23,2,2344984,Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),"Taylor Swift, Ed Sheeran",spotify:track:4IQkfUsrwXol38VV3U7t7T,Taylor Swift,2021-11-12
+2021-11-13,global,29,42,3,58,2303519,THATS WHAT I WANT,Lil Nas X,spotify:track:0e8nrvls4Qqv5Rfa2UhqmO,Columbia,2021-09-17
+2021-11-13,global,30,44,6,156,2297820,Need to Know,Doja Cat,spotify:track:3Vi5XqYrmQgOYBajMWSvCi,Kemosabe Records/RCA Records,2021-06-25
+2021-11-13,global,31,31,31,2,2292875,LA FAMA,"ROSALÍA, The Weeknd",spotify:track:6dmXZ9B5HdFAyzHeTneYBK,Columbia,2022-03-18
+2021-11-13,global,32,18,18,2,2280185,Treacherous (Taylor's Version),Taylor Swift,spotify:track:3S7HNKPakdwNEBFIVTL6dZ,Taylor Swift,2021-11-12
+2021-11-13,global,33,46,27,13,2255506,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),"Amaarae, Kali Uchis, MOLIY",spotify:track:15HMh4yxdf4wyxSZSlOgGZ,0207 Def Jam,2021-09-16
+2021-11-13,global,34,49,24,28,2252216,Toxic,BoyWithUke,spotify:track:2gQPv5jvVPqU2a9HhMNO1v,Republic Records,2021-10-29
+2021-11-13,global,35,40,4,23,2245230,Moth To A Flame (with The Weeknd),"Swedish House Mafia, The Weeknd",spotify:track:2gpWyfu7eZ01zzncHpxOtA,Republic Records,2022-04-15
+2021-11-13,global,36,50,2,219,2153357,Kiss Me More (feat. SZA),"Doja Cat, SZA",spotify:track:3DarAbFujv6eYNliUTyqtz,Kemosabe Records/RCA Records,2021-06-25
+2021-11-13,global,37,54,7,40,2151727,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),"Tainy, Bad Bunny, Julieta Venegas",spotify:track:4gzsuuZypVbxs0Af1LSZyB,Insolito LLC,2021-10-05
+2021-11-13,global,38,57,30,16,2141769,Enemy (with JID) - from the series Arcane League of Legends,"Imagine Dragons, JID, Arcane, League of Legends",spotify:track:1r9xUipOqoNwggBpENDsvJ,KIDinaKORNER/Interscope Records,2021-10-28
+2021-11-13,global,39,53,1,233,2137342,MONTERO (Call Me By Your Name),Lil Nas X,spotify:track:1SC5rEoYDGUK4NfG82494W,Columbia,2021-09-17
+2021-11-13,global,40,21,21,2,2107493,I Almost Do (Taylor's Version),Taylor Swift,spotify:track:2r9CbjYgFhtAmcFv1cSquB,Taylor Swift,2021-11-12
+2021-11-13,global,41,62,3,163,2059397,Yonaguni,Bad Bunny,spotify:track:2JPLbjOn0wPCngEot2STUS,Rimas Entertainment LLC.,2021-06-04
+2021-11-13,global,42,52,6,107,2025830,Happier Than Ever,Billie Eilish,spotify:track:4RVwu0g32PAqgUiJoXsdF8,Darkroom/Interscope Records,2021-07-30
+2021-11-13,global,43,28,28,2,2013354,Better Man (Taylor's Version) (From The Vault),Taylor Swift,spotify:track:4OmFmE0fzcMG6g0Y8p4eSD,Taylor Swift,2021-11-12
+2021-11-13,global,44,24,24,2,2008270,Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),"Taylor Swift, Ed Sheeran",spotify:track:7qEUFOVcxRI19tbT68JcYK,Taylor Swift,2021-11-12
+2021-11-13,global,45,60,14,73,1957511,Life Goes On,Oliver Tree,spotify:track:0eu4C55hL6x29mmeAjytzC,Atlantic Records,2021-05-28
+2021-11-13,global,46,26,26,2,1953687,Stay Stay Stay (Taylor's Version),Taylor Swift,spotify:track:7eQj6r5PIdYKEIZjucBMcq,Taylor Swift,2021-11-12
+2021-11-13,global,47,69,47,15,1950355,Do It To It,"ACRAZE, Cherish",spotify:track:20on25jryn53hWghthWWW3,Thrive Music,2021-08-20
+2021-11-13,global,48,29,29,2,1945407,The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version),"Taylor Swift, Gary Lightbody",spotify:track:0y6kdSRCVQhSsHSpWvTUm7,Taylor Swift,2021-11-12
+2021-11-13,global,49,61,26,79,1926161,Where Are You Now,"Lost Frequencies, Calum Scott",spotify:track:3uUuGVFu1V7jTQL60S1r8z,Epic Amsterdam,2021-07-30
+2021-11-13,global,50,35,35,2,1923788,Message In A Bottle (Taylor's Version) (From The Vault),Taylor Swift,spotify:track:3z6XUommYDWPHeFhmhhT6j,Taylor Swift,2021-11-12
+2021-11-13,global,51,64,1,716,1908695,Blinding Lights,The Weeknd,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,Republic Records,2020-03-20
+2021-11-13,global,52,38,38,2,1814172,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),"Taylor Swift, Chris Stapleton",spotify:track:4CkgMiMqZ5JzW9iYXSTMTL,Taylor Swift,2021-11-12
+2021-11-13,global,53,33,33,2,1789204,Holy Ground (Taylor's Version),Taylor Swift,spotify:track:7J4b3LVCIGO4CMBDFLPoP6,Taylor Swift,2021-11-12
+2021-11-13,global,54,36,36,2,1781166,Begin Again (Taylor's Version),Taylor Swift,spotify:track:05GsNucq8Bngd9fnd4fRa0,Taylor Swift,2021-11-12
+2021-11-13,global,55,75,7,103,1779103,Volví,"Aventura, Bad Bunny",spotify:track:2vmfvSoZBFAt9hhRoEByLi,Rimas Entertainment LLC,2021-08-03
+2021-11-13,global,56,78,2,177,1768401,Todo De Ti,Rauw Alejandro,spotify:track:5RwV8BvLfX5injfqYodke9,Sony Music Latin/Duars Entertainment,2021-12-10
+2021-11-13,global,57,37,37,2,1757293,Babe (Taylor's Version) (From The Vault),Taylor Swift,spotify:track:0v4z1tuZvn6LGknom9Qx7d,Taylor Swift,2021-11-12
+2021-11-13,global,58,68,28,55,1756931,Ghost,Justin Bieber,spotify:track:6I3mqTwhRpn34SLVafSH7G,RBMG/Def Jam,2021-03-19
+2021-11-13,global,59,67,23,75,1740209,Meet Me At Our Spot,"THE ANXIETY, WILLOW, Tyler Cole",spotify:track:07MDkzWARZaLEdKxo6yArG,"MSFTSMusic / Roc Nation Records, LLC",2020-03-13
+2021-11-13,global,60,72,29,27,1718591,Better Days (NEIKED x Mae Muller x Polo G),"NEIKED, Mae Muller, Polo G",spotify:track:6f5ExP43esnvdKPddwKXJH,Capitol Records UK / EMI,2021-09-24
+2021-11-13,global,61,58,4,9,1695880,ESCAPE PLAN,Travis Scott,spotify:track:4R67rQNSbbsR4TdUVOIdez,Cactus Jack/Epic,2021-11-05
+2021-11-13,global,62,83,37,66,1661965,Nostálgico,"Rvssian, Rauw Alejandro, Chris Brown",spotify:track:2BEcap3xJtmiPaHKyfQi4e,Sony Music Latin,2021-09-08
+2021-11-13,global,63,79,4,408,1652854,Levitating (feat. DaBaby),"Dua Lipa, DaBaby",spotify:track:5nujrmhLynf4yMoMtj8AQF,Warner Records,2020-03-27
+2021-11-13,global,64,41,41,2,1627660,The Lucky One (Taylor's Version),Taylor Swift,spotify:track:4e5ayHsOLJNLTGfjau2mEw,Taylor Swift,2021-11-12
+2021-11-13,global,65,55,55,2,1625517,The Very First Night (Taylor's Version) (From The Vault),Taylor Swift,spotify:track:6pYNq0ZwpPVazKzsqpf0G8,Taylor Swift,2021-11-12
+2021-11-13,global,66,43,43,2,1624302,Sad Beautiful Tragic (Taylor's Version),Taylor Swift,spotify:track:73qMN9bXy7MSPwwGfH3wQr,Taylor Swift,2021-11-12
+2021-11-13,global,67,77,7,177,1618941,traitor,Olivia Rodrigo,spotify:track:5CZ40GBx1sQ9agT82CLQCT,Olivia Rodrigo PS,2021-05-21
+2021-11-13,global,68,48,48,2,1602765,Come Back...Be Here (Taylor's Version),Taylor Swift,spotify:track:4pNApnaUWAL2J4KO2eqokq,Taylor Swift,2021-11-12
+2021-11-13,global,69,65,65,2,1600410,Bad Man (Smooth Criminal),Polo G,spotify:track:6RfhBNU1FPWTG7VESlfgOl,Columbia,2021-12-03
+2021-11-13,global,70,47,47,2,1595956,Starlight (Taylor's Version),Taylor Swift,spotify:track:7A2cNLRT0YJc1yjxHlKihs,Taylor Swift,2021-11-12
+2021-11-13,global,71,51,51,2,1582439,The Moment I Knew (Taylor's Version),Taylor Swift,spotify:track:0NRHj8hDwwmSPaA41o379r,Taylor Swift,2021-11-12
+2021-11-13,global,72,80,4,72,1582420,Way 2 Sexy (with Future & Young Thug),"Drake, Future, Young Thug",spotify:track:0k1WUmIRnG3xU6fvvDVfRG,OVO,2021-09-03
+2021-11-13,global,73,76,10,16,1573733,Overpass Graffiti,Ed Sheeran,spotify:track:4btFHqumCO31GksfuBLLv3,Atlantic Records UK,2021-10-25
+2021-11-13,global,74,100,48,8,1524242,Esqueça-Me Se For Capaz,"Marília Mendonça, Maiara & Maraisa",spotify:track:4qsOrxBv09HhNSpsgMRXdC,Som Livre,2021-10-14
+2021-11-13,global,75,56,56,2,1511092,Forever Winter (Taylor's Version) (From The Vault),Taylor Swift,spotify:track:3oGVx9RBmiYGv5ZCecWLkx,Taylor Swift,2021-11-12
+2021-11-13,global,76,81,11,72,1510362,Knife Talk (with 21 Savage ft. Project Pat),"Drake, 21 Savage, Project Pat",spotify:track:2BcMwX1MPV6ZHP4tUT9uq6,OVO,2021-09-03
+2021-11-13,global,77,84,39,34,1501974,I Love You So,The Walters,spotify:track:4SqWKzw0CbA05TGszDgMlc,Warner Records,2014-11-28
+2021-11-13,global,78,86,1,240,1491604,Peaches (feat. Daniel Caesar & Giveon),"Justin Bieber, Daniel Caesar, GIVĒON",spotify:track:4iJyoBOLtHqaGxP12qzhQI,RBMG/Def Jam,2021-03-19
+2021-11-13,global,79,85,33,446,1491196,Sweater Weather,The Neighbourhood,spotify:track:2QjOHCTQ1Jl3zawyYOpxh6,Columbia,2013-04-19
+2021-11-13,global,80,91,37,93,1457924,Don't Be Shy,"Tiësto, KAROL G",spotify:track:0bI7K9Becu2dtXK1Q3cZNB,Atlantic Records,2021-08-12
+2021-11-13,global,81,63,63,2,1450462,Blast Off,"Bruno Mars, Anderson .Paak, Silk Sonic",spotify:track:21afd9hCjpQ6lE5DPbcPHP,Aftermath Entertainment/Atlantic,2021-11-11
+2021-11-13,global,82,88,3,205,1442963,Save Your Tears (with Ariana Grande) (Remix),"The Weeknd, Ariana Grande",spotify:track:37BZB0z9T8Xu7U3e65qxFy,Republic Records,2021-04-23
+2021-11-13,global,83,74,31,32,1435745,Skate,"Bruno Mars, Anderson .Paak, Silk Sonic",spotify:track:71l8BEtJPXXlWbV6hhTHWK,Aftermath Entertainment/Atlantic,2021-11-11
+2021-11-13,global,84,59,59,2,1413979,Girl At Home (Taylor's Version),Taylor Swift,spotify:track:0DMVrlMUn01M0IcpDbwgu7,Taylor Swift,2021-11-12
+2021-11-13,global,85,66,66,2,1406268,Fly As Me,"Bruno Mars, Anderson .Paak, Silk Sonic",spotify:track:7HEWQj82REyDOKMAAlB9pc,Aftermath Entertainment/Atlantic,2021-11-11
+2021-11-13,global,86,99,34,111,1399888,Cúrame,Rauw Alejandro,spotify:track:3PwRuzdphgedcWVUOVYJ7I,Sony Music Latin/Duars Entertainment,2021-12-10
+2021-11-13,global,87,140,45,38,1383311,Coração Cachorro,"Avine Vinny, Matheus Fernandes",spotify:track:2RGIuYTsyyHoOCqW0krvNE,Sony Music Entertainment,2021-09-10
+2021-11-13,global,88,98,64,19,1374895,Salimo de Noche,"Tiago PZK, Trueno",spotify:track:6P096SaOzrgGxs8NWOfX7M,WM Chile,2021-10-21
+2021-11-13,global,89,71,71,2,1372780,After Last Night (with Thundercat & Bootsy Collins),"Bruno Mars, Anderson .Paak, Silk Sonic, Thundercat, Bootsy Collins",spotify:track:7ozvuHnA1zWzuTvReLChVL,Aftermath Entertainment/Atlantic,2021-11-11
+2021-11-13,global,90,90,7,57,1369846,Praise God,Kanye West,spotify:track:0WSEq9Ko4kFPt8yo3ICd6T,Rock The World/IDJ/Kanye LP7,2021-08-29
+2021-11-13,global,91,102,36,128,1364820,Sobrio,Maluma,spotify:track:4HzqWEdAbzcVFDv0pvxV4w,Sony Music Latin,2021-07-08
+2021-11-13,global,92,97,40,91,1342502,OUT OUT (feat. Charli XCX & Saweetie),"Joel Corry, Jax Jones, Charli xcx, Saweetie",spotify:track:6Dy1jexKYriXAVG6evyUTJ,Atlantic Records UK,2021-08-13
+2021-11-13,global,93,92,52,44,1338977,The Feels,TWICE,spotify:track:1qE8DOtw7zdXHMgZm20eLM,Republic Records - TWICE,2021-11-12
+2021-11-13,global,94,101,19,129,1335129,Volando - Remix,"Mora, Bad Bunny, Sech",spotify:track:0G2zPzWqVjR68iNPmx2TBe,Rimas Entertainment LLC,2021-07-08
+2021-11-13,global,95,95,4,728,1332803,Watermelon Sugar,Harry Styles,spotify:track:6UelLqGlWMcVH1E5c4H7lY,Columbia,2019-12-13
+2021-11-13,global,96,94,53,6,1331819,Enchanted,Taylor Swift,spotify:track:04S1pkp1VaIqjg8zZqknR5,Taylor Swift,2010-10-25
+2021-11-13,global,97,104,1,380,1326331,DÁKITI,"Bad Bunny, JHAYCO",spotify:track:4MzXwWMhyBbmu6hOcLVD49,Rimas Entertainment LLC.,2020-11-27
+2021-11-13,global,98,151,98,4,1308232,Ameaça,"Paulo Pires, Marcynho Sensação, ÉaBest, Mc Danny",spotify:track:4fSHADbZbhpZCT9oJpxwbP,Paulo Pires,2021-10-14
+2021-11-13,global,99,96,1,310,1307882,drivers license,Olivia Rodrigo,spotify:track:5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo PS,2021-05-21
+2021-11-13,global,100,107,42,72,1299817,Ley Seca,"JHAYCO, Anuel AA",spotify:track:3JCaq3KDSROg3TXhdiDa9n,N&E Entertainment LLC,2021-09-03
+2021-11-13,global,101,124,1,240,1299488,All I Want for Christmas Is You,Mariah Carey,spotify:track:0bYg9bo50gSsH3LtXe2SQn,Columbia,1994-10-28
+2021-11-13,global,102,73,73,2,1283153,State Of Grace (Acoustic Version) (Taylor's Version),Taylor Swift,spotify:track:5jAIouBES8LWMiriuNq170,Taylor Swift,2021-11-12
+2021-11-13,global,103,122,68,8,1282211,Todo Mundo Menos Você,"Marília Mendonça, Maiara & Maraisa",spotify:track:053zWWZDziDJd3U94x8RuP,Som Livre,2021-10-14
+2021-11-13,global,104,82,82,2,1258278,Put On A Smile,"Bruno Mars, Anderson .Paak, Silk Sonic",spotify:track:5U4laaEEChW8FOtZXCu8C7,Aftermath Entertainment/Atlantic,2021-11-11
+2021-11-13,global,105,145,91,17,1243391,GALOPA,"PEDRO SAMPAIO, Mc Danflin",spotify:track:2wG1R0uDFwyobcWzVssC1J,WM Brazil,2021-09-16
+2021-11-13,global,106,110,30,120,1231895,2055,Sleepy Hallow,spotify:track:4XvcHTUfIlWfyJTRG0aqlo,Winners Circle/RCA Records,2021-06-02
+2021-11-13,global,107,106,2,177,1226297,Butter,BTS,spotify:track:2bgTY4UwhfBYhGT4HUYStN,BIGHIT MUSIC,2022-06-10
+2021-11-13,global,108,113,78,76,1225159,Mon Amour - Remix,"zzoilo, Aitana",spotify:track:5TMLavqGRKNxgzMBrVpC9R,Universal Music Spain S.L.,2021-08-18
+2021-11-13,global,109,111,24,115,1202289,París,Ingratax,spotify:track:4bF2y8rR7GUjrd5LNEvej3,Room28,2021-07-09
+2021-11-13,global,110,70,70,2,1199607,Ronan (Taylor's Version),Taylor Swift,spotify:track:7nWui6jiMM2m9qFmET1Mtj,Taylor Swift,2021-11-12
+2021-11-13,global,111,119,9,170,1195576,Qué Más Pues?,"J Balvin, Maria Becerra",spotify:track:6D2TCm4nf5nxAcdGJ7w3QP,"Sueños Globales, LLC",2021-09-10
+2021-11-13,global,112,105,3,72,1185000,Fair Trade (with Travis Scott),"Drake, Travis Scott",spotify:track:40iJIUlhi6renaREYGeIDS,OVO,2021-09-03
+2021-11-13,global,113,117,35,31,1184613,Índigo,"Camilo, Evaluna Montaner",spotify:track:4knc1Fp3kbuq8bH2byOvLu,Sony Music Latin,2021-10-13
+2021-11-13,global,114,180,77,28,1182337,Revoada No Colchão,"Zé Felipe, Marcynho Sensação",spotify:track:4kGdnA7FzSVsXC29LPghej,Som Livre,2021-09-17
+2021-11-13,global,115,103,53,21,1178291,Ghost Town,Benson Boone,spotify:track:135Lf4Q0CzlMNfOxbEUsLH,"Night Street Records, Inc./Warner Records Inc.",2021-10-15
+2021-11-13,global,116,166,116,4,1170582,Ela Me Falou Que Quer Rave,"MC Levin, DJ Nikolas Alves, DJ Kaioken, DJ Gege",spotify:track:0JdkDCdrhMOaeXjIZdeBXN,Columbia,2021-10-25
+2021-11-13,global,117,114,8,175,1156919,I WANNA BE YOUR SLAVE,Måneskin,spotify:track:4pt5fDVTg5GhEvEtlz9dKk,RCA Records Label,2021-03-19
+2021-11-13,global,118,108,7,100,1155922,Take My Breath - Single Version,The Weeknd,spotify:track:6M3PsepEj5gyJoIi7Xvr7u,XO / Republic Records,2021-08-05
+2021-11-13,global,119,118,2,744,1148357,Don't Start Now,Dua Lipa,spotify:track:3PfIrDoz19wz7qK7tYeu62,Warner Records,2020-03-27
+2021-11-13,global,120,115,14,142,1142827,You Right,"Doja Cat, The Weeknd",spotify:track:0k4d5YPDr1r7FX77VdqWez,Kemosabe Records/RCA Records,2021-06-25
+2021-11-13,global,121,87,87,2,1135475,777,"Bruno Mars, Anderson .Paak, Silk Sonic",spotify:track:4zm8xZiV5FxJu62EHEvZaT,Aftermath Entertainment/Atlantic,2021-11-12
+2021-11-13,global,122,127,22,135,1133896,In Da Getto,"J Balvin, Skrillex",spotify:track:1q0PYXTbDsirp2l74ng6pn,"Sueños Globales, LLC",2021-09-10
+2021-11-13,global,123,176,60,77,1131835,Arranhão - Ao Vivo,Henrique & Juliano,spotify:track:4u06FbRh6FvV2FQZkouzCw,"Vida Nova Produções, sob licença exclusiva para Virgin Music Group",2021-12-10
+2021-11-13,global,124,112,4,1040,1129506,Someone You Loved,Lewis Capaldi,spotify:track:7qEHsqek33rTcFNT9PFqLf,Vertigo Berlin,2019-05-17
+2021-11-13,global,125,121,24,23,1119729,"SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)","DJ Snake, Ozuna, Megan Thee Stallion, LISA",spotify:track:6IPNp9PfaEqrzotY47TIWy,DJ Snake Music Productions Limited,2021-10-22
+2021-11-13,global,126,116,58,97,1110870,Dark Red,Steve Lacy,spotify:track:37y7iDayfwm3WXn5BiAoRk,Three Quarter,2017-02-20
+2021-11-13,global,127,131,1,461,1103454,Mood (feat. iann dior),"24kGoldn, iann dior",spotify:track:4jPy3l0RUwlUI9T5XHBW2m,Records/Columbia,2021-03-26
+2021-11-13,global,128,125,35,108,1097752,Get Into It (Yuh),Doja Cat,spotify:track:0W6I02J9xcqK8MtSeosEXb,Kemosabe Records/RCA Records,2021-06-25
+2021-11-13,global,129,120,2,347,1093143,Save Your Tears,The Weeknd,spotify:track:5QO79kh1waicV47BqGRL3g,Republic Records,2020-03-20
+2021-11-13,global,130,130,1,450,1087125,Dynamite,BTS,spotify:track:4saklk6nie3yiGePpBwUoc,BIGHIT MUSIC,2020-11-20
+2021-11-13,global,131,138,11,142,1078120,AM Remix,"Nio Garcia, J Balvin, Bad Bunny",spotify:track:05bfbizlM5AX6Mf1RRyMho,Flow La Movie,2021-06-24
+2021-11-13,global,132,129,88,36,1059848,Acapulco,Jason Derulo,spotify:track:3eJH2nAjvNXdmPfBkALiPZ,Atlantic Records,2021-09-03
+2021-11-13,global,133,128,19,53,1052994,Wildest Dreams (Taylor's Version),Taylor Swift,spotify:track:1Ov37jtRQ2YNAe8HzfczkL,Taylor Swift,2021-09-17
+2021-11-13,global,134,136,74,86,1042980,edamame,"bbno$, Rich Brian",spotify:track:5rW7qTn83sCKtqBoneJs63,bbno$,2021-10-08
+2021-11-13,global,135,142,15,1743,1040348,Believer,Imagine Dragons,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Kid Ina Korner / Interscope,2017-06-23
+2021-11-13,global,136,134,28,46,1040092,Rolling in the Deep,Adele,spotify:track:6IAZHEBUIGJ6NJKxxOBIEr,XL Recordings,2011-01-24
+2021-11-13,global,137,132,28,114,1035801,Don't Go Yet,Camila Cabello,spotify:track:1058fW9H3fZA6QjYCdOBad,Epic,2021-07-23
+2021-11-13,global,138,135,3,227,1027721,deja vu,Olivia Rodrigo,spotify:track:6HU7h9RYOaPRFeh0R3UeAr,Olivia Rodrigo PS,2021-05-21
+2021-11-13,global,139,-1,75,27,1021465,"Trava na Pose, Chama no Zoom, Da um Close","DJ Patrick Muniz, Dj Olliver, Mc Topre, Mc Rennan",spotify:track:0DsPj89zlY3Us7xb5cXK5h,Tratto Entretenimentos,2021-09-28
+2021-11-13,global,140,139,87,70,1017530,Jugaste y Sufrí,"Eslabon Armado, DannyLux",spotify:track:3NqBxTOMCJ3zW9CIP51td4,DEL Records,2020-12-18
+2021-11-13,global,141,133,19,1300,1016683,lovely (with Khalid),"Billie Eilish, Khalid",spotify:track:0u2P5u6lvoDfwTYjAADbn4,Darkroom,2018-04-19
+2021-11-13,global,142,126,46,55,1015400,Bored,Billie Eilish,spotify:track:04sN26COy28wTXYj3dMoiZ,Darkroom,2017-03-30
+2021-11-13,global,143,89,89,2,1015393,Silk Sonic Intro,"Bruno Mars, Anderson .Paak, Silk Sonic",spotify:track:5joiME4fAdb6FqrsXOs3u9,Aftermath Entertainment/Atlantic,2021-11-11
+2021-11-13,global,144,152,1,850,1008372,Dance Monkey,Tones And I,spotify:track:2N8m6CYs74qQO4mjVcXO30,Elektra (NEK),2021-07-16
+2021-11-13,global,145,137,88,27,998131,Sky,Playboi Carti,spotify:track:29TPjc8wxfz4XMn21O7VsZ,AWGE/Interscope Records,2020-12-25
+2021-11-13,global,146,93,93,2,995978,feel like shit,Tate McRae,spotify:track:2EBnvom1dTybtm75a3Xh1T,RCA Records Label,2022-05-27
+2021-11-13,global,147,123,11,271,991417,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,"Riton, Nightcrawlers, Mufasa & Hypeman, Mufasa, Dopamine",spotify:track:4cG7HUWYHBV6R6tHn1gxrl,Ministry of Sound Recordings,2021-01-15
+2021-11-13,global,148,150,3,1704,985580,Perfect,Ed Sheeran,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Atlantic Records UK,2017-03-03
+2021-11-13,global,149,156,149,5,980514,Una Vaina Loca,"Fuego, Manuel Turizo, Duki",spotify:track:2qEoAz0i6yEz5dPggABcLH,Chosen Few/ WK Records,2021-10-21
+2021-11-13,global,150,146,50,198,978533,Freaks,Surf Curse,spotify:track:7EkWXAI1wn8Ii883ecd9xr,Surf Curse,2021-05-15
+2021-11-13,global,151,155,122,50,976361,Blank Space,Taylor Swift,spotify:track:1u8c2t2Cy7UBoG4ArRcF5g,Taylor Swift,2014-01-01
+2021-11-13,global,152,154,8,383,969409,The Business,Tiësto,spotify:track:6f3Slt0GbA2bPZlz0aIFXN,Atlantic Records,2020-09-16
+2021-11-13,global,153,164,47,138,965946,Tiroteo - Remix,"Marc Seguí, Rauw Alejandro, Pol Granch",spotify:track:4OwhwvKESFtuu06dTgct7i,WEA Latina,2021-04-01
+2021-11-13,global,154,141,31,50,965320,Someone Like You,Adele,spotify:track:5lkpeJwmQKgY3bX2zChjxX,XL Recordings,2011-01-24
+2021-11-13,global,155,149,1,1122,963776,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",spotify:track:0RiRZpuVRbi7oqRdSMwhQY,Republic Records,2019-09-06
+2021-11-13,global,156,160,1,1751,958235,Shape of You,Ed Sheeran,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Atlantic Records UK,2017-03-03
+2021-11-13,global,157,147,68,66,952723,Happier Than Ever - Edit,Billie Eilish,spotify:track:32BeYxKPrig1LefHsC0Xuo,Darkroom/Interscope Records,2021-07-28
+2021-11-13,global,158,109,11,9,947202,MAFIA,Travis Scott,spotify:track:08F16baYbciTva9P4BvpiI,Cactus Jack/Epic,2021-11-05
+2021-11-13,global,159,163,2,303,947127,Astronaut In The Ocean,Masked Wolf,spotify:track:6E90gq0KO6FYZVOXx8kCcC,Elektra (NEK),2021-09-10
+2021-11-13,global,160,173,72,51,933316,SEJODIOTO,KAROL G,spotify:track:704LUEih663hiE3CnyUrFW,UMLE - Latino,2021-09-21
+2021-11-13,global,161,143,24,48,931801,When We Were Young,Adele,spotify:track:6O5TrlFWTYvznd9fMC0VvU,XL Recordings,2015-11-20
+2021-11-13,global,162,178,162,2,928420,Bar,"TINI, L-Gante",spotify:track:0lJE8f0lx8mUSfMyxeYpiC,Sony Music Latin,2021-11-11
+2021-11-13,global,163,144,22,79,927360,family ties (with Kendrick Lamar),"Baby Keem, Kendrick Lamar",spotify:track:3QFInJAm9eyaho5vBzxInN,Columbia,2021-09-10
+2021-11-13,global,164,171,34,133,923441,Love Tonight - Edit,Shouse,spotify:track:6OufwUcCqo81guU2jAlDVP,Hell Beach,2025-07-04
+2021-11-13,global,165,153,17,724,920152,Before You Go,Lewis Capaldi,spotify:track:2gMXnyrvIjhVBUZwvLZDMP,Vertigo Berlin,2019-11-22
+2021-11-13,global,166,159,10,1557,919548,goosebumps,Travis Scott,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Cactus Jack / Epic,2016-09-16
+2021-11-13,global,167,179,37,198,917582,Miénteme,"TINI, Maria Becerra",spotify:track:0cOa970mzTWAxKtltpkpLc,Sony Music Latin,2021-04-29
+2021-11-13,global,168,161,33,10,914094,"Anuel AA: Bzrp Music Sessions, Vol. 46/66","Bizarrap, Anuel AA",spotify:track:1mrGEef8GuaEnDdw8J5BQp,DALE PLAY Records,2021-11-03
+2021-11-13,global,169,157,1,805,910152,Circles,Post Malone,spotify:track:21jGcNKet2qwijlDFuPiPb,Republic Records,2019-09-06
+2021-11-13,global,170,168,2,128,901376,Permission to Dance,BTS,spotify:track:5eXBXreN3d1zdj6Sa8dS0u,BIGHIT MUSIC,2021-07-23
+2021-11-13,global,171,-1,92,298,898695,Smells Like Teen Spirit,Nirvana,spotify:track:2Lz99y9ZH6btuLt9nPMuX6,Geffen,1991-09-26
+2021-11-13,global,172,162,12,177,895843,happier,Olivia Rodrigo,spotify:track:2tGvwE8GcFKwNdAXMnlbfl,Olivia Rodrigo PS,2021-05-21
+2021-11-13,global,173,167,103,90,895268,Dandelions,Ruth B.,spotify:track:2eAvDnpXP5W0cVtiI0PUxV,Columbia,2017-05-05
+2021-11-13,global,174,189,9,209,890492,Pareja Del Año,"Sebastian Yatra, Myke Towers",spotify:track:2rCbl9naJYhaxjLsfx88uM,UMLE - Latino,2021-04-16
+2021-11-13,global,175,158,56,9,889866,The Motto,"Tiësto, Ava Max",spotify:track:18asYwWugKjjsihZ0YvRxO,Atlantic Records,2021-11-04
+2021-11-13,global,176,172,1,387,888375,positions,Ariana Grande,spotify:track:35mvY5S1H3J2QZyna3TFe0,Republic Records,2020-10-30
+2021-11-13,global,177,-1,2,186,886452,Last Christmas,Wham!,spotify:track:2FRnf9qhLbvw8fu4IBXx78,Epic,1984-11-29
+2021-11-13,global,178,177,3,219,885079,RAPSTAR,Polo G,spotify:track:18vXApRmJSgQ6wG2ll9AOg,Columbia,2021-06-11
+2021-11-13,global,179,-1,10,1167,881335,Bohemian Rhapsody,Queen,spotify:track:4u7EnebtmKWzUH433cf5Qv,Columbia,1975-11-21
+2021-11-13,global,180,-1,43,64,873136,Una Nota,"J Balvin, Sech",spotify:track:7iqOIHHEmu6Vhw25GgQ2eA,"Sueños Globales, LLC",2021-09-10
+2021-11-13,global,181,170,71,215,872956,Another Love,Tom Odell,spotify:track:7jtQIBanIiJOMS6RyCx6jZ,ITNO/Columbia,2013-06-24
+2021-11-13,global,182,188,49,130,872630,Love Again,Dua Lipa,spotify:track:4rPkN1FMzQyFNP9cLUGIIB,Warner Records,2020-03-27
+2021-11-13,global,183,190,132,542,872102,Mr. Brightside,The Killers,spotify:track:003vvx7Niy0yvhvHt4a68B,Island Records,
+2021-11-13,global,184,183,2,1141,870681,Shallow,"Lady Gaga, Bradley Cooper",spotify:track:2VxeLyX666F8uXCJ0dZF8B,A Star is Born OST,2018-10-05
+2021-11-13,global,185,-1,154,11,863810,FEEL ME??,Trueno,spotify:track:4kELKaXaNP4EQR8Q8xNIID,2021 Sur Capital Records (por Tierra Agencia),2021-09-09
+2021-11-13,global,186,186,15,65,859620,LALISA,LISA,spotify:track:7uQZVznj0uQOGC9KhV2Mg6,YG Entertainment/Interscope Records,2021-09-10
+2021-11-13,global,187,-1,142,27,858807,masquerade,siouxxie sixxsta,spotify:track:0RYHqnmtNRfbYxP6Dn8Vse,Elektra (NEK),2021-11-11
+2021-11-13,global,188,174,92,323,858291,Yellow,Coldplay,spotify:track:3AJwUDP919kvQ9QcozQPxg,Parlophone UK,2000-07-10
+2021-11-13,global,189,193,128,18,858154,Careless Whisper - Remastered,George Michael,spotify:track:4jDmJ51x1o9NZB5Nxxc7gY,Sony Music CG,2024-10-18
+2021-11-13,global,190,-1,55,159,854856,Loco,"Justin Quiles, Chimbala, Zion & Lennox",spotify:track:6b2HYgqcK9mvktt4GxAu72,WEA Latina,2021-08-19
+2021-11-13,global,191,200,31,127,854805,Entre Nosotros,"Tiago PZK, LIT killah",spotify:track:6w8yBI2vthyN9UnwO4UBWb,WM Chile,2021-07-08
+2021-11-13,global,192,-1,190,2,852138,23 (with Ape Drums),"Randy Nota Loca, Ape Drums",spotify:track:4vv8wcnT04GHHbUCFBAiHF,Rimas Entertainment LLC.,2021-10-14
+2021-11-13,global,193,195,24,245,850667,The Nights,Avicii,spotify:track:0ct6r3EGTcMLPtrXHDvVjc,Pophouse Entertainment Group,2014-01-01
+2021-11-13,global,194,187,1,72,850286,Girls Want Girls (with Lil Baby),"Drake, Lil Baby",spotify:track:37Nqx7iavZpotJSDXZWbJ3,OVO,2021-09-03
+2021-11-13,global,195,175,51,170,849004,Leave Before You Love Me,"Marshmello, Jonas Brothers",spotify:track:4qu63nuBpdn0qHUHuObEj1,Marshmello,2021-05-21
+2021-11-13,global,196,165,40,35,848869,Love In The Dark,Adele,spotify:track:0DuWDLjriRPjDRoPgaCslY,XL Recordings,2015-11-20
+2021-11-13,global,197,192,76,21,848605,Nuestra Canción,"Monsieur Periné, Vicente Garcia",spotify:track:5reQI13tWWYDLMrGcUF4Mk,Monsieur Perine,2015-06-16
+2021-11-13,global,198,184,143,51,847413,Without Me,Eminem,spotify:track:7lQ8MOhq6IN2w8EYcFNSUk,Eminem Catalog PS,2002-05-26
+2021-11-13,global,199,191,42,236,843031,Talking to the Moon,Bruno Mars,spotify:track:161DnLWsx1i3u1JT05lzqU,Elektra (NEK),2010-05-11
+2021-11-13,global,200,-1,83,50,840015,Bala Love,"Mc Anjim, Dj Lv Mdp, DJ PH DA SERRA",spotify:track:48Ll1C6qAnP2UjnopQDh4a,Mc Anjim,2021-06-18

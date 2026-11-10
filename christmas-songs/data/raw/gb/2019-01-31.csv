@@ -1,0 +1,201 @@
+date,region,rank,previous_rank,peak_rank,days_on_chart,streams,track_name,artists,track_uri,labels,release_date
+2019-01-31,gb,1,1,1,14,667009,7 rings,Ariana Grande,spotify:track:14msK75pk3pA33pzPVNtBF,Republic Records,2019-02-08
+2019-01-31,gb,2,2,2,39,402924,Wow.,Post Malone,spotify:track:6MWtB6iiXyIwun0YzU6DFP,Republic Records,2019-09-06
+2019-01-31,gb,3,3,3,21,384616,Dancing With A Stranger (with Normani),"Sam Smith, Normani",spotify:track:6Qs4SXO9dwPj5GKvVOv8Ki,PLG - Capitol,2019-01-11
+2019-01-31,gb,4,4,1,119,382430,Sweet but Psycho,Ava Max,spotify:track:25sgk305KZfyuqVBQIahim,Atlantic Records,2020-09-18
+2019-01-31,gb,5,5,5,21,335593,Giant (with Rag'n'Bone Man),"Calvin Harris, Rag'n'Bone Man",spotify:track:5itOtNx0WxtJmi1TQ3RuRd,Columbia,2019-01-11
+2019-01-31,gb,6,6,6,14,304542,Don't Call Me Up,Mabel,spotify:track:5WHTFyqSii0lmT9R21abT8,Polydor Records,2019-01-18
+2019-01-31,gb,7,7,2,119,288169,Without Me,Halsey,spotify:track:5p7ujcrUXASCNwRaWNHR1C,Capitol Records,2020-01-17
+2019-01-31,gb,8,8,3,106,284628,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",spotify:track:3KkXRkHbMCARz0aVfEt68P,Universal Records,2018-12-14
+2019-01-31,gb,9,10,9,40,279040,Options,"NSG, Tion Wayne",spotify:track:2cytBOLpwFRX7J9URCrFIe,NSG Entertainment,2018-11-30
+2019-01-31,gb,10,38,10,2,272869,bury a friend,Billie Eilish,spotify:track:4NzMOnvSJVNKF7nw5NkXIP,Darkroom/Interscope Records,2019-03-29
+2019-01-31,gb,11,9,6,8,257080,MIDDLE CHILD,J. Cole,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,"Dreamville, Inc., Under exclusive license to Roc Nation Records",2019-01-23
+2019-01-31,gb,12,11,1,89,253509,"thank u, next",Ariana Grande,spotify:track:2rPE9A1vEgShuZxxzR2tZH,Republic Records,2019-02-08
+2019-01-31,gb,13,12,12,34,249177,Someone You Loved,Lewis Capaldi,spotify:track:2TIlqbIneP0ZY1O0EzYLlc,Vertigo Berlin,2018-11-08
+2019-01-31,gb,14,13,6,63,235710,Nothing Breaks Like a Heart (feat. Miley Cyrus),"Mark Ronson, Miley Cyrus",spotify:track:27rdGxbavYJeBphck5MZAF,Columbia,2018-11-30
+2019-01-31,gb,15,14,10,58,200493,Play,"Jax Jones, Olly Alexander (Years & Years)",spotify:track:29R1IMTTbDDA3VNlk6UEW5,Polydor Records,2018-11-28
+2019-01-31,gb,16,15,6,182,197389,SICKO MODE,Travis Scott,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Cactus Jack / Epic,2018-08-03
+2019-01-31,gb,17,16,12,63,192897,Going Bad (feat. Drake),"Meek Mill, Drake",spotify:track:2IRZnDFmlqMuOrYOLnZZyc,MMG/Atlantic,2018-11-30
+2019-01-31,gb,18,17,2,126,180847,Shallow,"Lady Gaga, Bradley Cooper",spotify:track:2VxeLyX666F8uXCJ0dZF8B,A Star is Born OST,2018-10-05
+2019-01-31,gb,19,18,5,111,171602,ZEZE (feat. Travis Scott & Offset),"Kodak Black, Offset, Travis Scott",spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z,Atlantic Records,2018-12-14
+2019-01-31,gb,20,23,18,107,164041,when the party's over,Billie Eilish,spotify:track:14JzyD6FlBD5z0wV5P07YI,Darkroom/Interscope Records,2019-03-29
+2019-01-31,gb,21,20,1,203,163557,Eastside (with Halsey & Khalid),"benny blanco, Halsey, Khalid",spotify:track:7FGq80cy8juXBCD2nrqdWU,Friends Keep Secrets/Interscope Records,2018-12-07
+2019-01-31,gb,22,19,10,21,162038,Lost in the Fire (feat. The Weeknd),"Gesaffelstein, The Weeknd",spotify:track:7wFybC8jBH3zE139OpCtpG,Columbia,2019-03-08
+2019-01-31,gb,23,21,8,105,161753,Ruin My Life,Zara Larsson,spotify:track:5tAa8Uaqr4VvA3693mbIhU,Epic/Record Company TEN,2021-03-05
+2019-01-31,gb,24,22,19,77,155713,Saturday Nights,Khalid,spotify:track:5kfNriitmkNE8mUbZ7gbq8,"Right Hand Music Group, LLC/RCA Records",2018-10-18
+2019-01-31,gb,25,25,23,7,148979,"Swan Song - From the Motion Picture ""Alita: Battle Angel""",Dua Lipa,spotify:track:5600nq7TiBraBX2jobyJ3l,Warner Records,2019-01-24
+2019-01-31,gb,26,27,11,229,144759,High Hopes,Panic! At The Disco,spotify:track:1rqqCSm0Qe4I9rUvWncaom,DCD2 / Fueled By Ramen,2018-06-22
+2019-01-31,gb,27,24,8,98,144711,Close To Me (with Diplo) (feat. Swae Lee),"Ellie Goulding, Diplo, Swae Lee",spotify:track:5JEx7HbmvHQQswJCsoo9rA,Polydor Records,2018-10-24
+2019-01-31,gb,28,26,26,28,143695,Undecided,Chris Brown,spotify:track:7uiBocndm12aKbsdnQ3Scx,Chris Brown Entertainment/RCA Records,2019-06-28
+2019-01-31,gb,29,28,1,315,141151,Shotgun,George Ezra,spotify:track:4ofwffwvvnbSkrMSCKQDaC,Columbia,2018-03-23
+2019-01-31,gb,30,32,1,120,139976,Funky Friday,"Dave, Fredo",spotify:track:01IQ4aQgOf0Kkq3a273hmO,Neighbourhood Records (UMG UK / UMUK),2018-10-04
+2019-01-31,gb,31,31,8,28,138259,18HUNNA (feat. Dave),"Headie One, Dave",spotify:track:0G1GIn5gGoe5iLHvVC5FM0,Relentless Records,2019-01-03
+2019-01-31,gb,32,30,1,168,137911,Happier,"Marshmello, Bastille",spotify:track:2dpaYNEQHiRxtZbfNsse99,Joytime Collective,2018-08-17
+2019-01-31,gb,33,33,32,66,136372,Leave Me Alone,Flipp Dinero,spotify:track:14mHfNsSHN0FbLftyjrV9g,Cinematic/Epic/We The Best,2018-09-04
+2019-01-31,gb,34,29,1,168,136279,Promises (with Sam Smith),"Calvin Harris, Sam Smith, Jessie Reyez",spotify:track:5N5k9nd479b1xpDZ4usjrg,Columbia,2018-08-17
+2019-01-31,gb,35,34,2,280,133357,Better Now,Post Malone,spotify:track:7dt6x5M1jzdTEt8oCbisTK,Republic Records,2018-04-27
+2019-01-31,gb,36,35,6,258,129633,Taste (feat. Offset),"Tyga, Offset",spotify:track:5IaHrVsrferBYDm0bDyABy,Last Kings Music / EMPIRE,2018-05-16
+2019-01-31,gb,37,36,22,132,127123,Mo Bamba,Sheck Wes,spotify:track:1xzBco0xcoJEDXktl7Jxrr,Cactus Jack Records/ G.O.O.D. Music/ Interscope Records,2018-10-05
+2019-01-31,gb,38,40,38,136,125792,Drip Too Hard (Lil Baby & Gunna),"Lil Baby, Gunna",spotify:track:78QR3Wp35dqAhFEc2qAGjE,"Quality Control Music/Young Stoner Life Records, a 300 Entertainment Label/Motown Records/Capitol Records",2018-10-05
+2019-01-31,gb,39,41,39,7,125454,i'm so tired...,"Lauv, Troye Sivan",spotify:track:7COXchtUOMd6uIT6HvmRaI,Lauv,2020-03-06
+2019-01-31,gb,40,37,13,139,125204,Better,Khalid,spotify:track:6zeeWid2sgw4lap2jV61PZ,"Right Hand Music Group, LLC/RCA Records",2018-10-18
+2019-01-31,gb,41,44,41,36,120479,Look Back at It,A Boogie Wit da Hoodie,spotify:track:3Ol2xnObFdKV9pmRD2t9x8,Highbridge the Label / Atlantic Records,2018-12-21
+2019-01-31,gb,42,43,4,257,120450,Lucid Dreams,Juice WRLD,spotify:track:285pBltuF7vW8TeWk8hdRR,Juice WRLD Mixtape / ISR P&D,2018-12-10
+2019-01-31,gb,43,39,3,256,119490,Body,"Loud Luxury, Brando",spotify:track:7K7MUBCnzgBAvMVW2RTWNs,Armada Music,2017-10-27
+2019-01-31,gb,44,48,44,21,118402,Nights Like This (feat. Ty Dolla $ign),"Kehlani, Ty Dolla $ign",spotify:track:7e4KQkp5ZR1gXCAalRjX6B,TSNMI / Atlantic,2019-02-22
+2019-01-31,gb,45,42,32,42,116846,Gun Lean,Russ Millions,spotify:track:4WYRFY0yFa2s1WeX0w84z6,Pressplay Records Ltd,2018-12-21
+2019-01-31,gb,46,46,26,77,113861,Rewrite The Stars (with James Arthur & Anne-Marie),"James Arthur, Anne-Marie",spotify:track:6mQLN3zRtAp6ovjusyYKrV,Atlantic Records,2018-10-25
+2019-01-31,gb,47,50,25,14,112160,Psych Out!,AJ Tracey,spotify:track:0935whoU2oTfWNaYdZ0rd4,AJ Tracey,2019-02-08
+2019-01-31,gb,48,45,1,336,111944,SAD!,XXXTENTACION,spotify:track:3ee8Jmje8o58CHK66QrVC2,"Bad Vibes Forever, LLC",2018-03-16
+2019-01-31,gb,49,47,5,400,111313,This Is Me,"Keala Settle, The Greatest Showman Ensemble",spotify:track:2xGjteMU3E1tkEPVFBO08U,Atlantic Records,2017-10-27
+2019-01-31,gb,50,49,38,136,110548,Advice,"Cadet, Deno",spotify:track:1fp2uoWXPca3mIdxRHIgQm,Underrated Legends,2018-09-14
+2019-01-31,gb,51,57,51,35,98422,Swervin (feat. 6ix9ine),"A Boogie Wit da Hoodie, 6ix9ine",spotify:track:1wJRveJZLSb1rjhnUHQiv6,Highbridge the Label / Atlantic Records,2018-12-21
+2019-01-31,gb,52,56,1,503,97047,rockstar (feat. 21 Savage),"Post Malone, 21 Savage",spotify:track:0e7ipj03S05BNilyu5bRzt,Republic Records,2018-04-27
+2019-01-31,gb,53,55,53,14,97020,Bally,"Swarmz, Tion Wayne",spotify:track:1AvLAAXMtq7IGi48x9TrD7,Black Butter,2019-01-18
+2019-01-31,gb,54,54,33,97,95478,Empty Space,James Arthur,spotify:track:1uru26I2JKd2mQZt0MDCUe,Columbia Local,2018-10-19
+2019-01-31,gb,55,51,11,49,95056,imagine,Ariana Grande,spotify:track:0todbbT9g5uQGbeFCiBf2F,Republic Records,2019-02-08
+2019-01-31,gb,56,58,2,65,94270,KIKA (feat. Tory Lanez),"6ix9ine, Tory Lanez",spotify:track:6Gy7rXB6Ku5vIWC7WGWsl3,"ScumGang Records / TenThousand Projects, LLC",
+2019-01-31,gb,57,53,10,24,93661,Longshot,Catfish and the Bottlemen,spotify:track:1Yi8XPnCPoimWwqxwm3uz9,Universal-Island Records Ltd.,2019-01-08
+2019-01-31,gb,58,74,52,269,93645,lovely,"Billie Eilish, Khalid",spotify:track:1NJcg626wLln4pGHpiV7mf,Darkroom,2017-08-11
+2019-01-31,gb,59,65,3,132,92943,Let You Love Me,Rita Ora,spotify:track:5Fla3zyOCcIRqrDoKLU0DP,Atlantic Records UK,2018-11-23
+2019-01-31,gb,60,52,3,285,92453,2002,Anne-Marie,spotify:track:2BgEsaKNfHUdlh97KmvFyo,Atlantic Records UK,2018-04-27
+2019-01-31,gb,61,61,20,132,91805,No Stylist (feat. Drake),"French Montana, Drake",spotify:track:04MLEeAMuV9IlHEsD8vF6A,Epic,2018-09-20
+2019-01-31,gb,62,70,25,108,91603,Bohemian Rhapsody,Queen,spotify:track:7tFiyTwD0nx5a1eklYtX2J,Columbia,1975-11-21
+2019-01-31,gb,63,68,8,112,90723,Thursday,Jess Glynne,spotify:track:3ji4bcQugJj5B6NRGYDNwP,Atlantic Records UK,2018-10-12
+2019-01-31,gb,64,64,12,400,90244,The Greatest Show,"Hugh Jackman, Keala Settle, Zac Efron, Zendaya, The Greatest Showman Ensemble",spotify:track:43ay9lQZ5rfNcOOHhRF2cM,Atlantic Records,2017-10-27
+2019-01-31,gb,65,71,1,216,89928,In My Feelings,Drake,spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ,Cash Money/Drake LP6,2018-06-29
+2019-01-31,gb,66,78,48,127,89869,Hold My Girl,George Ezra,spotify:track:42bbDWZ8WmXTH7PkYAlGLu,Columbia,2018-03-23
+2019-01-31,gb,67,60,3,286,89666,no tears left to cry,Ariana Grande,spotify:track:2qT1uLXPVPzGgFOx4jtEuo,Republic Records,2018-08-17
+2019-01-31,gb,68,69,50,89,89316,Baby (feat. MARINA & Luis Fonsi),"Clean Bandit, MARINA, Luis Fonsi",spotify:track:5XWCc9wQes7X5uyYH9h5JR,Atlantic Records UK,2018-11-30
+2019-01-31,gb,69,62,56,7,88616,Comfortable (feat. Dappy),"Yungen, Dappy",spotify:track:0bXcl7JnhraHGIqqilbQxI,RCA Records Label,2019-01-25
+2019-01-31,gb,70,73,1,376,87602,God's Plan,Drake,spotify:track:6DCZcSspjsKoFjzjrWoCdn,Cash Money/Drake LP6,2018-06-29
+2019-01-31,gb,71,67,11,146,87597,Back & Forth,"MK, Jonas Blue, Becky Hill",spotify:track:4M8x1TR36VMQMFMbGCdoyA,Columbia,2018-09-07
+2019-01-31,gb,72,76,6,400,86422,Rewrite The Stars,"Zac Efron, Zendaya",spotify:track:630sXRhIcfwr2e4RdNtjKN,Atlantic Records,2017-11-17
+2019-01-31,gb,73,59,59,19,86288,Hope,"The Chainsmokers, Winona Oak",spotify:track:4BiiOzZCrXEzHRLYcYFiD5,Disruptor Records/Columbia,2018-12-14
+2019-01-31,gb,74,75,12,182,85933,Be Alright,Dean Lewis,spotify:track:3EPXxR3ImUwfayaurPi3cm,Universal Music Australia Pty. Ltd.,2018-06-29
+2019-01-31,gb,75,66,6,192,85673,In My Mind,"Dynoro, GIGI D'AGOSTINO",spotify:track:0E9ZjEAyAwOXZ7wJC0PD33,Columbia/B1 Recordings,2018-06-08
+2019-01-31,gb,76,77,1,216,85132,Nonstop,Drake,spotify:track:0TlLq3lA83rQOYtrqBqSct,Cash Money/Drake LP6,2018-06-29
+2019-01-31,gb,77,63,1,112,84733,Woman Like Me (feat. Nicki Minaj),"Little Mix, Nicki Minaj",spotify:track:222B3aljXx6fFwKmFjuBED,Syco Music,2018-11-16
+2019-01-31,gb,78,72,13,145,84233,Just Got Paid (feat. French Montana),"Sigala, Ella Eyre, Meghan Trainor, French Montana",spotify:track:5CpkVOosLFc83LbwqO6hnI,Ministry of Sound Recordings,2018-09-28
+2019-01-31,gb,79,79,30,759,83237,Mr. Brightside,The Killers,spotify:track:7oK9VyNzrYvRFo7nQEYkWN,Island Records,
+2019-01-31,gb,80,80,3,278,82852,Moonlight,XXXTENTACION,spotify:track:0JP9xo3adEtGSdUEISiszL,"Bad Vibes Forever, LLC",2018-03-16
+2019-01-31,gb,81,84,1,300,82634,One Kiss (with Dua Lipa),"Calvin Harris, Dua Lipa",spotify:track:7ef4DlsgrMEH11cDZd32M6,Sony Music UK,2018-04-06
+2019-01-31,gb,82,81,1,299,82090,Nice For What,Drake,spotify:track:3CA9pLiwRIGtUBiMjbZmRw,Cash Money/Drake LP6,2018-06-29
+2019-01-31,gb,83,82,19,398,82020,A Million Dreams,"Ziv Zaifman, Hugh Jackman, Michelle Williams",spotify:track:0RoA7ObU6phWpqhlC9zH4Z,Atlantic Records,2017-12-08
+2019-01-31,gb,84,86,54,86,81002,Money,Cardi B,spotify:track:2GGMabyHXnJmjY6CXhhB2e,Atlantic/KSR,2018-10-23
+2019-01-31,gb,85,87,59,76,79320,Needed Time,Yxng Bane,spotify:track:1k65BavLispRXs7vzBuRLV,Disturbing London Records,2018-11-09
+2019-01-31,gb,86,85,11,125,78246,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)","DJ Snake, Selena Gomez, Ozuna, Cardi B",spotify:track:4w8niZpiMy6qz1mntFA5uM,"DJ Snake Music Productions Limited, under exclusive license to Geffen Records",2018-09-28
+2019-01-31,gb,87,94,34,79,77113,Grace,Lewis Capaldi,spotify:track:4eQBL0cuF3ismYCzBff2Ii,Vertigo Berlin,2018-09-21
+2019-01-31,gb,88,93,13,191,76821,Lost Without You,Freya Ridings,spotify:track:6EelrDeZGS0Z81NhXevtrJ,Good Soldier Records,2019-07-19
+2019-01-31,gb,89,83,35,25,76663,medicine,Bring Me The Horizon,spotify:track:3GHtEaicELsTViK08EXEQQ,RCA Records Label,2019-01-25
+2019-01-31,gb,90,96,7,493,75726,I Fall Apart,Post Malone,spotify:track:75ZvA4QfFiZvzhj2xkaWAh,Mercury Records/Republic Owned,2016-12-09
+2019-01-31,gb,91,90,5,146,75646,Electricity,"Silk City, Dua Lipa, Mark Ronson, Diplo",spotify:track:5N4erncE7kuUccm7zEmwzk,Columbia,2018-09-06
+2019-01-31,gb,92,91,11,111,75623,MIA,"Bad Bunny, Drake",spotify:track:116H0KvKr2Zl4RPuVBruDO,Rimas Entertainment LLC.,2018-12-23
+2019-01-31,gb,93,88,5,167,75424,breathin,Ariana Grande,spotify:track:4OafepJy2teCjYJbvFE60J,Republic Records,2018-08-17
+2019-01-31,gb,94,92,25,89,75222,I Found You (with Calvin Harris),"benny blanco, Calvin Harris",spotify:track:1kQhi22kyluRCnIPAXtxEZ,Friends Keep Secrets/Interscope Records,2018-12-07
+2019-01-31,gb,95,89,7,270,74668,I'll Be There,Jess Glynne,spotify:track:73FebDuELlAEinHw1xWJCZ,Atlantic Records UK,2018-10-12
+2019-01-31,gb,96,97,14,250,74548,Praise The Lord (Da Shine) (feat. Skepta),"A$AP Rocky, Skepta",spotify:track:7ycWLEP1GsNjVvcjawXz3z,A$AP Worldwide/Polo Grounds Music/RCA Records,2018-05-25
+2019-01-31,gb,97,99,29,398,74537,Never Enough,Loren Allred,spotify:track:0Gl5s8IhMmQE5YQwM8Qx1J,Atlantic Records,2017-12-08
+2019-01-31,gb,98,95,2,376,74506,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)","Rudimental, Jess Glynne, Macklemore, Dan Caplen",spotify:track:20ZP3Om9DvDazXrNUC7WM2,Atlantic Records UK,2019-01-25
+2019-01-31,gb,99,98,8,292,74392,Youngblood,5 Seconds of Summer,spotify:track:2iUXsYOEPhVqEBwsqP70rE,Capitol,2018-06-15
+2019-01-31,gb,100,101,2,342,74195,Psycho (feat. Ty Dolla $ign),"Post Malone, Ty Dolla $ign",spotify:track:3swc6WTsr7rl9DqQKQA55C,Republic Records,2018-04-27
+2019-01-31,gb,101,103,61,77,73755,Perfect to Me,Anne-Marie,spotify:track:0DC7Zs2qvAbNK1owWQ4mlL,Atlantic Records UK,2018-11-02
+2019-01-31,gb,102,-1,66,24,73337,I Bet You Look Good On The Dancefloor,Arctic Monkeys,spotify:track:3DQVgcqaP3iSMbaKsd57l5,Domino Recording Co,2006-01-29
+2019-01-31,gb,103,109,21,244,72553,Butterflies (feat. Not3s),"AJ Tracey, Not3s",spotify:track:6DMXPshekQJR7uOMj0103y,AJ Tracey,2019-02-08
+2019-01-31,gb,104,105,103,6,72519,Boasty,"Wiley, Stefflon Don, Sean Paul, Idris Elba",spotify:track:7cz506PyIgh2bMN90Mc8Tn,BMG Rights Management (UK) Ltd.,2019-01-22
+2019-01-31,gb,105,102,2,481,72459,Jocelyn Flores,XXXTENTACION,spotify:track:7m9OqQk4RVRkw9JJdeAw96,Bad Vibes Forever / EMPIRE,2017-08-25
+2019-01-31,gb,106,100,6,375,72279,Paradise,George Ezra,spotify:track:38zwkK6TtTjIW9tpYBfZ3D,Columbia,2018-03-23
+2019-01-31,gb,107,104,10,244,71257,Girls Like You (feat. Cardi B) - Cardi B Version,"Maroon 5, Cardi B",spotify:track:7fa9MBXhVfQ8P8Df9OEbD8,Interscope Records*,2018-06-15
+2019-01-31,gb,108,108,28,116,70165,Polaroid,"Jonas Blue, Liam Payne, Lennon Stella",spotify:track:6XqvFyJGdUD5IWee02ARKU,Positiva,2018-11-09
+2019-01-31,gb,109,117,94,71,69867,idontwannabeyouanymore,Billie Eilish,spotify:track:40T5GIqQ1CegGm2PTEl8Bu,Darkroom,2017-08-11
+2019-01-31,gb,110,107,69,14,69456,Gun Lean Remix,"Russ Millions, Ms Banks, Lethal Bizzle, Taze, LD, Digga",spotify:track:4wNndJWTgjmPzko0RD0Z9q,Pressplay Records Ltd,2019-01-17
+2019-01-31,gb,111,111,8,300,69288,I Like It,"Cardi B, Bad Bunny, J Balvin",spotify:track:58q2HKrzhC3ozto2nDdN4z,Atlantic/KSR,2018-04-06
+2019-01-31,gb,112,106,60,40,69126,a lot,21 Savage,spotify:track:2t8yVaLvJ0RenpXUIAC52d,"Slaughter Gang, LLC/Epic Records",2018-12-21
+2019-01-31,gb,113,112,29,397,67691,The Other Side,"Hugh Jackman, Zac Efron",spotify:track:2cKovq3l6OJjhVVDbVKOsr,Atlantic Records,2017-12-08
+2019-01-31,gb,114,-1,79,4,67619,Little Lion Man,Mumford & Sons,spotify:track:2BBkIgdXLv5vyp1DR0wpQl,Universal-Island Records Ltd.,2009-01-01
+2019-01-31,gb,115,110,3,202,66942,God is a woman,Ariana Grande,spotify:track:5OCJzvD7sykQEKHH7qAC3C,Republic Records,2018-08-17
+2019-01-31,gb,116,113,22,214,66727,Best Life,"Hardy Caprio, One Acen",spotify:track:3wAyZwtyyLMsJNG7Mb17ky,EMI,2018-06-28
+2019-01-31,gb,117,-1,103,9,66375,Eye of the Tiger,Survivor,spotify:track:2HHtWyy5CgaQbC7XSoOb0e,Volcano,
+2019-01-31,gb,118,115,102,40,66132,Startender (feat. Offset and Tyga),"A Boogie Wit da Hoodie, Tyga, Offset",spotify:track:0jAfdqv18goRTUxm3ilRjb,Highbridge the Label / Atlantic Records,2018-12-21
+2019-01-31,gb,119,114,13,119,65941,1999,"Charli xcx, Troye Sivan",spotify:track:05mAIVLkIWc2d1UBYZBCp8,Atlantic Records UK,2018-10-05
+2019-01-31,gb,120,119,57,146,65086,Homerton B,Unknown T,spotify:track:6eVWOyIA4iacH7UaQ1TqzM,Universal-Island Records Ltd.,2018-08-19
+2019-01-31,gb,121,125,48,134,65084,Don't Stop Me Now,Queen,spotify:track:5T8EDUDqKcs6OSOwEsfqG7,Columbia,1978-11-10
+2019-01-31,gb,122,116,1,146,64634,I Love It (& Lil Pump),"Kanye West, Lil Pump",spotify:track:4S8d14HvHb70ImctNgVzQQ,"Getting Out Our Dreams, Inc./Def Jam Recordings",2018-09-07
+2019-01-31,gb,123,135,75,66,64208,bellyache,Billie Eilish,spotify:track:51NFxnQvaosfDDutk0tams,Darkroom,2017-02-24
+2019-01-31,gb,124,121,3,243,63102,Rise,"Jonas Blue, Jack & Jack",spotify:track:3KLygy1YWhmrQx0GRs7IOx,Positiva,2018-11-09
+2019-01-31,gb,125,124,8,165,62329,All I Am,Jess Glynne,spotify:track:5GNjiM8jZCgbqjHklAcT9e,Atlantic Records UK,2018-10-12
+2019-01-31,gb,126,126,2,257,61600,Solo (feat. Demi Lovato),"Clean Bandit, Demi Lovato",spotify:track:3NuK5xMlSlB6K2Qp16zf3h,Atlantic Records UK,2018-11-30
+2019-01-31,gb,127,118,103,14,61570,Keanu Reeves,Logic,spotify:track:25F6MWrnFBCXVnpN4n76EK,Def Jam Recordings,2019-05-10
+2019-01-31,gb,128,120,11,98,61537,Arms Around You (feat. Maluma & Swae Lee),"XXXTENTACION, Lil Pump, Swae Lee, Maluma",spotify:track:2LskIZrCeLxRvCiGP8gxlh,Warner Records,2018-10-25
+2019-01-31,gb,129,128,1,481,61093,Too Good At Goodbyes,Sam Smith,spotify:track:1mXVgsBdtIVeCLJnSnmtdV,PLG - Capitol,2017-11-03
+2019-01-31,gb,130,129,102,24,60782,Breathe,"CAMELPHAT, Cristoph, Jem Cooke",spotify:track:6TR0FGw4zhlGbQALN065AI,Ministry of Sound Recordings,2018-11-16
+2019-01-31,gb,131,122,6,263,60623,If You're Over Me,Olly Alexander (Years & Years),spotify:track:3IWDUiOsV0Q8XhQKJNxxML,Polydor Records,2019-02-14
+2019-01-31,gb,132,134,34,187,60173,Ay Caramba,"Stay Flee Get Lizzy, Fredo, Young T & Bugsey",spotify:track:0mfEHC4z5a7533o7VNOH2c,Universal-Island Records Ltd.,2018-07-26
+2019-01-31,gb,133,141,70,425,59343,Africa,TOTO,spotify:track:2374M0fQpWi3dLnB54qaLX,Columbia,1982-04-08
+2019-01-31,gb,134,137,44,735,59223,Wonderwall - Remastered,Oasis,spotify:track:5qqabIl2vWzo9ApSC317sa,Big Brother Recordings Ltd,
+2019-01-31,gb,135,136,42,393,59221,From Now On,"Hugh Jackman, The Greatest Showman Ensemble",spotify:track:3IkWmgGsXbsafrunwPojXO,Atlantic Records,2017-12-08
+2019-01-31,gb,136,123,75,22,59109,Hello My Love,Westlife,spotify:track:4EtIza2cKMmR2XP7idebXG,EMI,2019-01-10
+2019-01-31,gb,137,132,8,340,58755,Look Alive (feat. Drake),"BlocBoy JB, Drake",spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,Bloc Nation,2018-05-04
+2019-01-31,gb,138,127,112,20,58717,Grip,"Seeb, Bastille",spotify:track:3gicyfiEVMGONgzygpWjNT,Universal Music AS,2018-12-06
+2019-01-31,gb,139,146,1,567,58623,New Rules,Dua Lipa,spotify:track:2xJCMIJfcNYDc5iR0sAm2O,Warner Records,
+2019-01-31,gb,140,138,37,387,58418,Come Alive,"Hugh Jackman, Keala Settle, Daniel Everidge, Zendaya, The Greatest Showman Ensemble",spotify:track:5xNUR50KxswPRAvx7S163g,Atlantic Records,2017-12-08
+2019-01-31,gb,141,140,89,110,58297,Trip,Ella Mai,spotify:track:6CTWathupIiDs7U4InHnDA,10 Summers / Interscope PS,2018-10-12
+2019-01-31,gb,142,148,52,98,58223,Another One Bites The Dust,Queen,spotify:track:5vdp5UmvTsnMEMESIF2Ym7,Columbia,1980-06-27
+2019-01-31,gb,143,143,101,72,58067,"Pumpy (feat. Deno, Cadet, AJ & Swarmz)","Da Beatfreakz, Deno, Cadet, AJ, Swarmz",spotify:track:2r7kFZo4Ua517FKCW39fo9,Columbia,2018-10-26
+2019-01-31,gb,144,144,3,726,57755,Say You Won't Let Go,James Arthur,spotify:track:5uCax9HTNlzGybIStD3vDh,Columbia,2016-10-28
+2019-01-31,gb,145,154,100,61,57549,ocean eyes,Billie Eilish,spotify:track:2uIX8YMNjGMD7441kqyyNU,Darkroom,2016-11-18
+2019-01-31,gb,146,142,29,89,57385,It's Not Living (If It's Not With You),The 1975,spotify:track:3TgMcrV32NUKjEG2ujn9eh,Polydor Records,2018-11-30
+2019-01-31,gb,147,145,42,110,56926,Always Remember Us This Way,Lady Gaga,spotify:track:2rbDhOo9Fh61Bbu23T2qCk,A Star is Born OST,2018-10-05
+2019-01-31,gb,148,133,133,7,56706,Desire (Sub Focus & Dimension),"Sub Focus, Dimension",spotify:track:507UUx311ghfFTMSuHUeyS,EMI,2018-09-14
+2019-01-31,gb,149,-1,68,88,55894,Dog Days Are Over,Florence + The Machine,spotify:track:1YLJVmuzeM2YSUkCCaTNUB,Universal-Island Records Ltd.,
+2019-01-31,gb,150,150,1,752,55579,Shape of You,Ed Sheeran,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Atlantic Records UK,2017-03-03
+2019-01-31,gb,151,155,30,339,55483,Leave a Light On,Tom Walker,spotify:track:6lOWoTqVnAWXchddtTH31W,Relentless Records,2017-10-13
+2019-01-31,gb,152,164,125,33,55371,Losing It,FISHER,spotify:track:6ho0GyrWZN3mhi9zVRW7xi,Catch & Release,2018-07-13
+2019-01-31,gb,153,130,55,8,55351,mother tongue,Bring Me The Horizon,spotify:track:5IwUFTiNkarb5HEtNRtRtc,RCA Records Label,2019-01-25
+2019-01-31,gb,154,147,147,5,55087,Let Me Down Slowly,Alec Benjamin,spotify:track:2qxmye6gAegTMjLKEBoR3d,2018,2018-11-16
+2019-01-31,gb,155,157,20,368,54765,September,"Earth, Wind & Fire",spotify:track:1mqlc0vEP9mU1kZgTi6LIQ,Columbia/Legacy,1978-11-18
+2019-01-31,gb,156,152,19,121,54444,TOOTIMETOOTIMETOOTIME,The 1975,spotify:track:33DzKnwuBE6lfOiADwzd5E,Polydor Records,2018-11-30
+2019-01-31,gb,157,174,53,178,54405,Everywhere - 2017 Remaster,Fleetwood Mac,spotify:track:254bXAqt3zP6P50BdQvEsq,Rhino/Warner Records,1987-04-13
+2019-01-31,gb,158,163,2,399,54116,IDGAF,Dua Lipa,spotify:track:76cy1WJvNGJTj78UqeA5zr,Warner Records,
+2019-01-31,gb,159,139,50,27,53971,MANTRA,Bring Me The Horizon,spotify:track:060RNnzoMay3wKJek1faPc,RCA Records Label,2019-01-25
+2019-01-31,gb,160,169,160,4,53610,Bruises,Lewis Capaldi,spotify:track:7x91w5f5x7UayENcGAP5i2,Vertigo Berlin,2017-06-19
+2019-01-31,gb,161,131,67,614,53554,Do I Wanna Know?,Arctic Monkeys,spotify:track:3rq5w4bQGigXOfdN30ATJt,Domino Recording Co,2013-09-09
+2019-01-31,gb,162,153,2,650,53549,Unforgettable,"French Montana, Swae Lee",spotify:track:3B54sVLJ402zGa6Xm4YGNe,Bad Boy Entertainment/Epic Records,2017-07-14
+2019-01-31,gb,163,189,73,82,53267,Under Pressure (feat. David Bowie),"Queen, David Bowie",spotify:track:2fuCquhmrzHpu5xcA1ci9x,Columbia,1982-05-03
+2019-01-31,gb,164,162,31,687,52887,Believer,Imagine Dragons,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Kid Ina Korner / Interscope,2017-06-23
+2019-01-31,gb,165,158,54,104,52822,Wake Up in the Sky,"Gucci Mane, Bruno Mars, Kodak Black",spotify:track:2G1tXoGBaEMJ7FKGnkf6ud,Guwop Enterprises/Atlantic,2018-12-07
+2019-01-31,gb,166,168,21,637,52703,Congratulations,"Post Malone, Quavo",spotify:track:3a1lNhkSLSkpJE4MSHpDu9,Mercury Records/Republic Owned,2016-12-09
+2019-01-31,gb,167,167,3,149,52563,Lucky You (feat. Joyner Lucas),"Eminem, Joyner Lucas",spotify:track:60SdxE8apGAxMiRrpbmLY0,Eminem Catalog PS,2018-08-31
+2019-01-31,gb,168,156,71,36,52380,"Fire On Fire - From ""Watership Down""",Sam Smith,spotify:track:5rFj8OzffT0iggSjcBaeND,PLG - Capitol,2018-12-21
+2019-01-31,gb,169,194,23,634,52356,XO Tour Llif3,Lil Uzi Vert,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Generation Now/Atlantic,2017-08-25
+2019-01-31,gb,170,165,5,256,52005,changes,XXXTENTACION,spotify:track:7AFASza1mXqntmGtbxXprO,"Bad Vibes Forever, LLC",2018-03-16
+2019-01-31,gb,171,183,75,15,51655,Survival of the Fittest,Fredo,spotify:track:4juTIKk9eKvzl9KPcGhZW5,RCA/Since 93,2019-01-15
+2019-01-31,gb,172,160,160,3,51654,One Drink,Picture This,spotify:track:7vSm2hckpPHTrIHpqmqOze,Universal Records,2019-02-15
+2019-01-31,gb,173,171,4,251,51497,Jackie Chan,"Tiësto, Dzeko, Preme, Post Malone",spotify:track:4kWO6O1BUXcZmaxitpVUwp,Universal Music B.V.,2018-05-18
+2019-01-31,gb,174,166,2,528,51307,Havana (feat. Young Thug),"Camila Cabello, Young Thug",spotify:track:1rfofaqEpACxVEHIZBJe6W,Syco Music/Epic,2018-01-12
+2019-01-31,gb,175,161,51,682,51285,Naive,The Kooks,spotify:track:7BHPGtpuuWWsvE7cCaMuEU,Virgin Records,2006-01-01
+2019-01-31,gb,176,176,24,14,51253,Mile High (feat. Travis Scott & Metro Boomin),"James Blake, Travis Scott, Metro Boomin",spotify:track:4cQrSREMqBSvJ8ZzBZjVb8,Polydor Records,2019-01-18
+2019-01-31,gb,177,177,6,537,51122,Feel It Still,Portugal. The Man,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Atlantic Records,2017-06-16
+2019-01-31,gb,178,172,29,242,50761,Fine Girl,ZieZie,spotify:track:2H9zpvV33I48HE5jnNvWVB,RCA Records Label,2018-03-12
+2019-01-31,gb,179,195,179,2,50575,Thotiana,Blueface,spotify:track:3oh6SCCeLuXhFpEyepla6G,Fifth Amendment Entertainment/eOne Music,2018-12-18
+2019-01-31,gb,180,175,64,158,50448,SWISH,Tyga,spotify:track:55GiOwtxNajXVbpjjIzMnD,Last Kings Music / EMPIRE,2018-07-25
+2019-01-31,gb,181,173,50,162,50444,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston,spotify:track:2tUBqZG2AbRi7Q0BIrVrEj,Arista/Legacy,1987-06-02
+2019-01-31,gb,182,181,51,253,50386,London (feat. EO),"AJ, Deno, EO",spotify:track:0lstGz2advSx5VqY8olvzt,Columbia,2018-05-03
+2019-01-31,gb,183,-1,123,3,50364,I'm Like A Bird,Nelly Furtado,spotify:track:2tP7ZekzXfduShx8C6cbll,Geffen,
+2019-01-31,gb,184,178,92,271,50318,Budapest,George Ezra,spotify:track:7GJClzimvMSghjcrKxuf1M,Columbia,2014-06-30
+2019-01-31,gb,185,197,95,435,50296,Riptide,Vance Joy,spotify:track:7yq4Qj7cqayVTp3FF9CWbm,F-Stop Records/Atlantic,2014-09-08
+2019-01-31,gb,186,185,63,290,50224,Chasing Cars,Snow Patrol,spotify:track:11bD1JtSjlIgKgZG2134DZ,Polydor Records,2006-01-01
+2019-01-31,gb,187,-1,137,3,50205,Fireflies,Owl City,spotify:track:3DamFFqW32WihKkTVlwTYQ,Universal Records,2009-01-01
+2019-01-31,gb,188,182,18,550,50128,Don't Look Back In Anger - Remastered,Oasis,spotify:track:0UvCh63URrLFcPkKt99hHd,Big Brother Recordings Ltd,
+2019-01-31,gb,189,193,57,89,49769,nASSty,"D-Block Europe, Young Adz, Dirtbike Lb, Lil Pino",spotify:track:7bkzlEJJLmV6wMJIBhYAMi,D-Block Europe,2018-10-19
+2019-01-31,gb,190,170,77,14,49757,First Off (feat. Travis Scott),"Future, Travis Scott",spotify:track:3WRIaWsws011vHMd9uzPjG,Epic/Freebandz,2019-01-18
+2019-01-31,gb,191,149,67,7,49526,sugar honey ice & tea,Bring Me The Horizon,spotify:track:3Ddgh4ZwVIkLx0f4WeDFmo,RCA Records Label,2019-01-25
+2019-01-31,gb,192,180,2,309,49459,"All The Stars (with SZA) - From ""Black Panther: The Album""","Kendrick Lamar, SZA",spotify:track:3GCdLUSnKSMJhs4Tj6CV3s,Black Panther (TDE/DMG) PS,2018-02-09
+2019-01-31,gb,193,151,61,7,49393,in the dark,Bring Me The Horizon,spotify:track:4swVflM7KtMxzfHBWqPv9S,RCA Records Label,2019-01-25
+2019-01-31,gb,194,-1,73,75,49236,My Number,Foals,spotify:track:4c9WmjVlQMr0s1IjbYO52Z,Warner Records,2013-02-08
+2019-01-31,gb,195,188,5,668,49098,Perfect,Ed Sheeran,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Atlantic Records UK,2017-03-03
+2019-01-31,gb,196,159,56,7,48714,nihilist blues (feat. Grimes),"Bring Me The Horizon, Grimes",spotify:track:1JdWRS3PBZlSgKcPKcULtr,RCA Records Label,2019-01-25
+2019-01-31,gb,197,-1,158,4,48595,Three Little Birds,Bob Marley & The Wailers,spotify:track:1P49MJhU5vzttesFxw3dOM,Tuff Gong,1977-06-03
+2019-01-31,gb,198,-1,5,611,48307,Happier,Ed Sheeran,spotify:track:2RttW7RAu5nOAfq6YFvApB,Atlantic Records UK,2017-03-03
+2019-01-31,gb,199,-1,199,1,48194,Becky,JAY1,spotify:track:5WRLwhSkG5GCBteS77OXYd,GRM Daily Records,2018-11-25
+2019-01-31,gb,200,190,190,3,47805,Sensei,ZieZie,spotify:track:609xDejvWBG3sBUAfvKUTC,RCA Records Label,2018-12-06

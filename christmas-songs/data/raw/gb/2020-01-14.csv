@@ -1,0 +1,201 @@
+date,region,rank,previous_rank,peak_rank,days_on_chart,streams,track_name,artists,track_uri,labels,release_date
+2020-01-14,gb,1,1,1,29,476847,The Box,Roddy Ricch,spotify:track:0nbXyq5TXYPCO7pr3N8S4I,Atlantic Records,2019-12-06
+2020-01-14,gb,2,2,2,5,445957,Life Is Good (feat. Drake),"Future, Drake",spotify:track:5yY9lUy8nbvjM1Uyo1Uqoc,Epic/Freebandz,2020-01-10
+2020-01-14,gb,3,3,1,54,419167,Own It (feat. Ed Sheeran & Burna Boy),"Stormzy, Burna Boy, Ed Sheeran",spotify:track:4QPEwDdOMhY7rNS05mTyMR,Atlantic Records UK,2019-12-13
+2020-01-14,gb,4,4,1,166,418605,Dance Monkey,Tones And I,spotify:track:1rgnBhdG2JDFTbYkYRZAku,Elektra (NEK),2021-07-16
+2020-01-14,gb,5,5,2,77,372530,ROXANNE,Arizona Zervas,spotify:track:696DnlkuDOXcMAnKlTgXXK,Arizona Zervas,2019-10-10
+2020-01-14,gb,6,6,1,57,362829,Before You Go,Lewis Capaldi,spotify:track:2gMXnyrvIjhVBUZwvLZDMP,Vertigo Berlin,2019-11-22
+2020-01-14,gb,7,8,2,75,319318,Don't Start Now,Dua Lipa,spotify:track:6WrI0LAC5M1Rw2MnX2ZvEg,Warner Records,2019-10-31
+2020-01-14,gb,8,7,6,12,318320,Yummy,Justin Bieber,spotify:track:41L3O37CECZt3N7ziG2z7l,RBMG/Def Jam,2020-01-03
+2020-01-14,gb,9,10,1,382,289614,Someone You Loved,Lewis Capaldi,spotify:track:7qEHsqek33rTcFNT9PFqLf,Vertigo Berlin,2019-05-17
+2020-01-14,gb,10,12,2,62,288169,everything i wanted,Billie Eilish,spotify:track:3ZCTVFBt2Brf31RLEnCkWJ,Darkroom/Interscope Records,2019-11-13
+2020-01-14,gb,11,11,10,47,278569,Blinding Lights,The Weeknd,spotify:track:0sf12qNH5qcw8qpgymFOqD,Republic Records,2020-03-20
+2020-01-14,gb,12,9,7,40,278530,Adore You,Harry Styles,spotify:track:3jjujdWJ72nww5eGnfs2E7,Columbia,2019-12-13
+2020-01-14,gb,13,13,7,96,238699,Lose Control,"MEDUZA, Becky Hill, Goodboys",spotify:track:7CHi4DtfK4heMlQaudCuHK,Intercord,2019-10-11
+2020-01-14,gb,14,14,9,57,216045,Falling,Trevor Daniel,spotify:track:4TnjEaWOeW0eKTKIEvJyCa,Alamo,2020-03-26
+2020-01-14,gb,15,15,10,40,212967,My Oh My (feat. DaBaby),"Camila Cabello, DaBaby",spotify:track:3yOlyBJuViE2YSGn3nVE1K,Syco Music/Epic,2019-12-06
+2020-01-14,gb,16,16,16,5,210842,Still Disappointed,Stormzy,spotify:track:78XK5PDIKWiDKcgiLl1x0o,Atlantic Records UK,2020-01-10
+2020-01-14,gb,17,21,5,352,203313,Bruises,Lewis Capaldi,spotify:track:4Of7rzpRpV1mWRbhp5rAqG,Vertigo Berlin,2019-05-17
+2020-01-14,gb,18,17,2,151,202144,Ride It,Regard,spotify:track:2tnVG71enUj33Ic2nFN6kZ,Ministry of Sound Recordings,2019-07-26
+2020-01-14,gb,19,18,10,128,199167,hot girl bummer,blackbear,spotify:track:7aiClxsDWFRQ0Kzk5KI5ku,Alamo,2020-08-21
+2020-01-14,gb,20,19,1,138,195587,Circles,Post Malone,spotify:track:21jGcNKet2qwijlDFuPiPb,Republic Records,2019-09-06
+2020-01-14,gb,21,20,3,84,194015,Lose You To Love Me,Selena Gomez,spotify:track:4l0Mvzj72xxOpRrp6h8nHi,Interscope Records,2020-01-10
+2020-01-14,gb,22,22,22,107,189171,This Is Real (ft. Ella Henderson),"Jax Jones, Ella Henderson",spotify:track:1pRShUtGOG6ZP5fsnw9G4h,Polydor Records,2019-09-06
+2020-01-14,gb,23,28,1,292,181613,bad guy,Billie Eilish,spotify:track:2Fxmhks0bxGSBdJ92vM42m,Darkroom/Interscope Records,2019-03-29
+2020-01-14,gb,24,25,8,117,181002,Memories,Maroon 5,spotify:track:2b8fOow8UzyDFAE27YhOZM,Interscope Records*,2021-06-11
+2020-01-14,gb,25,24,1,264,179372,Vossi Bop,Stormzy,spotify:track:5DXKtoZLm31msT7tNGNHLG,Atlantic Records UK,2019-12-13
+2020-01-14,gb,26,23,11,94,178147,Pump It Up,Endor,spotify:track:0GiwV6v3AgJfdu59tj719Y,Defected Records,2019-09-13
+2020-01-14,gb,27,26,17,59,173772,Watermelon Sugar,Harry Styles,spotify:track:6UelLqGlWMcVH1E5c4H7lY,Columbia,2019-12-13
+2020-01-14,gb,28,27,4,35,172849,Audacity (feat. Headie One),"Stormzy, Headie One",spotify:track:6Oq4fiDzKaFMU89dTvM24u,Atlantic Records UK,2019-12-13
+2020-01-14,gb,29,29,18,5,165645,Rare,Selena Gomez,spotify:track:7HMmFQsKsljwTw8bS7lu19,Interscope Records,2020-01-10
+2020-01-14,gb,30,31,27,67,163177,Don't Rush (feat. Headie One),"Young T & Bugsey, Headie One",spotify:track:0PXukVbYpvz40KcEFKnIw7,Black Butter,2019-11-07
+2020-01-14,gb,31,30,4,187,161419,South of the Border (feat. Camila Cabello & Cardi B),"Ed Sheeran, Camila Cabello, Cardi B",spotify:track:4vUmTMuQqjdnvlZmAH61Qk,Atlantic Records UK,2019-07-12
+2020-01-14,gb,32,32,4,96,149465,Lights Up,Harry Styles,spotify:track:4jAIqgrPjKLTY9Gbez25Qb,Columbia,2019-12-13
+2020-01-14,gb,33,34,1,340,142769,Ladbroke Grove,AJ Tracey,spotify:track:7b4ky1LlQLFhXHmhZkFgqV,AJ Tracey,2019-02-08
+2020-01-14,gb,34,37,8,313,141720,Location (feat. Burna Boy),"Dave, Burna Boy",spotify:track:3z4CGd63tpUn9a6oQSG0CI,Neighbourhood Records (UMG UK / UMUK),2019-03-08
+2020-01-14,gb,35,33,33,67,140966,Gangsta,"Darkoo, One Acen",spotify:track:0KzhyaVtr2v4J9GVdMgCk0,EMI,2019-12-27
+2020-01-14,gb,36,38,3,256,138415,Hold Me While You Wait,Lewis Capaldi,spotify:track:60iSKGrGazRzICtMjADNSM,Vertigo Berlin,2019-05-17
+2020-01-14,gb,37,36,8,33,135222,Lessons,Stormzy,spotify:track:5iVGN1Th2DqyWVNIBM8Vwk,Atlantic Records UK,2019-12-13
+2020-01-14,gb,38,35,5,49,132312,Heartless,The Weeknd,spotify:track:57vxBYXtHMk6H1aD29V7PU,Republic Records,2020-03-20
+2020-01-14,gb,39,40,2,605,130110,Lucid Dreams,Juice WRLD,spotify:track:285pBltuF7vW8TeWk8hdRR,Juice WRLD Mixtape / ISR P&D,2018-12-10
+2020-01-14,gb,40,39,17,68,129518,Netflix & Chill,Fredo,spotify:track:31m40qBxoj4iMSnQLkq8nP,Since 93,2019-11-08
+2020-01-14,gb,41,42,8,112,129249,Turn Me On (feat. Vula),"Riton, Oliver Heldens, Vula",spotify:track:0qaWEvPkts34WF68r8Dzx9,Ministry of Sound Recordings,2019-09-13
+2020-01-14,gb,42,44,1,250,128612,I Don't Care (with Justin Bieber),"Ed Sheeran & Justin Bieber, Justin Bieber",spotify:track:0hVXuCcriWRGvwMV1r5Yn9,Atlantic Records UK,2019-07-12
+2020-01-14,gb,43,41,41,45,127630,No Idea,Don Toliver,spotify:track:3VyjsVV24RmBIbWJAeUJNu,We Run It Ent./Cactus Jack/Atlantic,2020-03-13
+2020-01-14,gb,44,43,4,67,127253,Must Be,J Hus,spotify:track:2n1oPHJVMPWJkjgHwVcksY,Black Butter,2019-11-08
+2020-01-14,gb,45,46,1,208,126660,Señorita,"Shawn Mendes, Camila Cabello",spotify:track:6v3KW9xbzN5yKLt9YKDYA2,Island Records,2019-06-19
+2020-01-14,gb,46,48,1,201,125188,Beautiful People (feat. Khalid),"Ed Sheeran, Khalid",spotify:track:70eFcWOvlMObDhURTqT4Fv,Atlantic Records UK,2019-07-12
+2020-01-14,gb,47,45,44,5,124676,Good News,Mac Miller,spotify:track:3ClBKQkKoaUQ6UOhe2xlJK,Warner Records,2020-01-09
+2020-01-14,gb,48,47,1,103,124516,HIGHEST IN THE ROOM,Travis Scott,spotify:track:3eekarcy7kvN4yt5ZFzltW,Cactus Jack/Epic,2019-10-04
+2020-01-14,gb,49,50,49,15,119843,SUGAR,BROCKHAMPTON,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,Question Everything/RCA Records,2019-08-23
+2020-01-14,gb,50,49,3,221,115382,Strike a Pose (feat. Aitch),"Young T & Bugsey, Aitch",spotify:track:23GvTfcGK454ppLsts3W44,Black Butter,2019-06-06
+2020-01-14,gb,51,54,51,5,111599,You should be sad,Halsey,spotify:track:2usxQITOSDqvkYiI0oIwao,Capitol Records,2020-01-17
+2020-01-14,gb,52,51,25,102,109629,Nice To Meet Ya,Niall Horan,spotify:track:3cphb8kdsjElYR7r5icK3H,Capitol Records,2019-10-04
+2020-01-14,gb,53,57,7,203,108154,Crown,Stormzy,spotify:track:4CEGyF5A5u5BjweVvkgCsn,Atlantic Records UK,2019-12-13
+2020-01-14,gb,54,52,3,453,107772,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",spotify:track:0RiRZpuVRbi7oqRdSMwhQY,Republic Records,2019-09-06
+2020-01-14,gb,55,58,12,454,107728,when the party's over,Billie Eilish,spotify:track:43zdsphuZLzwA9k4DJhU0I,Darkroom/Interscope Records,2019-03-29
+2020-01-14,gb,56,53,53,20,107275,Say So,Doja Cat,spotify:track:3Dv1eDb0MEgF93GpLXlucZ,Kemosabe Records/RCA Records,2019-11-07
+2020-01-14,gb,57,55,12,123,107170,Professor X,Dave,spotify:track:5wfyoR8XOkw45QRtFOoxyi,OVO Sound,2019-09-13
+2020-01-14,gb,58,56,20,53,104070,New Dior,"DigDat, D-Block Europe",spotify:track:4aRRxKxJbvIEjXWXB0l3w7,Columbia,2019-11-21
+2020-01-14,gb,59,61,59,20,103166,Ballin' (with Roddy Ricch),"Mustard, Roddy Ricch",spotify:track:3QzAOrNlsabgbMwlZt7TAY,10 Summers Records/Interscope Records,2019-06-28
+2020-01-14,gb,60,59,59,48,102607,BOP,DaBaby,spotify:track:6Ozh9Ok6h4Oi1wUSLtBseN,South Coast Music Group/Interscope Records,2019-09-27
+2020-01-14,gb,61,70,61,20,101815,Suicidal,YNW Melly,spotify:track:1iSqfoUFnQwV0QW1EfUit8,P2019,2019-11-22
+2020-01-14,gb,62,63,57,70,99809,Better Half of Me,Tom Walker,spotify:track:4VPlKUSjC9HdZdUbFZ0Y5y,Relentless Records,2019-11-08
+2020-01-14,gb,63,60,2,268,99653,3 Nights,Dominic Fike,spotify:track:0uI7yAKUf52Cn7y3sYyjiX,Columbia,2018-10-16
+2020-01-14,gb,64,65,1,166,98710,Taste (Make It Shake),Aitch,spotify:track:1xPpYbCaJWonL7IFXPDjON,Since 93,2019-09-06
+2020-01-14,gb,65,62,10,151,98209,Be Honest (feat. Burna Boy),"Jorja Smith, Burna Boy",spotify:track:3IWs9dAwTqN0EFhOIcBDfs,FAMM,2019-08-16
+2020-01-14,gb,66,66,28,1106,96950,Mr. Brightside,The Killers,spotify:track:7d8GetOsjbxYnlo6Y9e5Kw,Island Records,
+2020-01-14,gb,67,69,23,81,96242,Good as Hell (feat. Ariana Grande) - Remix,"Lizzo, Ariana Grande",spotify:track:07Oz5StQ7GRoygNLaXs2pd,Nice Life/Atlantic,
+2020-01-14,gb,68,67,5,200,96132,Higher Love,"Kygo, Whitney Houston",spotify:track:6oJ6le65B3SEqPwMRNXWjY,Kygo/RCA Records,2019-06-28
+2020-01-14,gb,69,64,26,118,95656,Wiley Flow,Stormzy,spotify:track:5Rbj8akony3l0NNM5TjH1F,Atlantic Records UK,2019-12-13
+2020-01-14,gb,70,68,10,133,95468,Buss Down (feat. ZieZie),"Aitch, ZieZie",spotify:track:584UC3Qpm8SbYd7aRWKREu,Since 93,2019-09-06
+2020-01-14,gb,71,80,56,5,93515,Eleven,Khalid,spotify:track:1ToprX3cpBiXoAe5eNSk74,"Right Hand Music Group, LLC/RCA Records",2020-01-09
+2020-01-14,gb,72,73,19,101,92609,Bandit (with YoungBoy Never Broke Again),"Juice WRLD, YoungBoy Never Broke Again",spotify:track:6Gg1gjgKi2AK4e0qzsR7sd,Grade A Productions/Interscope Records,2019-10-04
+2020-01-14,gb,73,72,23,53,92504,LOYAL (feat. Drake),"PARTYNEXTDOOR, Drake",spotify:track:5bvnqVuq7UFl0txSlHpsfS,OVO Sound,2020-03-26
+2020-01-14,gb,74,74,5,222,91213,Ransom,Lil Tecca,spotify:track:1lOe9qE0vR9zwWQAOk6CoO,Republic Records,2019-08-30
+2020-01-14,gb,75,82,9,425,90308,Grace,Lewis Capaldi,spotify:track:0pEkK8MqbmGSX7fT8WLMbR,Vertigo Berlin,2019-05-17
+2020-01-14,gb,76,75,3,180,88265,Sorry,Joel Corry,spotify:track:6y1UtRcHQU07aUs3oxZ8Yn,Atlantic Records UK,2019-04-05
+2020-01-14,gb,77,77,77,19,88247,Roses - Imanbek Remix,"SAINt JHN, Imanbek",spotify:track:24Yi9hE78yPEbZ4kxyoXAI,Columbia/B1 Recordings,2019-10-09
+2020-01-14,gb,78,78,61,72,87605,We Got Love,"Sigala, Ella Henderson",spotify:track:35mMXfym6C9VOTUVrcKKZp,Ministry of Sound Recordings,2019-11-01
+2020-01-14,gb,79,76,1,302,87095,Piece Of Your Heart,"MEDUZA, Goodboys",spotify:track:1DFD5Fotzgn6yYXkYsKiGs,Intercord,2019-02-01
+2020-01-14,gb,80,84,80,43,85517,July,Noah Cyrus,spotify:track:5a6pdCHlWS2ekOOQ70QnAr,Records/Columbia,2020-05-15
+2020-01-14,gb,81,79,49,12,84556,Savage,MIST,spotify:track:4MYPhAqmZxyBMBFknBhZHl,Warner Records,2020-01-03
+2020-01-14,gb,82,83,2,186,84529,Take Me Back to London (feat. Stormzy),"Ed Sheeran, Stormzy",spotify:track:1AI7UPw3fgwAFkvAlZWhE0,Atlantic Records UK,2019-07-12
+2020-01-14,gb,83,90,50,614,84266,lovely (with Khalid),"Billie Eilish, Khalid",spotify:track:0u2P5u6lvoDfwTYjAADbn4,Darkroom,2018-04-19
+2020-01-14,gb,84,81,7,68,83913,"Down Like That (feat. Rick Ross, Lil Baby & S-X)","KSI, S-X, Rick Ross, Lil Baby",spotify:track:4etKC4ngPKsQDHUMnYgV3A,BMG Rights Management (US) LLC,2020-05-22
+2020-01-14,gb,85,86,7,193,82662,So High (feat. Fredo),"MIST, Fredo",spotify:track:5aubXDnDNVKA5pS7EnR0mp,Warner Records,2019-07-04
+2020-01-14,gb,86,71,35,32,82019,Falling,Harry Styles,spotify:track:1ZMiCix7XSAbfAJlEZWMCp,Columbia,2019-12-13
+2020-01-14,gb,87,89,79,242,81921,ocean eyes,Billie Eilish,spotify:track:2uIX8YMNjGMD7441kqyyNU,Darkroom,2016-11-18
+2020-01-14,gb,88,88,6,178,80304,How Do You Sleep?,Sam Smith,spotify:track:6b2RcmUt1g9N9mQ3CbjX2Y,PLG - Capitol,2019-07-19
+2020-01-14,gb,89,85,38,19,80083,No Denying,J Hus,spotify:track:2kUIOTeKv8ZeT6vh9gh7RF,Black Butter,2019-12-27
+2020-01-14,gb,90,92,90,17,79328,If the World Was Ending (feat. Julia Michaels),"JP Saxe, Julia Michaels",spotify:track:2kJwzbxV2ppxnQoYw4GLBZ,Arista Records,2019-10-17
+2020-01-14,gb,91,87,13,19,78414,No Cellular Site,D-Block Europe,spotify:track:5A5HUdwGAlJLC9vg5Dyhio,D-Block Europe,2019-12-27
+2020-01-14,gb,92,97,2,472,77515,Shallow,"Lady Gaga, Bradley Cooper",spotify:track:2VxeLyX666F8uXCJ0dZF8B,A Star is Born OST,2018-10-05
+2020-01-14,gb,93,99,93,6,77509,High Fashion (feat. Mustard),"Roddy Ricch, Mustard",spotify:track:07KXEDMj78x68D884wgVEm,Atlantic Records,2019-12-06
+2020-01-14,gb,94,96,7,196,77423,Thiago Silva,"Dave, AJ Tracey",spotify:track:3DKCTIiJ97bS9TGiqcABjo,Tropics Records,2016-05-13
+2020-01-14,gb,95,94,3,359,76468,Don't Call Me Up,Mabel,spotify:track:5WHTFyqSii0lmT9R21abT8,Polydor Records,2019-01-18
+2020-01-14,gb,96,91,15,19,76439,HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,"Travis Scott, ROSALÍA, Lil Baby",spotify:track:7h0d2h0fUmzbs7zeFigJPn,Cactus Jack/Epic,2019-12-27
+2020-01-14,gb,97,93,15,150,75975,Both,Headie One,spotify:track:0SxjNrhMwarsbcgEy0pavJ,Relentless Records,2019-08-23
+2020-01-14,gb,98,95,37,52,75421,French Kisses (feat. Aitch),"ZieZie, Aitch",spotify:track:2jTBEuS8P9ZqVos9zecRzl,RCA Records Label,2019-11-22
+2020-01-14,gb,99,103,13,276,75119,Keisha & Becky - Remix,"Russ Millions, Tion Wayne, Aitch, Swarmz, Sav'o, JAY1",spotify:track:5wIjM4q7oIgiLqn8Qfoyxh,EMI,2019-04-11
+2020-01-14,gb,100,101,2,384,74933,Wow.,Post Malone,spotify:track:7xQAfvXzm3AkraOtGPWIZg,Republic Records,2019-09-06
+2020-01-14,gb,101,102,1,661,74846,Shotgun,George Ezra,spotify:track:4ofwffwvvnbSkrMSCKQDaC,Columbia,2018-03-23
+2020-01-14,gb,102,100,9,208,74656,Outnumbered,Dermot Kennedy,spotify:track:4Ta3PhWmY50ZLU1uhKFKPE,Riggins Recording Limited,2019-10-04
+2020-01-14,gb,103,98,76,31,74128,Futsal Shuffle 2020,Lil Uzi Vert,spotify:track:2Ec33AVlkTTq8BHFgBTdQs,Generation Now/Atlantic,2019-12-12
+2020-01-14,gb,104,108,8,386,72158,Options,"NSG, Tion Wayne",spotify:track:2cytBOLpwFRX7J9URCrFIe,NSG Entertainment,2018-11-30
+2020-01-14,gb,105,105,3,284,71101,Old Town Road (feat. Billy Ray Cyrus) - Remix,"Lil Nas X, Billy Ray Cyrus",spotify:track:2YpeDb67231RjR0MgVLzsG,Columbia,2019-06-21
+2020-01-14,gb,106,112,8,219,70841,No Guidance (feat. Drake),"Chris Brown, Drake",spotify:track:6XHVuErjQ4XNm6nDPVCxVX,Chris Brown Entertainment/RCA Records,2019-06-28
+2020-01-14,gb,107,110,1,358,70528,7 rings,Ariana Grande,spotify:track:6ocbgoVGwYJhOv1GgI9NsF,Republic Records,2019-02-08
+2020-01-14,gb,108,109,1,465,70434,Sweet but Psycho,Ava Max,spotify:track:25sgk305KZfyuqVBQIahim,Atlantic Records,2020-09-18
+2020-01-14,gb,109,125,2,322,69830,bury a friend,Billie Eilish,spotify:track:4SSnFejRGlZikf02HLewEF,Darkroom/Interscope Records,2019-03-29
+2020-01-14,gb,110,111,29,264,69563,Truth Hurts,Lizzo,spotify:track:5qmq61DAAOUaW8AUo8xKhh,Nice Life/Atlantic,2019-05-03
+2020-01-14,gb,111,106,106,5,69497,Splash,"Dappy, RussMB",spotify:track:57XM1QkO2zyCgcybsYd9Cj,Warner Records,2020-01-09
+2020-01-14,gb,112,107,61,52,69221,Into the Unknown,"Idina Menzel, AURORA",spotify:track:3Z0oQ8r78OUaHvGPiDBR3W,Walt Disney Records,2019-11-15
+2020-01-14,gb,113,122,113,5,69107,Better Off Without You (feat. Shift K3Y),"Becky Hill, Shift K3Y",spotify:track:3oIVK7arAFuUOCGafPLxSC,Polydor Records,2020-01-10
+2020-01-14,gb,114,118,15,199,68951,Post Malone (feat. RANI),"Sam Feldt, RANI",spotify:track:36orMWv2PgvnzXsd5CJ0yL,Spinnin' Remixes,2019-08-16
+2020-01-14,gb,115,113,9,207,68815,Money In The Grave (Drake ft. Rick Ross),"Drake, Rick Ross",spotify:track:5ry2OE6R2zPQFDO85XkgRb,Republic Records,2019-06-15
+2020-01-14,gb,116,117,1,463,68257,Funky Friday,"Dave, Fredo",spotify:track:01IQ4aQgOf0Kkq3a273hmO,Neighbourhood Records (UMG UK / UMUK),2018-10-04
+2020-01-14,gb,117,116,17,143,68072,Robbery,Juice WRLD,spotify:track:6Hj9jySrnFppAI0sEMCZpJ,Grade A Productions/Interscope Records,2019-03-08
+2020-01-14,gb,118,121,1,542,67069,Eastside (with Halsey & Khalid),"benny blanco, Halsey, Khalid",spotify:track:7FGq80cy8juXBCD2nrqdWU,Friends Keep Secrets/Interscope Records,2018-12-07
+2020-01-14,gb,119,115,5,192,67020,Goodbyes (feat. Young Thug),"Post Malone, Young Thug",spotify:track:6vBdBCoOhKHiYDDOcorfNo,Republic Records,2019-09-06
+2020-01-14,gb,120,114,101,38,66700,Million Bucks,JAY1,spotify:track:7y9nU0xWUltavzK8U1Fp5k,Parlophone UK,2019-12-05
+2020-01-14,gb,121,120,5,64,65050,Paper Cuts,Dave,spotify:track:1gFMfqyVSXHMgvRloH2gDL,Neighbourhood Records (UMG UK / UMUK),2019-11-07
+2020-01-14,gb,122,128,24,190,64467,Home P*ssy,D-Block Europe,spotify:track:0m0F4N1H65Pvb9FMnISgB2,D-Block Europe,2019-09-27
+2020-01-14,gb,123,123,70,52,64126,Yellow Hearts,Ant Saunders,spotify:track:2W4yABdLc4Jnds67Poi5Nl,Arista Records,2019-06-18
+2020-01-14,gb,124,127,78,117,64120,F.N,Lil Tjay,spotify:track:0RLLvYBopDwooCyvnTwgYu,Columbia,2019-10-11
+2020-01-14,gb,125,119,23,32,64092,Pop Boy (feat. Aitch),"Stormzy, Aitch",spotify:track:3KcSwX6pyUnfJ0YZlcJE7d,Atlantic Records UK,2019-12-13
+2020-01-14,gb,126,126,1,511,64070,Happier,"Marshmello, Bastille",spotify:track:2dpaYNEQHiRxtZbfNsse99,Joytime Collective,2018-08-17
+2020-01-14,gb,127,124,4,306,64017,Sucker,Jonas Brothers,spotify:track:22vgEDb5hykfaTwLuskFGD,Jonas Brothers Recording,2019-06-07
+2020-01-14,gb,128,130,7,292,63959,Fashion Week (feat. AJ Tracey & MoStack),"Steel Banglez, AJ Tracey, MoStack",spotify:track:78KyOmqWmqLkQcXO1cA7MO,Warner Records,2019-03-21
+2020-01-14,gb,129,132,28,56,63908,Jerry Sprunger (with T-Pain),"Tory Lanez, T-Pain",spotify:track:6JsHgIkMYHcbNtKfsal2Mg,Mad Love/Interscope Records,2019-11-15
+2020-01-14,gb,130,131,38,94,63643,Opp Thot,Poundz,spotify:track:4VRE2Ler8le7DUymvKepY1,Disturbing London Records,2019-10-11
+2020-01-14,gb,131,137,30,115,62485,God Is A Dancer (with Mabel),"Tiësto, Mabel",spotify:track:6fenHIxXuuzKB55wY4WCHP,Universal Music B.V.,2019-09-20
+2020-01-14,gb,132,133,1,842,62177,rockstar (feat. 21 Savage),"Post Malone, 21 Savage",spotify:track:0e7ipj03S05BNilyu5bRzt,Republic Records,2018-04-27
+2020-01-14,gb,133,104,67,57,61800,Up All Night,Khalid,spotify:track:1mpD5Q8IM32I4bF6eCpU74,"Right Hand Music Group, LLC/RCA Records",2019-11-14
+2020-01-14,gb,134,139,134,10,61576,One Night (feat. Raphaella),"MK, Sonny Fodera, Raphaella",spotify:track:4QUA94c3ycZm8dnpPih4sf,Columbia,2019-11-15
+2020-01-14,gb,135,138,29,322,60913,Kitchen Kings,D-Block Europe,spotify:track:1RJHieKAxYz9qbREvOR5eA,D-Block Europe,2019-02-15
+2020-01-14,gb,136,136,11,562,60613,High Hopes,Panic! At The Disco,spotify:track:1rqqCSm0Qe4I9rUvWncaom,DCD2 / Fueled By Ramen,2018-06-22
+2020-01-14,gb,137,129,129,4,60563,Disappointed,Stormzy,spotify:track:3s8WsvFrAbIQodgA2Hlphd,Atlantic Records UK,2020-01-09
+2020-01-14,gb,138,134,38,29,60285,One Second (feat. H.E.R.),"Stormzy, H.E.R.",spotify:track:2DdI0KRBuxV5Km0bkm67yh,Atlantic Records UK,2019-12-13
+2020-01-14,gb,139,142,108,20,60010,W (feat. Gunna),"Original Koffee, Gunna",spotify:track:6xW2g0c5uSoa3S6xk9eI4j,Columbia,2019-11-26
+2020-01-14,gb,140,144,44,1068,59811,Wonderwall - Remastered,Oasis,spotify:track:5qqabIl2vWzo9ApSC317sa,Big Brother Recordings Ltd,
+2020-01-14,gb,141,140,140,10,59706,VIBEZ,DaBaby,spotify:track:0fySG6A6qLE8IvDpayb5bM,South Coast Music Group/Interscope Records,2019-09-27
+2020-01-14,gb,142,147,3,1014,59631,Say You Won't Let Go,James Arthur,spotify:track:5uCax9HTNlzGybIStD3vDh,Columbia,2016-10-28
+2020-01-14,gb,143,168,8,117,59476,all the good girls go to hell,Billie Eilish,spotify:track:6IRdLKIyS4p7XNiP8r6rsx,Darkroom/Interscope Records,2019-03-29
+2020-01-14,gb,144,143,6,514,58592,SICKO MODE,Travis Scott,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Cactus Jack / Epic,2018-08-03
+2020-01-14,gb,145,149,1,599,58419,SAD!,XXXTENTACION,spotify:track:3ee8Jmje8o58CHK66QrVC2,"Bad Vibes Forever, LLC",2018-03-16
+2020-01-14,gb,146,135,31,69,58057,Look At Her Now,Selena Gomez,spotify:track:7eOkHIcaoUhngxxypM5Ajr,Interscope Records,2020-01-10
+2020-01-14,gb,147,148,34,73,57973,Floss (feat. MoStack & Not3s),"AJ Tracey, MoStack, Not3s",spotify:track:0LjXPuuttcYpND3IxAFww1,AJ Tracey,2019-10-25
+2020-01-14,gb,148,145,133,6,57673,"All I Want - From ""High School Musical: The Musical: The Series""","Olivia Rodrigo, Disney",spotify:track:4Yxc55NX3tAXC2mHRAhtcW,Walt Disney Records,2019-11-27
+2020-01-14,gb,149,146,16,29,57552,Big Michael,Stormzy,spotify:track:4zrQ9UIhPD6lL6VBISJ5aE,Atlantic Records UK,2019-12-13
+2020-01-14,gb,150,155,103,39,57243,Woah,Lil Baby,spotify:track:598yNsG1JFrGd4n2kMoz7F,Quality Control/Motown Records,2019-11-08
+2020-01-14,gb,151,152,25,451,57235,Bohemian Rhapsody,Queen,spotify:track:4u7EnebtmKWzUH433cf5Qv,Columbia,1975-11-21
+2020-01-14,gb,152,158,3,608,57014,2002,Anne-Marie,spotify:track:2BgEsaKNfHUdlh97KmvFyo,Atlantic Records UK,2018-04-27
+2020-01-14,gb,153,163,17,240,56982,Guten Tag,"Hardy Caprio, DigDat",spotify:track:0SErNy2An0gCpYFRUNWwNT,EMI,2019-05-02
+2020-01-14,gb,154,150,66,62,56699,The Last Time,The Script,spotify:track:600oiqLkQIJ85HvQGIQWvO,Columbia,2019-11-08
+2020-01-14,gb,155,164,21,573,56500,Butterflies (feat. Not3s),"AJ Tracey, Not3s",spotify:track:4hGsbyf3p0U5mlJTJwiUTq,AJ Tracey,2019-02-08
+2020-01-14,gb,156,160,12,471,56280,Be Alright,Dean Lewis,spotify:track:5qrSlOut2rNAWv3ubArkNy,Universal Music Australia Pty. Ltd.,2019-03-22
+2020-01-14,gb,157,159,2,603,56183,Better Now,Post Malone,spotify:track:7dt6x5M1jzdTEt8oCbisTK,Republic Records,2018-04-27
+2020-01-14,gb,158,154,54,715,56130,Riptide,Vance Joy,spotify:track:7yq4Qj7cqayVTp3FF9CWbm,F-Stop Records/Atlantic,2014-09-08
+2020-01-14,gb,159,151,151,3,55969,TOES (feat. Lil Baby & Moneybagg Yo),"DaBaby, Lil Baby, Moneybagg Yo",spotify:track:2FvD20Z8aoWIePi7PoN8sG,South Coast Music Group/Interscope Records,2019-09-27
+2020-01-14,gb,160,176,8,130,55807,One,Lewis Capaldi,spotify:track:5C1TucCRf4Vjjree1OItyv,Vertigo Berlin,2019-05-17
+2020-01-14,gb,161,161,55,415,55729,Can't Hold Us (feat. Ray Dalton),"Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton",spotify:track:3bidbhpOYeV4knp8AIu8Xn,Macklemore,2012-10-09
+2020-01-14,gb,162,169,5,323,55645,Just You and I,Tom Walker,spotify:track:03x2rVJRFUrvwlfxoHd9Mo,Relentless Records,2019-03-01
+2020-01-14,gb,163,156,26,199,55618,Lalala,"Y2K, bbno$",spotify:track:51Fjme0JiitpyXKuyQiCDo,Columbia,2019-06-28
+2020-01-14,gb,164,153,98,20,55579,Bando Ballads,M Huncho,spotify:track:2y2MzFmMGxWFGKmVYOAOyx,Universal-Island Records Ltd.,2019-12-25
+2020-01-14,gb,165,157,1,1073,55541,Shape of You,Ed Sheeran,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Atlantic Records UK,2017-03-03
+2020-01-14,gb,166,141,135,4,55289,Kraazy,Likybo,spotify:track:3s2Qd1rsWqbvOoxpFTRp8D,Mozzy Records,2017-07-14
+2020-01-14,gb,167,166,2,636,54890,Jocelyn Flores,XXXTENTACION,spotify:track:7m9OqQk4RVRkw9JJdeAw96,Bad Vibes Forever / EMPIRE,2017-08-25
+2020-01-14,gb,168,170,1,425,54841,"thank u, next",Ariana Grande,spotify:track:3e9HZxeyfWwjeyPAMmWSSQ,Republic Records,2019-02-08
+2020-01-14,gb,169,178,136,6,54460,Tip Toe (feat. A Boogie Wit da Hoodie),"Roddy Ricch, A Boogie Wit da Hoodie",spotify:track:6ztvsy3C6hPjVg9j4x1XKJ,Atlantic Records,2019-12-06
+2020-01-14,gb,170,162,118,67,54413,The Less I Know The Better,Tame Impala,spotify:track:6K4t31amVTZDgR3sKmwUJJ,Universal Music Australia Pty. Ltd.,2015-07-17
+2020-01-14,gb,171,173,20,184,54216,Good as Hell,Lizzo,spotify:track:3Yh9lZcWyKrK9GjbhuS0hR,Nice Life/Atlantic,2016-03-09
+2020-01-14,gb,172,172,1,631,53885,God's Plan,Drake,spotify:track:6DCZcSspjsKoFjzjrWoCdn,Cash Money/Drake LP6,2018-06-29
+2020-01-14,gb,173,184,173,2,53140,Maniac,Conan Gray,spotify:track:7hpJ9tATWb2vztlq99hERP,Republic Records,2020-03-20
+2020-01-14,gb,174,174,174,3,52983,Sum 2 Prove,Lil Baby,spotify:track:2u3EyuCqqV31woqGvO9LBz,Quality Control/Motown Records,2020-01-10
+2020-01-14,gb,175,165,30,28,52980,Superheroes,Stormzy,spotify:track:02t2kfqtYpPW8718hxnBcV,Atlantic Records UK,2019-12-13
+2020-01-14,gb,176,197,26,71,52948,when the party's over - Recorded at Spotify Studios NYC,Lewis Capaldi,spotify:track:6H7fWtwEUHVfTyZD7zeG4w,Vertigo Berlin,2019-06-12
+2020-01-14,gb,177,180,43,162,52764,Hate Me (with Juice WRLD),"Ellie Goulding, Juice WRLD",spotify:track:6kls8cSlUyHW2BUOkDJIZE,Polydor Records,2019-06-26
+2020-01-14,gb,178,189,26,124,52517,Liar,Camila Cabello,spotify:track:073ILU1C3APNRGF66VhtyA,Syco Music/Epic,2019-12-06
+2020-01-14,gb,179,-1,102,23,52375,Power Over Me,Dermot Kennedy,spotify:track:4tViDtaHuSLnh7HVJTrKhs,Riggins Recording Limited,2019-10-04
+2020-01-14,gb,180,167,110,11,52359,8 Style II,DigDat,spotify:track:3UC3SnoKo6NdxXNQOjNs14,Columbia,2020-01-01
+2020-01-14,gb,181,171,52,5,52192,Lost In Yesterday,Tame Impala,spotify:track:3eoNUm0LU9hATVVi9w4fM6,Universal Music Australia Pty. Ltd.,2020-02-14
+2020-01-14,gb,182,-1,26,135,52177,"fuck, i'm lonely","Lauv, Anne-Marie",spotify:track:1DEkGXICCGLjDF7C65KBFw,Lauv,2020-03-06
+2020-01-14,gb,183,175,25,26,52169,Rainfall (feat. Tiana Major9),"Stormzy, Tiana Major9",spotify:track:0AtMTwBF9dmAd2kjgKXpSu,Atlantic Records UK,2019-12-13
+2020-01-14,gb,184,183,18,821,52083,Don't Look Back In Anger - Remastered,Oasis,spotify:track:0UvCh63URrLFcPkKt99hHd,Big Brother Recordings Ltd,
+2020-01-14,gb,185,182,24,86,51927,"10,000 Hours (with Justin Bieber)","Dan + Shay, Justin Bieber",spotify:track:2wrJq5XKLnmhRXHIAf9xBa,Warner Records Nashville,2019-10-04
+2020-01-14,gb,186,186,128,43,51877,Candy,Doja Cat,spotify:track:1VJwtWR6z7SpZRwipI12be,MAU Records,2018-03-30
+2020-01-14,gb,187,199,56,173,51765,Dancing On My Own,Calum Scott,spotify:track:2BOqDYLOJBiMOXShCV1neZ,Capitol Records (US1A),2018-03-09
+2020-01-14,gb,188,181,24,353,51544,Swervin (feat. 6ix9ine),"A Boogie Wit da Hoodie, 6ix9ine",spotify:track:1wJRveJZLSb1rjhnUHQiv6,Highbridge the Label / Atlantic Records,2018-12-21
+2020-01-14,gb,189,191,16,238,51484,Murder on My Mind,YNW Melly,spotify:track:7eBqSVxrzQZtK2mmgRG6lC,P2018,2018-08-03
+2020-01-14,gb,190,185,8,746,51422,One Dance,"Drake, Wizkid, Kyla",spotify:track:1zi7xx7UVEFkmKfv06H8x0,Cash Money Records/Young Money Ent./Universal Rec.,2016-05-06
+2020-01-14,gb,191,188,67,736,51176,Do I Wanna Know?,Arctic Monkeys,spotify:track:3rq5w4bQGigXOfdN30ATJt,Domino Recording Co,2013-09-09
+2020-01-14,gb,192,194,2,263,50985,Disaster (feat. J Hus),"Dave, J Hus",spotify:track:3rqmxZNh2BRgJ3BiCPFTSG,Neighbourhood Records (UMG UK / UMUK),2019-03-08
+2020-01-14,gb,193,179,79,263,50954,Juice,Lizzo,spotify:track:0k664IuFwVP557Gnx7RhIl,Nice Life/Atlantic,2019-04-19
+2020-01-14,gb,194,187,1,553,50897,One Kiss (with Dua Lipa),"Calvin Harris, Dua Lipa",spotify:track:7ef4DlsgrMEH11cDZd32M6,Sony Music UK,2018-04-06
+2020-01-14,gb,195,193,3,329,50891,Dancing With A Stranger (with Normani),"Sam Smith, Normani",spotify:track:6Qs4SXO9dwPj5GKvVOv8Ki,PLG - Capitol,2019-01-11
+2020-01-14,gb,196,-1,53,488,50831,Everywhere - 2017 Remaster,Fleetwood Mac,spotify:track:254bXAqt3zP6P50BdQvEsq,Rhino/Warner Records,1987-04-13
+2020-01-14,gb,197,-1,13,93,50653,Forever,Lewis Capaldi,spotify:track:12OLyHDxt6dqlAybSPFBK3,Vertigo Berlin,2019-05-17
+2020-01-14,gb,198,-1,9,187,50644,Never Really Over,Katy Perry,spotify:track:5PYQUBXc7NYeI1obMKSJK0,Capitol Records,2019-05-31
+2020-01-14,gb,199,190,12,295,50632,Going Bad (feat. Drake),"Meek Mill, Drake",spotify:track:2IRZnDFmlqMuOrYOLnZZyc,MMG/Atlantic,2018-11-30
+2020-01-14,gb,200,195,121,25,50201,Change,Alz X 38,spotify:track:7zXa0myk5r5ex9QfXbjqhY,EMI,2019-08-25

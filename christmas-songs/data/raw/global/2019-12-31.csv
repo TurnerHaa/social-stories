@@ -1,0 +1,201 @@
+date,region,rank,previous_rank,peak_rank,days_on_chart,streams,track_name,artists,track_uri,labels,release_date
+2019-12-31,global,1,1,1,167,8928593,Dance Monkey,Tones And I,spotify:track:1rgnBhdG2JDFTbYkYRZAku,Elektra (NEK),2021-07-16
+2019-12-31,global,2,2,2,65,5525015,ROXANNE,Arizona Zervas,spotify:track:696DnlkuDOXcMAnKlTgXXK,Arizona Zervas,2019-10-10
+2019-12-31,global,3,3,3,54,4813524,Tusa,"KAROL G, Nicki Minaj",spotify:track:7k4t7uLgtOxPwTpFmtJNTY,TUSA - Karol G & Nicki Minaj,2019-11-07
+2019-12-31,global,4,6,4,61,4456157,Don't Start Now,Dua Lipa,spotify:track:6WrI0LAC5M1Rw2MnX2ZvEg,Warner Records,2019-10-31
+2019-12-31,global,5,7,1,124,4267326,Circles,Post Malone,spotify:track:21jGcNKet2qwijlDFuPiPb,Republic Records,2019-09-06
+2019-12-31,global,6,4,2,103,4267194,Memories,Maroon 5,spotify:track:2b8fOow8UzyDFAE27YhOZM,Interscope Records*,2021-06-11
+2019-12-31,global,7,8,7,33,4123408,Blinding Lights,The Weeknd,spotify:track:0sf12qNH5qcw8qpgymFOqD,Republic Records,2020-03-20
+2019-12-31,global,8,10,1,194,3965419,Señorita,"Shawn Mendes, Camila Cabello",spotify:track:6v3KW9xbzN5yKLt9YKDYA2,Island Records,2019-06-19
+2019-12-31,global,9,11,6,78,3895457,RITMO (Bad Boys For Life),"Black Eyed Peas, J Balvin",spotify:track:6cy3ki60hLwimwIje7tALf,Epic/We The Best,2019-10-12
+2019-12-31,global,10,5,5,45,3889825,Falling,Trevor Daniel,spotify:track:4TnjEaWOeW0eKTKIEvJyCa,Alamo,2020-03-26
+2019-12-31,global,11,14,1,278,3744964,bad guy,Billie Eilish,spotify:track:2Fxmhks0bxGSBdJ92vM42m,Darkroom/Interscope Records,2019-03-29
+2019-12-31,global,12,9,1,48,3391799,everything i wanted,Billie Eilish,spotify:track:3ZCTVFBt2Brf31RLEnCkWJ,Darkroom/Interscope Records,2019-11-13
+2019-12-31,global,13,12,4,357,3126631,Someone You Loved,Lewis Capaldi,spotify:track:7qEHsqek33rTcFNT9PFqLf,Vertigo Berlin,2019-05-17
+2019-12-31,global,14,13,13,20,3090110,The Box,Roddy Ricch,spotify:track:0nbXyq5TXYPCO7pr3N8S4I,Atlantic Records,2019-12-06
+2019-12-31,global,15,15,3,26,2827861,Adore You,Harry Styles,spotify:track:3jjujdWJ72nww5eGnfs2E7,Columbia,2019-12-13
+2019-12-31,global,16,21,12,117,2795908,Ride It,Regard,spotify:track:2tnVG71enUj33Ic2nFN6kZ,Ministry of Sound Recordings,2019-07-26
+2019-12-31,global,17,16,16,26,2699280,My Oh My (feat. DaBaby),"Camila Cabello, DaBaby",spotify:track:3yOlyBJuViE2YSGn3nVE1K,Syco Music/Epic,2019-12-06
+2019-12-31,global,18,18,9,131,2561544,hot girl bummer,blackbear,spotify:track:7aiClxsDWFRQ0Kzk5KI5ku,Alamo,2020-08-21
+2019-12-31,global,19,17,1,70,2530161,Lose You To Love Me,Selena Gomez,spotify:track:1HfMVBKM75vxSfsQ5VefZ5,Interscope Records,2020-01-10
+2019-12-31,global,20,19,6,41,2496428,Vete,Bad Bunny,spotify:track:5DxXgozhkPLgrbKFY91w0c,Rimas Entertainment LLC.,2019-11-21
+2019-12-31,global,21,29,1,236,2455299,I Don't Care (with Justin Bieber),"Ed Sheeran & Justin Bieber, Justin Bieber",spotify:track:0hVXuCcriWRGvwMV1r5Yn9,Atlantic Records UK,2019-07-12
+2019-12-31,global,22,20,5,45,2326562,Watermelon Sugar,Harry Styles,spotify:track:6UelLqGlWMcVH1E5c4H7lY,Columbia,2019-12-13
+2019-12-31,global,23,24,1,440,2315799,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",spotify:track:0RiRZpuVRbi7oqRdSMwhQY,Republic Records,2019-09-06
+2019-12-31,global,24,28,2,166,2244439,China,"Anuel AA, Daddy Yankee, KAROL G, J Balvin, Ozuna",spotify:track:2ksOAxtIxY8yElEWw8RhgK,"2019 Real Hasta La Muerte, LLC.",2019-07-19
+2019-12-31,global,25,26,3,187,2158876,Beautiful People (feat. Khalid),"Ed Sheeran, Khalid",spotify:track:70eFcWOvlMObDhURTqT4Fv,Atlantic Records UK,2019-07-12
+2019-12-31,global,26,23,1,89,2150309,HIGHEST IN THE ROOM,Travis Scott,spotify:track:3eekarcy7kvN4yt5ZFzltW,Cactus Jack/Epic,2019-10-04
+2019-12-31,global,27,27,21,96,2077694,BOP,DaBaby,spotify:track:6Ozh9Ok6h4Oi1wUSLtBseN,South Coast Music Group/Interscope Records,2019-09-27
+2019-12-31,global,28,22,4,5,2040997,HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,"Travis Scott, ROSALÍA, Lil Baby",spotify:track:7h0d2h0fUmzbs7zeFigJPn,Cactus Jack/Epic,2019-12-27
+2019-12-31,global,29,25,2,35,2030149,Heartless,The Weeknd,spotify:track:57vxBYXtHMk6H1aD29V7PU,Republic Records,2020-03-20
+2019-12-31,global,30,44,2,271,2024734,Old Town Road (feat. Billy Ray Cyrus) - Remix,"Lil Nas X, Billy Ray Cyrus",spotify:track:2YpeDb67231RjR0MgVLzsG,Columbia,2019-06-21
+2019-12-31,global,31,38,31,75,2014020,Lose Control,"MEDUZA, Becky Hill, Goodboys",spotify:track:7CHi4DtfK4heMlQaudCuHK,Intercord,2019-10-11
+2019-12-31,global,32,34,25,99,1947821,Fantasias,"Rauw Alejandro, Farruko",spotify:track:6mAN61JH0dzyZpWslS11jy,"(SME US Latin) Duars Entertainment, Corp. (2)",2019-08-29
+2019-12-31,global,33,40,1,348,1923446,7 rings,Ariana Grande,spotify:track:6ocbgoVGwYJhOv1GgI9NsF,Republic Records,2019-02-08
+2019-12-31,global,34,50,34,44,1861987,Ayy Macarena,Tyga,spotify:track:6LcauUZjF1eXQrgqMUecHX,Columbia/Last Kings Records,2019-11-13
+2019-12-31,global,35,32,17,42,1861973,Before You Go,Lewis Capaldi,spotify:track:2gMXnyrvIjhVBUZwvLZDMP,Vertigo Berlin,2019-11-22
+2019-12-31,global,36,31,31,31,1860506,No Idea,Don Toliver,spotify:track:3VyjsVV24RmBIbWJAeUJNu,We Run It Ent./Cactus Jack/Atlantic,2020-03-13
+2019-12-31,global,37,30,2,598,1853342,Lucid Dreams,Juice WRLD,spotify:track:285pBltuF7vW8TeWk8hdRR,Juice WRLD Mixtape / ISR P&D,2018-12-10
+2019-12-31,global,38,33,6,89,1852720,Bandit (with YoungBoy Never Broke Again),"Juice WRLD, YoungBoy Never Broke Again",spotify:track:6Gg1gjgKi2AK4e0qzsR7sd,Grade A Productions/Interscope Records,2019-10-04
+2019-12-31,global,39,37,7,166,1747155,How Do You Sleep?,Sam Smith,spotify:track:6b2RcmUt1g9N9mQ3CbjX2Y,PLG - Capitol,2019-07-19
+2019-12-31,global,40,71,24,67,1721236,Good as Hell (feat. Ariana Grande) - Remix,"Lizzo, Ariana Grande",spotify:track:07Oz5StQ7GRoygNLaXs2pd,Nice Life/Atlantic,
+2019-12-31,global,41,35,8,19,1719988,Futsal Shuffle 2020,Lil Uzi Vert,spotify:track:2Ec33AVlkTTq8BHFgBTdQs,Generation Now/Atlantic,2019-12-12
+2019-12-31,global,42,41,9,173,1711573,South of the Border (feat. Camila Cabello & Cardi B),"Ed Sheeran, Camila Cabello, Cardi B",spotify:track:4vUmTMuQqjdnvlZmAH61Qk,Atlantic Records UK,2019-07-12
+2019-12-31,global,43,42,16,187,1678283,LA CANCIÓN,"J Balvin, Bad Bunny",spotify:track:0fea68AdmYNygeTGI4RC18,Universal Music Latino / Rimas,2019-06-28
+2019-12-31,global,44,45,43,49,1654813,Hola - Remix,"Dalex, Lenny Tavárez, Chencho Corleone, Juhn, Dímelo Flow",spotify:track:5stPVcRqb4qixbafP9e8lt,Rich Music,2019-11-01
+2019-12-31,global,45,78,13,260,1632440,Piece Of Your Heart,"MEDUZA, Goodboys",spotify:track:1DFD5Fotzgn6yYXkYsKiGs,Intercord,2019-02-01
+2019-12-31,global,46,39,5,89,1623320,"10,000 Hours (with Justin Bieber)","Dan + Shay, Justin Bieber",spotify:track:2wrJq5XKLnmhRXHIAf9xBa,Warner Records Nashville,2019-10-04
+2019-12-31,global,47,43,4,194,1622338,Lalala,"Y2K, bbno$",spotify:track:51Fjme0JiitpyXKuyQiCDo,Columbia,2019-06-28
+2019-12-31,global,48,47,5,215,1607611,Callaita,"Bad Bunny, Tainy",spotify:track:2TH65lNHgvLxCKXM3apjxI,Rimas Entertainment LLC.,2019-05-31
+2019-12-31,global,49,53,41,61,1601092,Whine Up,"Nicky Jam, Anuel AA",spotify:track:2pWOMNQJW3g2zmGjP0Vkb0,Sony Music Latin,2019-11-01
+2019-12-31,global,50,49,49,14,1570584,Sigues Con El,"Arcángel, Sech, Dímelo Flow",spotify:track:7sQKy5vlPQllr0k9IjYJv3,Rimas Entertainment LLC.,2019-12-13
+2019-12-31,global,51,36,11,5,1509255,OUT WEST (feat. Young Thug),"JACKBOYS, Travis Scott, Young Thug",spotify:track:6gi6y1xwmVszDWkUqab1qw,Cactus Jack/Epic,2019-12-27
+2019-12-31,global,52,72,52,18,1486016,Roses - Imanbek Remix,"SAINt JHN, Imanbek",spotify:track:24Yi9hE78yPEbZ4kxyoXAI,Columbia/B1 Recordings,2019-10-09
+2019-12-31,global,53,68,2,502,1485462,Happier,"Marshmello, Bastille",spotify:track:2dpaYNEQHiRxtZbfNsse99,Joytime Collective,2018-08-17
+2019-12-31,global,54,52,18,87,1481864,Trampoline - with ZAYN,"SHAED, ZAYN",spotify:track:4HBvwhhYo7YiYXkUDrOHzS,Photo Finish Records,2019-12-27
+2019-12-31,global,55,61,2,460,1475248,Shallow,"Lady Gaga, Bradley Cooper",spotify:track:2VxeLyX666F8uXCJ0dZF8B,A Star is Born OST,2018-10-05
+2019-12-31,global,56,86,1,1088,1470746,Shape of You,Ed Sheeran,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Atlantic Records UK,2017-03-03
+2019-12-31,global,57,60,17,225,1465287,No Me Conoce - Remix,"JHAYCO, J Balvin, Bad Bunny",spotify:track:4R8BJggjosTswLxtkw8V7P,N&E Entertainment LLC,2019-05-24
+2019-12-31,global,58,62,21,131,1432185,Adicto (with Anuel AA & Ozuna),"Tainy, Anuel AA, Ozuna",spotify:track:3jbT1Y5MoPwEIpZndDDwVq,NEON16/Interscope Records,2019-08-22
+2019-12-31,global,59,67,19,75,1429472,Que Tire Pa Lante,Daddy Yankee,spotify:track:6RyaV7owmVU6fzEPE17sF1,El Cartel Records (EC3),2019-10-18
+2019-12-31,global,60,46,46,15,1403957,Suicidal,YNW Melly,spotify:track:1iSqfoUFnQwV0QW1EfUit8,P2019,2019-11-22
+2019-12-31,global,61,56,2,180,1399710,Goodbyes (feat. Young Thug),"Post Malone, Young Thug",spotify:track:6vBdBCoOhKHiYDDOcorfNo,Republic Records,2019-09-06
+2019-12-31,global,62,59,59,86,1375283,Ballin' (with Roddy Ricch),"Mustard, Roddy Ricch",spotify:track:3QzAOrNlsabgbMwlZt7TAY,10 Summers Records/Interscope Records,2019-06-28
+2019-12-31,global,63,92,5,459,1367118,Sweet but Psycho,Ava Max,spotify:track:25sgk305KZfyuqVBQIahim,Atlantic Records,2020-09-18
+2019-12-31,global,64,97,1,421,1359654,"thank u, next",Ariana Grande,spotify:track:3e9HZxeyfWwjeyPAMmWSSQ,Republic Records,2019-02-08
+2019-12-31,global,65,57,3,212,1354026,Ransom,Lil Tecca,spotify:track:1lOe9qE0vR9zwWQAOk6CoO,Republic Records,2019-08-30
+2019-12-31,global,66,66,24,40,1352072,Own It (feat. Ed Sheeran & Burna Boy),"Stormzy, Burna Boy, Ed Sheeran",spotify:track:4QPEwDdOMhY7rNS05mTyMR,Atlantic Records UK,2019-12-13
+2019-12-31,global,67,192,1,494,1334051,One Kiss (with Dua Lipa),"Calvin Harris, Dua Lipa",spotify:track:7ef4DlsgrMEH11cDZd32M6,Sony Music UK,2018-04-06
+2019-12-31,global,68,77,2,305,1318953,Sucker,Jonas Brothers,spotify:track:22vgEDb5hykfaTwLuskFGD,Jonas Brothers Recording,2019-06-07
+2019-12-31,global,69,109,2,577,1317328,Girls Like You (feat. Cardi B) - Cardi B Version,"Maroon 5, Cardi B",spotify:track:7fa9MBXhVfQ8P8Df9OEbD8,Interscope Records*,2018-06-15
+2019-12-31,global,70,75,1,373,1315015,Wow.,Post Malone,spotify:track:7xQAfvXzm3AkraOtGPWIZg,Republic Records,2019-09-06
+2019-12-31,global,71,99,8,200,1308311,Loco Contigo (feat. J. Balvin & Tyga),"DJ Snake, J Balvin, Tyga",spotify:track:6osaMSJh9NguagEDQcZaKx,DJ Snake Music Productions Limited,2019-07-25
+2019-12-31,global,72,116,1,336,1295195,Con Calma,"Daddy Yankee, Snow",spotify:track:5w9c2J52mkdntKOmRLeM2m,Craft Latino,2019-01-24
+2019-12-31,global,73,58,7,441,1292531,when the party's over,Billie Eilish,spotify:track:43zdsphuZLzwA9k4DJhU0I,Darkroom/Interscope Records,2019-03-29
+2019-12-31,global,74,55,18,19,1292112,Falling,Harry Styles,spotify:track:1ZMiCix7XSAbfAJlEZWMCp,Columbia,2019-12-13
+2019-12-31,global,75,133,75,33,1286718,Turn Me On (feat. Vula),"Riton, Oliver Heldens, Vula",spotify:track:0qaWEvPkts34WF68r8Dzx9,Ministry of Sound Recordings,2019-09-13
+2019-12-31,global,76,63,3,82,1284613,Lights Up,Harry Styles,spotify:track:4jAIqgrPjKLTY9Gbez25Qb,Columbia,2019-12-13
+2019-12-31,global,77,121,25,182,1264785,Higher Love,"Kygo, Whitney Houston",spotify:track:6oJ6le65B3SEqPwMRNXWjY,Kygo/RCA Records,2019-06-28
+2019-12-31,global,78,82,15,252,1262215,Truth Hurts,Lizzo,spotify:track:5qmq61DAAOUaW8AUo8xKhh,Nice Life/Atlantic,2019-05-03
+2019-12-31,global,79,81,10,495,1260114,Bohemian Rhapsody,Queen,spotify:track:4u7EnebtmKWzUH433cf5Qv,Columbia,1975-11-21
+2019-12-31,global,80,90,1,836,1248262,rockstar (feat. 21 Savage),"Post Malone, 21 Savage",spotify:track:0e7ipj03S05BNilyu5bRzt,Republic Records,2018-04-27
+2019-12-31,global,81,187,47,411,1237865,Don't Stop Me Now,Queen,spotify:track:5T8EDUDqKcs6OSOwEsfqG7,Columbia,1978-11-10
+2019-12-31,global,82,113,28,277,1217237,Con Altura,"ROSALÍA, J Balvin, El Guincho",spotify:track:2qG5sZ7Si6sdK74qLxedYM,Columbia,2019-03-28
+2019-12-31,global,83,48,10,5,1216424,GANG GANG,"JACKBOYS, Sheck Wes",spotify:track:6uJONCdr2rC65BNmCnTBWK,Cactus Jack/Epic,2019-12-27
+2019-12-31,global,84,76,47,68,1209013,Aventura,"Lunay, Anuel AA, Ozuna",spotify:track:37zdqI4r1gswIzczSBkRon,round2media - LaFamilia,2019-10-25
+2019-12-31,global,85,-1,57,10,1208002,Can't Hold Us (feat. Ray Dalton),"Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton",spotify:track:3bidbhpOYeV4knp8AIu8Xn,Macklemore,2012-10-09
+2019-12-31,global,86,152,9,294,1206182,Don't Call Me Up,Mabel,spotify:track:5WHTFyqSii0lmT9R21abT8,Polydor Records,2019-01-18
+2019-12-31,global,87,69,43,55,1203018,Yellow Hearts,Ant Saunders,spotify:track:2W4yABdLc4Jnds67Poi5Nl,Arista Records,2019-06-18
+2019-12-31,global,88,65,19,619,1198477,lovely (with Khalid),"Billie Eilish, Khalid",spotify:track:0u2P5u6lvoDfwTYjAADbn4,Darkroom,2018-04-19
+2019-12-31,global,89,119,8,556,1196506,High Hopes,Panic! At The Disco,spotify:track:1rqqCSm0Qe4I9rUvWncaom,DCD2 / Fueled By Ramen,2018-06-22
+2019-12-31,global,90,83,81,42,1167896,Blanco,J Balvin,spotify:track:2rc7BkzO8qepMFAxHtOrXc,UMLE - Latino,2019-11-15
+2019-12-31,global,91,159,1,651,1161545,God's Plan,Drake,spotify:track:6DCZcSspjsKoFjzjrWoCdn,Cash Money/Drake LP6,2018-06-29
+2019-12-31,global,92,-1,4,168,1159083,Wake Me Up,Avicii,spotify:track:4h8VwCb1MTGoLKueQ1WgbD,Pophouse Entertainment Group,2013-09-16
+2019-12-31,global,93,51,16,5,1158786,WHAT TO DO? (feat. Don Toliver),"JACKBOYS, Travis Scott, Don Toliver",spotify:track:4AO1XhrgJczQ9bNVxdfKQe,Cactus Jack/Epic,2019-12-27
+2019-12-31,global,94,84,55,117,1158296,Indeciso,"Reik, J Balvin, Lalo Ebratt",spotify:track:59s0s39NFWScuHDbHytI14,Indeciso,2019-08-23
+2019-12-31,global,95,64,53,9,1147002,Psycho,Red Velvet,spotify:track:3CYH422oy1cZNoo0GTG1TK,SM Entertainment,2019-12-23
+2019-12-31,global,96,93,2,514,1132263,SICKO MODE,Travis Scott,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Cactus Jack / Epic,2018-08-03
+2019-12-31,global,97,70,27,201,1130224,It's You,Ali Gatie,spotify:track:5DqdesEfbRyOlSS3Tf6c29,Warner Records,2019-11-08
+2019-12-31,global,98,95,19,138,1127842,"Yo x Ti, Tu x Mi","ROSALÍA, Ozuna",spotify:track:7BlBVFwvbWvcwNcUarQmjk,Columbia,2019-08-15
+2019-12-31,global,99,73,24,48,1112681,Mean It,"Lauv, LANY",spotify:track:3GRSqlALWISqLeNncZMbpX,Lauv,2020-03-06
+2019-12-31,global,100,128,59,108,1112155,Que Calor,"Major Lazer, J Balvin, El Alfa, Diplo",spotify:track:1G2CAJeP7rCwOZjlSJ0Zw3,Mad Decent,2020-10-23
+2019-12-31,global,101,54,14,5,1101300,Had Enough (feat. Quavo & Offset),"Don Toliver, Offset, Quavo",spotify:track:2jrAaawDRCn1JjeouxAyDN,We Run It Ent./Cactus Jack/Atlantic,2020-03-13
+2019-12-31,global,102,151,55,118,1092098,Roller,Apache 207,spotify:track:6hw1Sy9wZ8UCxYGdpKrU6M,Four Music Local,2019-10-25
+2019-12-31,global,103,89,50,103,1091788,Quizas,"Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tavárez, Feid, Wisin, Zion",spotify:track:5Id5B3dxJZhPcV9GzgYZZe,Rich Music,2019-10-11
+2019-12-31,global,104,108,82,19,1090384,Liberdade Provisória - Live - Ibirapuera / 2019,Henrique & Juliano,spotify:track:1vG3YuKRYqPwTmNmYgqkpg,"Vida Nova Produções, sob licença exclusiva para Virgin Music Group",2020-01-31
+2019-12-31,global,105,174,1,428,1086127,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)","DJ Snake, Selena Gomez, Ozuna, Cardi B",spotify:track:0KoiMHhqKLoL4xM54rcWYY,DJ Snake Music Productions Limited,2019-07-25
+2019-12-31,global,106,164,2,1013,1079412,Closer,"The Chainsmokers, Halsey",spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,Disruptor Records/Columbia,2016-07-29
+2019-12-31,global,107,96,24,145,1072584,Tutu,"Camilo, Pedro Capó",spotify:track:1nocRtwyNPVtGcIJqfgdzZ,Sony Music Latin,2019-08-09
+2019-12-31,global,108,107,6,353,1067704,Dancing With A Stranger (with Normani),"Sam Smith, Normani",spotify:track:6Qs4SXO9dwPj5GKvVOv8Ki,PLG - Capitol,2019-01-11
+2019-12-31,global,109,74,11,166,1062782,Robbery,Juice WRLD,spotify:track:6Hj9jySrnFppAI0sEMCZpJ,Grade A Productions/Interscope Records,2019-03-08
+2019-12-31,global,110,94,85,35,1062105,Bellaquita - Remix,"Dalex, Lenny Tavárez, Anitta, NATTI NATASHA, Farruko, Justin Quiles",spotify:track:1Xnn1TPyr5h0hpRAT4B4EA,Rich Music,2019-11-22
+2019-12-31,global,111,100,44,95,1055995,Si Te Vas,"Sech, Ozuna",spotify:track:6Y4PDQv4XjYjHLeLmvyOt0,Rich Music,2019-09-26
+2019-12-31,global,112,87,4,198,1055526,Money In The Grave (Drake ft. Rick Ross),"Drake, Rick Ross",spotify:track:5ry2OE6R2zPQFDO85XkgRb,Republic Records,2019-06-15
+2019-12-31,global,113,106,7,236,1052851,Soltera (Remix),"Lunay, Daddy Yankee, Bad Bunny",spotify:track:4t9a07PAghtQMRAIP9FQ7Z,round2media - LaFamilia,2019-10-25
+2019-12-31,global,114,79,25,145,1048004,Hate Me (with Juice WRLD),"Ellie Goulding, Juice WRLD",spotify:track:6kls8cSlUyHW2BUOkDJIZE,Polydor Records,2019-06-26
+2019-12-31,global,115,91,15,1062,1043053,Believer,Imagine Dragons,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Kid Ina Korner / Interscope,2017-06-23
+2019-12-31,global,116,85,3,452,1042559,Without Me,Halsey,spotify:track:5p7ujcrUXASCNwRaWNHR1C,Capitol Records,2020-01-17
+2019-12-31,global,117,98,34,94,1027260,VIBEZ,DaBaby,spotify:track:0fySG6A6qLE8IvDpayb5bM,South Coast Music Group/Interscope Records,2019-09-27
+2019-12-31,global,118,80,80,46,1026412,If the World Was Ending (feat. Julia Michaels),"JP Saxe, Julia Michaels",spotify:track:2kJwzbxV2ppxnQoYw4GLBZ,Arista Records,2019-10-17
+2019-12-31,global,119,105,43,45,1008703,Up All Night,Khalid,spotify:track:1mpD5Q8IM32I4bF6eCpU74,"Right Hand Music Group, LLC/RCA Records",2019-11-14
+2019-12-31,global,120,102,20,116,1000343,Liar,Camila Cabello,spotify:track:073ILU1C3APNRGF66VhtyA,Syco Music/Epic,2019-12-06
+2019-12-31,global,121,144,5,407,998072,Calma - Remix,"Pedro Capó, Farruko",spotify:track:5iwz1NiezX7WWjnCgY5TH4,Sony Music Latin,2018-10-05
+2019-12-31,global,122,112,8,205,989609,No Guidance (feat. Drake),"Chris Brown, Drake",spotify:track:6XHVuErjQ4XNm6nDPVCxVX,Chris Brown Entertainment/RCA Records,2019-06-28
+2019-12-31,global,123,104,8,67,987798,Look At Her Now,Selena Gomez,spotify:track:4yI3HpbSFSgFZtJP2kDe5m,Interscope Records,2020-01-10
+2019-12-31,global,124,139,10,322,981338,Talk (feat. Disclosure),"Khalid, Disclosure",spotify:track:6TqXcAFInzjp0bODyvrWEq,"Right Hand Music Group, LLC/RCA Records",2019-04-05
+2019-12-31,global,125,101,25,108,980529,Graveyard,Halsey,spotify:track:6V9fHiv84WlVTg7CSnIVY2,Capitol Records,2020-01-17
+2019-12-31,global,126,103,2,334,978975,bury a friend,Billie Eilish,spotify:track:4SSnFejRGlZikf02HLewEF,Darkroom/Interscope Records,2019-03-29
+2019-12-31,global,127,-1,2,710,974609,New Rules,Dua Lipa,spotify:track:2xJCMIJfcNYDc5iR0sAm2O,Warner Records,
+2019-12-31,global,128,-1,4,464,973121,In My Mind,"Dynoro, GIGI D'AGOSTINO",spotify:track:0E9ZjEAyAwOXZ7wJC0PD33,Columbia/B1 Recordings,2018-06-08
+2019-12-31,global,129,88,51,38,964122,Into the Unknown,"Idina Menzel, AURORA",spotify:track:3Z0oQ8r78OUaHvGPiDBR3W,Walt Disney Records,2019-11-15
+2019-12-31,global,130,117,77,24,962260,Family,"The Chainsmokers, Kygo",spotify:track:3TKpJrY9q49Mj1JOsM9zGL,Disruptor Records/Columbia,2019-12-06
+2019-12-31,global,131,123,1,612,960814,Better Now,Post Malone,spotify:track:7dt6x5M1jzdTEt8oCbisTK,Republic Records,2018-04-27
+2019-12-31,global,132,-1,1,792,959915,Havana (feat. Young Thug),"Camila Cabello, Young Thug",spotify:track:1rfofaqEpACxVEHIZBJe6W,Syco Music/Epic,2018-01-12
+2019-12-31,global,133,115,55,52,955534,Woah,Lil Baby,spotify:track:598yNsG1JFrGd4n2kMoz7F,Quality Control/Motown Records,2019-11-08
+2019-12-31,global,134,118,23,248,954353,Suge,DaBaby,spotify:track:2gwkD6igEhQbDQegRCcdoB,South Coast Music Group/Interscope Records,2019-03-01
+2019-12-31,global,135,114,29,59,936278,Hot (Remix) [feat. Gunna and Travis Scott],"Young Thug, Travis Scott, Gunna",spotify:track:4ea9w8c4ROqiZpJVhfBA3m,300 Entertainment/Atl,2019-12-20
+2019-12-31,global,136,126,3,535,926044,Eastside (with Halsey & Khalid),"benny blanco, Halsey, Khalid",spotify:track:7FGq80cy8juXBCD2nrqdWU,Friends Keep Secrets/Interscope Records,2018-12-07
+2019-12-31,global,137,-1,4,363,925824,Promises (with Sam Smith),"Calvin Harris, Sam Smith, Jessie Reyez",spotify:track:5N5k9nd479b1xpDZ4usjrg,Columbia,2018-08-17
+2019-12-31,global,138,110,1,668,911070,SAD!,XXXTENTACION,spotify:track:3ee8Jmje8o58CHK66QrVC2,"Bad Vibes Forever, LLC",2018-03-16
+2019-12-31,global,139,-1,2,523,909549,I Like It,"Cardi B, Bad Bunny, J Balvin",spotify:track:58q2HKrzhC3ozto2nDdN4z,Atlantic/KSR,2018-04-06
+2019-12-31,global,140,-1,116,8,909206,Uptown Funk (feat. Bruno Mars),"Mark Ronson, Bruno Mars",spotify:track:32OlwWuMpZ6b0aN2RZOeMS,Columbia,2015-01-12
+2019-12-31,global,141,140,9,157,902847,Otro Trago - Remix,"Sech, Ozuna, Anuel AA, Darell, Nicky Jam",spotify:track:4bTZeO72FwMa6wKOiqoynL,Rich Music,2019-07-26
+2019-12-31,global,142,165,141,6,896797,SENTADÃO,"PEDRO SAMPAIO, Felipe Original, JS o Mão de Ouro",spotify:track:4lKuzrdZrJuCAedbIslF3A,WM Brazil,2019-11-22
+2019-12-31,global,143,168,97,23,895259,Combatchy (feat. MC Rebecca),"Anitta, Lexa, Luísa Sonza, Rebecca",spotify:track:2bPtwnrpFNEe8N7Q85kLHw,WM Brazil,2019-11-20
+2019-12-31,global,144,127,47,79,880314,Nice To Meet Ya,Niall Horan,spotify:track:3cphb8kdsjElYR7r5icK3H,Capitol Records,2019-10-04
+2019-12-31,global,145,120,71,52,879942,Candy,Doja Cat,spotify:track:1VJwtWR6z7SpZRwipI12be,MAU Records,2018-03-30
+2019-12-31,global,146,135,3,238,879430,If I Can't Have You,Shawn Mendes,spotify:track:2bT1PH7Cw3J9p3t7nlXCdh,Island Records,2019-06-19
+2019-12-31,global,147,179,57,170,877025,Post Malone (feat. RANI),"Sam Feldt, RANI",spotify:track:36orMWv2PgvnzXsd5CJ0yL,Spinnin' Remixes,2019-08-16
+2019-12-31,global,148,194,102,29,876668,Ne reviens pas,"Gradur, Heuss L'enfoiré",spotify:track:4TnFANpjVwVKWzkxNzIyFH,Universal Music Division Capitol Music France,2019-11-29
+2019-12-31,global,149,142,142,6,876457,Never Seen the Rain,Tones And I,spotify:track:2grAr8pWMuLWn8ZYEE9wDV,Elektra (NEK),2021-07-16
+2019-12-31,global,150,111,111,51,876435,July,Noah Cyrus,spotify:track:5a6pdCHlWS2ekOOQ70QnAr,Records/Columbia,2020-05-15
+2019-12-31,global,151,-1,1,361,875888,MIA,"Bad Bunny, Drake",spotify:track:116H0KvKr2Zl4RPuVBruDO,Rimas Entertainment LLC.,2018-12-23
+2019-12-31,global,152,-1,17,447,875860,Feel It Still,Portugal. The Man,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Atlantic Records,2017-06-16
+2019-12-31,global,153,-1,73,6,871593,Hey Ya!,Outkast,spotify:track:2PpruBYCo4H7WOBJ7Q2EwM,Arista,
+2019-12-31,global,154,-1,3,195,870986,SOS (feat. Aloe Blacc),"Avicii, Aloe Blacc",spotify:track:2x0RZdkZcD8QRI53XT4GI5,Pophouse Entertainment Group,2019-06-06
+2019-12-31,global,155,145,11,185,864612,QUE PRETENDES,"J Balvin, Bad Bunny",spotify:track:25ZAibhr3bdlMCLmubZDVt,Universal Music Latino / Rimas,2019-06-28
+2019-12-31,global,156,129,127,6,864316,Say So,Doja Cat,spotify:track:3Dv1eDb0MEgF93GpLXlucZ,Kemosabe Records/RCA Records,2019-11-07
+2019-12-31,global,157,-1,5,639,859523,One Dance,"Drake, Wizkid, Kyla",spotify:track:1zi7xx7UVEFkmKfv06H8x0,Cash Money Records/Young Money Ent./Universal Rec.,2016-05-06
+2019-12-31,global,158,-1,118,424,856844,Africa,TOTO,spotify:track:2374M0fQpWi3dLnB54qaLX,Columbia,1982-04-08
+2019-12-31,global,159,149,139,5,854195,Perreo en La Luna,"Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tavárez, Feid",spotify:track:0RDgqtvOHLwcI6yz9bjsZV,Rich Music,2019-10-11
+2019-12-31,global,160,134,6,193,853642,Panini,Lil Nas X,spotify:track:1000nHvUdawXuUHgBod4Wv,Columbia,2019-09-13
+2019-12-31,global,161,138,56,877,851733,goosebumps,Travis Scott,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Cactus Jack / Epic,2016-09-16
+2019-12-31,global,162,157,28,225,846816,11 PM,Maluma,spotify:track:7KbF6AdprOXEEHlsq11Z6d,Sony Music Latin,2019-05-17
+2019-12-31,global,163,125,29,112,844713,223's (feat. 9lokknine),"YNW Melly, 9lokknine",spotify:track:29ZXwWOOLz9t5fa3eT3i7T,P2019,2019-11-22
+2019-12-31,global,164,146,6,623,842203,Youngblood,5 Seconds of Summer,spotify:track:2iUXsYOEPhVqEBwsqP70rE,Capitol,2018-06-15
+2019-12-31,global,165,-1,50,327,839585,Under Pressure (feat. David Bowie),"Queen, David Bowie",spotify:track:2fuCquhmrzHpu5xcA1ci9x,Columbia,1982-05-03
+2019-12-31,global,166,132,3,1030,838410,Perfect,Ed Sheeran,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Atlantic Records UK,2017-03-03
+2019-12-31,global,167,171,2,877,837487,Something Just Like This,"The Chainsmokers, Coldplay",spotify:track:6RUKPb4LETWmmr3iAEQktW,Disruptor Records/Columbia,2017-04-07
+2019-12-31,global,168,150,2,335,836405,MIDDLE CHILD,J. Cole,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,"Dreamville, Inc., Under exclusive license to Roc Nation Records",2019-01-23
+2019-12-31,global,169,155,26,151,833177,Takeaway,"The Chainsmokers, ILLENIUM, Lennon Stella",spotify:track:3g0mEQx3NTanacLseoP0Gw,Disruptor Records/Columbia,2019-12-06
+2019-12-31,global,170,-1,70,23,833021,September,"Earth, Wind & Fire",spotify:track:4f2GB5ZC7vOUYPAg69N2Xw,Columbia/Legacy,1978-11-18
+2019-12-31,global,171,166,75,106,827729,"DJ No Pare (feat. Zion, Dalex, Lenny Tavárez) - Remix","Justin Quiles, NATTI NATASHA, Farruko, Lenny Tavárez, Dalex, Zion",spotify:track:1ndyl3wJCFs872XZ3ztPk6,WEA Latina,2019-09-06
+2019-12-31,global,172,197,32,404,827412,Another One Bites The Dust,Queen,spotify:track:5vdp5UmvTsnMEMESIF2Ym7,Columbia,1980-06-27
+2019-12-31,global,173,-1,18,456,826551,Body,"Loud Luxury, Brando",spotify:track:7K7MUBCnzgBAvMVW2RTWNs,Armada Music,2017-10-27
+2019-12-31,global,174,162,3,189,819482,You Need To Calm Down,Taylor Swift,spotify:track:6RRNNciQGZEXnqk8SQ9yv5,Taylor Swift,2019-08-23
+2019-12-31,global,175,188,2,252,817877,Old Town Road,Lil Nas X,spotify:track:0F7FA14euOIX8KcbEturGH,Columbia,2019-06-21
+2019-12-31,global,176,-1,1,166,817300,All I Want for Christmas Is You,Mariah Carey,spotify:track:0bYg9bo50gSsH3LtXe2SQn,Columbia,1994-10-28
+2019-12-31,global,177,-1,56,108,815081,All Around The World (La La La),"R3HAB, A Touch Of Class",spotify:track:02itaCXOdC54J0ISjqqFAp,3Beat,2019-07-05
+2019-12-31,global,178,163,21,192,809823,Only Human,Jonas Brothers,spotify:track:0DiDStADDVh3SvAsoJAFMk,Jonas Brothers Recording,2019-06-07
+2019-12-31,global,179,-1,6,579,809117,The Middle,"Zedd, Maren Morris, Grey",spotify:track:09IStsImFySgyp0pIQdqAc,UMGRI Interscope,2018-01-23
+2019-12-31,global,180,177,46,255,809098,3 Nights,Dominic Fike,spotify:track:1tNJrcVe6gwLEiZCtprs1u,Columbia,2018-10-16
+2019-12-31,global,181,176,7,952,808876,Thunder,Imagine Dragons,spotify:track:1zB4vmk8tFRmM9UULNzbLB,Kid Ina Korner / Interscope,2017-06-23
+2019-12-31,global,182,169,25,597,807597,2002,Anne-Marie,spotify:track:2BgEsaKNfHUdlh97KmvFyo,Atlantic Records UK,2018-04-27
+2019-12-31,global,183,143,5,115,803308,Take What You Want (feat. Ozzy Osbourne & Travis Scott),"Post Malone, Ozzy Osbourne, Travis Scott",spotify:track:7CZyCXKG6d5ALeq41sLzbw,Republic Records,2019-09-06
+2019-12-31,global,184,122,92,335,803239,ocean eyes,Billie Eilish,spotify:track:2uIX8YMNjGMD7441kqyyNU,Darkroom,2016-11-18
+2019-12-31,global,185,137,30,90,803041,Stuck In A Dream (feat. Gunna),"Lil Mosey, Gunna",spotify:track:7iHHxY2NLlJRAmlAmC4ahQ,Mogul Vision/Interscope Records,2019-11-08
+2019-12-31,global,186,147,4,219,802715,The London (feat. J. Cole & Travis Scott),"Young Thug, J. Cole, Travis Scott",spotify:track:3s4mrPrEFFPF0LmAfutW0n,300 Entertainment/Atl,2019-08-16
+2019-12-31,global,187,-1,165,68,801548,Don't Stop Believin' (2022 Remaster),Journey,spotify:track:4bHsxqR3GMrXTxEPLuK5ue,Columbia/Legacy,1981-07-17
+2019-12-31,global,188,131,7,1087,800665,Say You Won't Let Go,James Arthur,spotify:track:5uCax9HTNlzGybIStD3vDh,Columbia,2016-10-28
+2019-12-31,global,189,-1,107,32,798360,Surtada - Remix Brega Funk,"Dadá Boladão, Tati Zaqui, OIK, JS o Mão de Ouro",spotify:track:5F8ffc8KWKNawllr5WsW0r,Dadá Boladão,2019-09-25
+2019-12-31,global,190,-1,96,8,797931,Pumped Up Kicks,Foster The People,spotify:track:7w87IxuO7BDcJ3YUqCyMTT,Columbia,2011-05-23
+2019-12-31,global,191,196,9,182,795764,Never Really Over,Katy Perry,spotify:track:5PYQUBXc7NYeI1obMKSJK0,Capitol Records,2019-05-31
+2019-12-31,global,192,130,20,26,794299,Legends,Juice WRLD,spotify:track:1Knctxx9vGZxpZfF66BIEa,Juice WRLD / Interscope PS,2018-06-22
+2019-12-31,global,193,148,24,926,789142,I Like Me Better,Lauv,spotify:track:2P91MQbaiQOfbiz9VqhqKQ,Lauv,2018-05-31
+2019-12-31,global,194,190,74,13,788727,Fantasía,Ozuna,spotify:track:40rXWke6SnXiGkSmaT8ZUr,Aura Music Corp.,2019-11-29
+2019-12-31,global,195,-1,132,279,777288,Mr. Brightside,The Killers,spotify:track:7d8GetOsjbxYnlo6Y9e5Kw,Island Records,
+2019-12-31,global,196,-1,1,446,774785,Despacito - Remix,"Luis Fonsi, Daddy Yankee, Justin Bieber",spotify:track:1vnnXMrBeEWiRg3YCMCjQq,UMLE - Latino,2019-02-01
+2019-12-31,global,197,-1,163,6,774691,Cheirosa - Ao Vivo,Jorge & Mateus,spotify:track:2PWjKmjyTZeDpmOUa3a5da,Som Livre,2019-10-11
+2019-12-31,global,198,124,21,5,770892,GATTI,"JACKBOYS, Pop Smoke, Travis Scott",spotify:track:40mjsnRjCpycdUw3xhS20g,Cactus Jack/Epic,2019-12-27
+2019-12-31,global,199,141,6,162,766712,all the good girls go to hell,Billie Eilish,spotify:track:6IRdLKIyS4p7XNiP8r6rsx,Darkroom/Interscope Records,2019-03-29
+2019-12-31,global,200,181,155,5,758293,"Alone, Pt. II","Alan Walker, Ava Max",spotify:track:0bMbDctzMmTyK2j74j3nF3,Kreatell Music,2019-12-27

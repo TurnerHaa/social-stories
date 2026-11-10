@@ -1,0 +1,201 @@
+date,region,rank,previous_rank,peak_rank,days_on_chart,streams,track_name,artists,track_uri,labels,release_date
+2025-12-24,global,1,2,1,525,23338007,All I Want for Christmas Is You,Mariah Carey,spotify:track:0bYg9bo50gSsH3LtXe2SQn,Columbia,1994-10-28
+2025-12-24,global,2,1,1,459,22664241,Last Christmas,Wham!,spotify:track:2FRnf9qhLbvw8fu4IBXx78,Epic,1984-11-29
+2025-12-24,global,3,3,2,384,20954813,Rockin' Around The Christmas Tree,Brenda Lee,spotify:track:2EjXfH91m7f8HiJN1yQg97,MCA Nashville,1964-10-19
+2025-12-24,global,4,4,4,375,18131160,Jingle Bell Rock,Bobby Helms,spotify:track:7vQbuQcyTflfCIOu3Uzzya,Geffen,1957-12-02
+2025-12-24,global,5,6,5,283,16333308,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,spotify:track:2uFaJJtFpPDc5Pa95XzTvg,Capitol Records,1959-01-01
+2025-12-24,global,6,5,3,393,16090412,Santa Tell Me,Ariana Grande,spotify:track:0lizgQ7Qw35od7CYaoMBZb,Universal Records,2014-11-24
+2025-12-24,global,7,7,6,305,14926975,Underneath the Tree,Kelly Clarkson,spotify:track:3nAp4IvdMPPWEH9uuXFFV5,RCA Records Label,2013-10-25
+2025-12-24,global,8,8,8,324,13974518,Snowman,Sia,spotify:track:7uoFMmxln0GPXQ0AcCBXRq,Monkey Puzzle/Atlantic,2018-11-01
+2025-12-24,global,9,11,5,341,13523539,It's the Most Wonderful Time of the Year,Andy Williams,spotify:track:1IcR6RlgvDczfvoWJSSY2A,Columbia/Legacy,1963-11-24
+2025-12-24,global,10,12,7,294,13410747,Feliz Navidad,José Feliciano,spotify:track:3qCeq0rWK67SoBDgFd2sId,RCA Records Label,
+2025-12-24,global,11,10,3,363,13223522,It's Beginning to Look a Lot like Christmas,Michael Bublé,spotify:track:1rv46mRwDqMEhOBZ7vODg3,Reprise,2024-12-05
+2025-12-24,global,12,16,9,256,11717637,Sleigh Ride,The Ronettes,spotify:track:7fUYUcWy853HS8YJn0b3Sr,Legacy Recordings,2020-12-04
+2025-12-24,global,13,17,10,299,11259382,Holly Jolly Christmas,Michael Bublé,spotify:track:6tjituizSxwSmBB5vtgHZE,Reprise,2024-12-05
+2025-12-24,global,14,13,11,323,11217241,Mistletoe,Justin Bieber,spotify:track:7xapw9Oy21WpfEcib2ErSA,RBMG/Def Jam,2011-01-01
+2025-12-24,global,15,19,7,270,10874158,Happy Xmas (War Is Over) - Remastered 2010,"John Lennon, Yoko Ono",spotify:track:27RYrbL6S02LNVhDWVl38b,EMI Catalogue,2010-10-05
+2025-12-24,global,16,15,14,272,10435898,The Christmas Song (Merry Christmas To You),Nat King Cole,spotify:track:5humEOJehpAwMJEJmb0JJ2,Capitol Records,1961-09-25
+2025-12-24,global,17,21,10,266,9398182,Wonderful Christmastime - Edited Version / Remastered 2011,Paul McCartney,spotify:track:1SV1fxF65n9NhRHp3KlBuu,Paul McCartney Catalog,1980-05-16
+2025-12-24,global,18,14,8,257,9349500,Driving Home for Christmas - 2019 Remaster,Chris Rea,spotify:track:27qAMKrDdKEs8HDXcvR24R,Rhino,1987-08-02
+2025-12-24,global,19,20,19,185,9166976,Christmas (Baby Please Come Home),Darlene Love,spotify:track:47ohYW8e7dxCYn9qbUMBCI,Legacy Recordings,2020-12-04
+2025-12-24,global,20,23,16,248,8898081,Merry Christmas Everyone,Shakin' Stevens,spotify:track:2TE4xW3ImvpltVU0cPcKUn,Sony Music CG,1991-11-25
+2025-12-24,global,21,25,3,268,7697576,Do They Know It's Christmas? - 1984 Version,Band Aid,spotify:track:4Yg2w0P29BBBMixyeNjDtj,EMI,1984-11-25
+2025-12-24,global,22,33,22,117,7072251,"Carol of the Bells (From ""Home Alone"" Soundtrack)",John Williams,spotify:track:4tHqQMWSqmL6YjXwsqthDI,Masterworks,
+2025-12-24,global,23,32,17,227,6949890,It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra),"Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra",spotify:track:6IeK3Ap5m3HabwJxgI6eSE,RCA Records Label,1999-08-23
+2025-12-24,global,24,34,24,84,6934767,Please Come Home for Christmas - 2013 Remaster,Eagles,spotify:track:3QIoEi8Enr9uHffwInGIsC,Rhino/Elektra,1978-11-27
+2025-12-24,global,25,38,19,163,6912145,Step Into Christmas - Remastered 1995,Elton John,spotify:track:11P4sSu6BH2lAbWk1sL6cK,EMI,1974-06-28
+2025-12-24,global,26,35,26,169,6910133,Run Rudolph Run,Chuck Berry,spotify:track:2pnPe4pJtq7689i5ydzvJJ,Geffen*,1986-01-01
+2025-12-24,global,27,36,16,132,6747837,Merry Christmas,"Ed Sheeran, Elton John",spotify:track:0hz5PNF2wejwUKCMpesQWt,Atlantic Records UK,2021-12-03
+2025-12-24,global,28,30,10,267,6723189,White Christmas - 1947 Version,"Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra",spotify:track:3XsaSIPWvM61RIFfeb0BBR,Geffen,1945-01-01
+2025-12-24,global,29,37,29,87,6471528,"Santa, Can’t You Hear Me","Kelly Clarkson, Ariana Grande",spotify:track:2O3MQ6H3gjrIWDcpeTrikT,Atlantic Records,2021-10-15
+2025-12-24,global,30,43,10,276,6373656,Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),"Frank Sinatra, B. Swanson Quartet",spotify:track:4kKdvXD0ez7jp1296JmAts,Columbia/Legacy,1994-11-08
+2025-12-24,global,31,9,1,83,6298698,The Fate of Ophelia,Taylor Swift,spotify:track:53iuhJlwXhSER5J2IYYv1W,Taylor Swift,2025-10-03
+2025-12-24,global,32,56,25,105,6263369,Thank God It's Christmas,Queen,spotify:track:2xGO2UjzxeVQSIkyg98vck,Columbia,1984-02-27
+2025-12-24,global,33,49,31,106,6123329,Hallelujah,Pentatonix,spotify:track:550rQQCGkrTzvp4SfpOPzx,RCA Records Label,2016-10-21
+2025-12-24,global,34,45,23,64,5835474,Winter Wonderland,Laufey,spotify:track:6eODMWDVi22dpEZJoqg5h7,Vingolf Recordings,2025-11-05
+2025-12-24,global,35,53,29,165,5816848,My Only Wish (This Year),Britney Spears,spotify:track:0YWUHZPJVg4iujddsJDwhM,Jive,2000-11-14
+2025-12-24,global,36,47,21,214,5791014,Blue Christmas,Elvis Presley,spotify:track:3QiAAp20rPC3dcAtKtMaqQ,RCA Victor,1957-10-15
+2025-12-24,global,37,44,36,66,5696260,Have Yourself A Merry Little Christmas - Remastered 1999,Frank Sinatra,spotify:track:2FPfeYlrbSBR8PwCU0zaqq,Capitol Records,
+2025-12-24,global,38,54,25,123,5666581,Jingle Bells - Remastered 1999,Frank Sinatra,spotify:track:4HEOgBHRCExyYVeTyrXsnL,Capitol Records,
+2025-12-24,global,39,42,18,201,5626360,Fairytale of New York (feat. Kirsty MacColl),"The Pogues, Kirsty MacColl",spotify:track:3VTNVsTTu05dmTsVFrmGpK,WM UK,1988-09-05
+2025-12-24,global,40,51,38,102,5140075,You Make It Feel Like Christmas (feat. Blake Shelton),"Gwen Stefani, Blake Shelton",spotify:track:2OQ6a4CfUeYskpTTgyawyJ,UMGRI Interscope,2017-10-06
+2025-12-24,global,41,52,32,44,5135766,A Nonsense Christmas,Sabrina Carpenter,spotify:track:7yogx3TwxGwSxO2QITsT2q,Island Records,2022-12-07
+2025-12-24,global,42,58,38,66,5071810,Mele Kalikimaka (Merry Christmas),"Bing Crosby, The Andrews Sisters",spotify:track:04vLj9QUXoKdRlsp3gkURo,Geffen,1945-01-01
+2025-12-24,global,43,61,23,93,5040828,Deck The Hall,Nat King Cole,spotify:track:0rHToGels2lt8Y0mCYoF90,CAPITOL CATALOG MKT (C92),2018-09-21
+2025-12-24,global,44,64,30,125,4740134,Santa Baby (with Henri René & His Orchestra),"Eartha Kitt, Henri René and His Orchestra",spotify:track:1foCxQtxBweJtZmdxhEHVO,RCA Bluebird,
+2025-12-24,global,45,67,13,239,4713641,A Holly Jolly Christmas,Burl Ives,spotify:track:77khP2fIVhSW23NwxrRluh,Geffen,1965-10-01
+2025-12-24,global,46,18,1,186,4637533,Golden,"HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",spotify:track:1CPZ5BxNNd0n0nF4Orb9JS,K-Pop Demon Hunters,2025-06-20
+2025-12-24,global,47,69,27,88,4583309,Little Saint Nick - 1991 Remix,The Beach Boys,spotify:track:5xlS0QkVrSH7ssEbBgBzbM,Capitol Records,1964-11-09
+2025-12-24,global,48,73,34,130,4546342,Christmas Lights,Coldplay,spotify:track:4fzyvSu73BhGvi96p2zwjL,Parlophone UK,2010-12-01
+2025-12-24,global,49,72,25,93,4515054,"Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",Bruce Springsteen,spotify:track:6s2wpWPFPAgKg2LXxi1Oee,NITRON concepts,
+2025-12-24,global,50,93,31,139,4232667,Christmas (Baby Please Come Home),Mariah Carey,spotify:track:3PIDciSFdrQxSQSihim3hN,Columbia,1994-10-28
+2025-12-24,global,51,83,40,53,4009737,Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version,Gene Autry,spotify:track:25leEEaz1gIpp7o21Fqyjo,Columbia/Legacy,
+2025-12-24,global,52,105,26,100,3996276,Santa Claus Is Coming to Town,Michael Bublé,spotify:track:7Ivelh8N9J25Yj9KKxYj6w,Reprise,2024-12-05
+2025-12-24,global,53,82,31,51,3989314,Christmas Time Is Here,Vince Guaraldi Trio,spotify:track:3bMfUUpzUzqWp9II00yRhE,Craft Recordings,1998-01-01
+2025-12-24,global,54,100,44,79,3850330,Like It's Christmas,Jonas Brothers,spotify:track:5NUXAUIItJAxBIUOdm0gUf,Hollywood Records,2025-11-14
+2025-12-24,global,55,22,2,127,3849421,Man I Need,Olivia Dean,spotify:track:1qbmS6ep2hbBRaEZFpn7BX,PLG - Capitol,2025-08-15
+2025-12-24,global,56,115,56,19,3848595,Christmas (Baby Please Come Home),Michael Bublé,spotify:track:66WPXyhXqMlkM1kZhyEXWK,Reprise,2024-12-05
+2025-12-24,global,57,101,52,53,3769505,Christmas Tree Farm,Taylor Swift,spotify:track:2mvabkN1i2gLnGAPUVdwek,Taylor Swift,2019-12-06
+2025-12-24,global,58,184,32,20,3745235,Run Rudolph Run - Spotify Singles Holiday,Mark Ambor,spotify:track:6pheMGrfMwwnypqafU7d4k,"Hundred Days Records, LLC",2024-10-15
+2025-12-24,global,59,24,1,281,3579732,back to friends,sombr,spotify:track:7qjZnBKE73H4Oxkopwulqe,Warner Records,2025-08-22
+2025-12-24,global,60,161,60,3,3519999,It Feels Like Christmas (Spotify Singles Holiday),Fall Out Boy,spotify:track:34sUWOEjFKrj8Rzk1HHicq,Many Hats Distribution,2025-10-15
+2025-12-24,global,61,-1,61,10,3518286,Wonderful Dream (Holidays Are Coming) - Radio Version,Melanie Thornton,spotify:track:0SvD6EdetxVtXei2JhkV4B,X-cell Records,2001-01-01
+2025-12-24,global,62,26,1,677,3500498,End of Beginning,Djo,spotify:track:3qhlB30KknSejmIvZZLjOD,Djo,2022-09-16
+2025-12-24,global,63,110,57,34,3436515,Rudolph The Red-Nosed Reindeer,Burl Ives,spotify:track:47otoIkhx3fkdivEXL5OB6,Geffen,1965-10-01
+2025-12-24,global,64,107,42,34,3424998,This Christmas,Donny Hathaway,spotify:track:7MSYSOobsombc1mbDWFxtD,Rhino Atlantic,
+2025-12-24,global,65,169,25,120,3418832,Jingle Bell Rock - Daryl's Version,Daryl Hall & John Oates,spotify:track:6pVW5LRWgeLaHudxauOTJU,Legacy Recordings,1983-11-01
+2025-12-24,global,66,131,66,27,3370773,Last Christmas,Ariana Grande,spotify:track:5xDrO9DEDJGUQGfyoHvgDJ,Universal Records,2013-01-01
+2025-12-24,global,67,-1,67,9,3240616,Christmas Time,Bryan Adams,spotify:track:7LoFMtL7hxP9tr5HYyyUrJ,Universal Music Enterprises,2019-11-15
+2025-12-24,global,68,27,5,89,3207760,So Easy (To Fall In Love),Olivia Dean,spotify:track:6sGIMrtIzQjdzNndVxe397,PLG - Capitol,2025-09-26
+2025-12-24,global,69,28,7,97,3200372,WHERE IS MY HUSBAND!,RAYE,spotify:track:55lijDD6OAjLFFUHU9tcDm,Human Re Sources,2025-09-19
+2025-12-24,global,70,116,51,32,3199005,Do You Hear What I Hear?,Bing Crosby,spotify:track:4EZUcj7c8n9pWIwHqN0DoH,EMI Gold,1998-01-01
+2025-12-24,global,71,31,20,41,3173164,CHANEL,Tyla,spotify:track:4VxTzYm00mg82MuoT35Ja7,Epic,2025-10-24
+2025-12-24,global,72,29,1,321,3137795,Ordinary,Alex Warren,spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ,Atlantic Records,2024-09-26
+2025-12-24,global,73,123,47,36,3133985,Baby It's Cold Outside (with Michael Bublé),"Idina Menzel, Michael Bublé",spotify:track:0Ie5uiv54KgCr7P4sYDTHl,Warner Records,2014-10-10
+2025-12-24,global,74,-1,53,36,3110663,Rudolph The Red-Nosed Reindeer,Dean Martin,spotify:track:2L9QLAhrvtP4EYg1lY0Tnw,Capitol Records,1959-01-01
+2025-12-24,global,75,140,44,38,3062331,White Christmas (with Shania Twain),"Michael Bublé, Shania Twain",spotify:track:2gbCG4Rt9984UZ7Tc0dIFd,Reprise,2024-12-05
+2025-12-24,global,76,39,17,1533,3009539,Every Breath You Take,The Police,spotify:track:1JSTJqkT5qHq8MDJnJbRE1,Polydor Records,1983-06-17
+2025-12-24,global,77,66,8,70,2997624,Posso Até Não Te Dar Flores,"DJ Japa NK, MC Meno K, MC Ryan SP, Mc Jacaré, DJ DAVI DOGDOG",spotify:track:4G7bbgD2DHORU4frrWoCXp,BOLOLO REC,2025-09-11
+2025-12-24,global,78,178,49,56,2973959,I'll Be Home,Meghan Trainor,spotify:track:0lTurWECr2XL607eJAj1A3,Epic,2015-01-09
+2025-12-24,global,79,141,36,41,2958286,I Saw Mommy Kissing Santa Claus,The Jackson 5,spotify:track:3lkYS3iMpWMVpaJ0yJAFrJ,UNI/MOTOWN,1970-10-15
+2025-12-24,global,80,151,42,36,2916556,Winter Wonderland,Bing Crosby,spotify:track:5VEuraNSVxMTzDTtrmL3lQ,EMI Gold,1998-01-01
+2025-12-24,global,81,40,1,496,2915162,Die With A Smile,"Lady Gaga, Bruno Mars",spotify:track:7so0lgd0zP2Sbgs2d7a1SZ,Interscope Records,2025-03-07
+2025-12-24,global,82,162,38,49,2871313,Joy To The World,Nat King Cole,spotify:track:1VuAamHM7P3VQQEXYGG3Uu,CAPITOL CATALOG MKT (C92),2018-09-21
+2025-12-24,global,83,146,67,23,2869706,Sleigh Ride,Ella Fitzgerald,spotify:track:4ukUoXLuFzMixyZyabSGc4,Verve Reissues,1960-01-01
+2025-12-24,global,84,50,3,354,2855708,BAILE INoLVIDABLE,Bad Bunny,spotify:track:2lTm559tuIvatlT1u0JYG2,Rimas Entertainment LLC.,2025-01-05
+2025-12-24,global,85,41,1,587,2838532,BIRDS OF A FEATHER,Billie Eilish,spotify:track:6dOtVTDdiauQNBQEDOtlAB,Darkroom/Interscope Records,2024-05-17
+2025-12-24,global,86,167,37,91,2821901,Santa's Coming for Us,Sia,spotify:track:1N1ZpYUJc9fwrqk53FGgWv,Monkey Puzzle/Atlantic,2018-11-01
+2025-12-24,global,87,48,1,354,2816913,DtMF,Bad Bunny,spotify:track:3sK8wGT43QFpWrvNQsrQya,Rimas Entertainment LLC.,2025-01-05
+2025-12-24,global,88,180,73,13,2774782,Happy Holiday / The Holiday Season,Andy Williams,spotify:track:1Wf14bTyb6UeKojy8ykPYm,Columbia/Legacy,1963-11-24
+2025-12-24,global,89,46,19,70,2772528,Cuando No Era Cantante,"El Bogueto, Yung Beef",spotify:track:44xDy4h27s4ENaC8fKnCoC,Candela Music,2024-09-26
+2025-12-24,global,90,-1,70,20,2731791,Frosty The Snowman,Ella Fitzgerald,spotify:track:65irrLqfCMRiO3p87P4C0D,Verve Reissues,1960-01-01
+2025-12-24,global,91,199,59,7,2699311,Santa Baby,Laufey,spotify:track:2JiJRwhGRg20GhFGXd6JZX,Vingolf Recordings,2025-11-05
+2025-12-24,global,92,187,60,21,2657448,I Wish It Could Be Christmas Everyday,Wizzard,spotify:track:1mH6tZC6iXIHPI6EixCwxw,Parlophone UK,2007-11-19
+2025-12-24,global,93,-1,39,40,2546230,"Baby, It's Cold Outside",Dean Martin,spotify:track:4MrfQL4TYQXJBlZYpAHTuE,Capitol Records,1959-01-01
+2025-12-24,global,94,65,35,14,2513483,Cuando No Era Cantante RMX - Remix,"El Bogueto, Anuel AA, Fuerza Regida, Yung Beef",spotify:track:2pbSCYzxrG0wa6qcj8IyiE,El Bogueto,2026-03-25
+2025-12-24,global,95,-1,95,17,2508475,Have Yourself a Merry Little Christmas,Michael Bublé,spotify:track:4QMEcIbG9GtSrkbvk7Pswd,Reprise,2024-12-05
+2025-12-24,global,96,63,34,25,2473707,Sedia Aku Sebelum Hujan,Idgitaf,spotify:track:64qfw9JZl3RYCrq4Mn0WvT,idgitaf musik,2025-10-08
+2025-12-24,global,97,-1,26,117,2469396,Santa Claus Is Coming To Town,The Jackson 5,spotify:track:6a1hzBiTkgqTsDA0Xgfh9z,UNI/MOTOWN,1970-10-15
+2025-12-24,global,98,55,2,83,2465465,Opalite,Taylor Swift,spotify:track:3yWuTOYDztXjZxdE2cIRUa,Taylor Swift,2025-10-03
+2025-12-24,global,99,62,7,188,2451949,Gabriela,KATSEYE,spotify:track:1xOqGUkyxGQRdCvGpvWKmL,HYBE/Geffen,2025-06-20
+2025-12-24,global,100,-1,67,20,2414102,Merry Xmas Everybody,Slade,spotify:track:0z5jr9YE1siursT3dJUwDV,Slade,1973-11-07
+2025-12-24,global,101,-1,58,27,2413127,I'll Be Home for Christmas,Michael Bublé,spotify:track:0GyXfYRuvG9nt71zF99SER,Reprise,2024-12-05
+2025-12-24,global,102,-1,47,9,2391033,DJ Play A Christmas Song,Cher,spotify:track:18uSfZqFBxQFi8CsXOIbhy,Warner Records,2023-10-20
+2025-12-24,global,103,-1,103,1,2388928,O Holy Night - Spotify Singles Holiday,Ravyn Lenae,spotify:track:7L3OGWgJMQdXSbY3zgUt1Q,Atlantic Records,2025-10-15
+2025-12-24,global,104,-1,70,7,2379720,Winter Wonderland,Michael Bublé,spotify:track:4hNouIhwvI8FKeEMeWEvbg,Reprise,2024-12-05
+2025-12-24,global,105,-1,97,3,2375927,Santa Claus Is Coming To Town,Frank Sinatra,spotify:track:6syO6UTl8QiiWADJy3Uy2d,FRANK SINATRA HYBRID,2017-10-06
+2025-12-24,global,106,-1,47,56,2374687,One More Sleep,Leona Lewis,spotify:track:78pn8k7RogKo2oxl0DyX6d,Syco Music,2013-12-02
+2025-12-24,global,107,-1,61,38,2365577,"Merry Christmas, Happy Holidays",*NSYNC,spotify:track:15coTBAzEN1bOeipoNDZAR,RCA Records Label,1998-10-23
+2025-12-24,global,108,60,9,832,2350414,Iris,The Goo Goo Dolls,spotify:track:6Qyc6fS4DsZjB2mRW9DsQs,Warner Records,
+2025-12-24,global,109,-1,59,27,2347324,Jingle Bells (feat. The Puppini Sisters),"Michael Bublé, The Puppini Sisters",spotify:track:3nfxV3jfRcRWISwek49LTg,Reprise,2024-12-05
+2025-12-24,global,110,57,5,494,2346368,Sailor Song,Gigi Perez,spotify:track:21IYMdzTrzSe191Cy5eMap,"Outtahere, LLC / Island Records",2025-04-25
+2025-12-24,global,111,-1,75,14,2326045,Cozy Little Christmas,Katy Perry,spotify:track:02FaKXXL7KUtRc7K0k54tL,Capitol Records,2018-11-15
+2025-12-24,global,112,84,16,901,2306403,LA CANCIÓN,"J Balvin, Bad Bunny",spotify:track:0fea68AdmYNygeTGI4RC18,Universal Music Latino / Rimas,2019-06-28
+2025-12-24,global,113,-1,96,7,2302397,What Christmas Means to Me (feat. Stevie Wonder),"John Legend, Stevie Wonder",spotify:track:4hnzXzE7JiU5QAZFF9OUsI,Columbia/Legacy,2018-10-26
+2025-12-24,global,114,-1,114,2,2291733,"Merry Christmas, Please Don't Call",Bleachers,spotify:track:0UOG0zUn7t8m8QcxfzR7AH,Dirty Hit,2024-11-13
+2025-12-24,global,115,-1,54,22,2274016,Here Comes Santa Claus (Right Down Santa Claus Lane),Elvis Presley,spotify:track:7n7VsX3sv66znBwA8b5uhp,RCA Victor,1957-10-15
+2025-12-24,global,116,59,39,118,2266281,Lush Life,Zara Larsson,spotify:track:1rIKgCH4H52lrvDcz50hS8,Epic/Record Company TEN,2017-03-17
+2025-12-24,global,117,70,2,809,2257932,"One Of The Girls (with JENNIE, Lily Rose Depp)","The Weeknd, JENNIE, Lily-Rose Depp",spotify:track:7CyPwkp0oE8Ro9Dd5CUDjW,XO / Republic Records,2023-06-23
+2025-12-24,global,118,89,4,302,2236415,La Plena - W Sound 05,"W Sound, Beéle, Ovy On The Drums",spotify:track:6iOndD4OFo7GkaDypWQIou,WEA Latina,2025-02-19
+2025-12-24,global,119,-1,119,2,2227882,Under the Tree (from “That Christmas”),Ed Sheeran,spotify:track:3emyfamOMxgrus8oZQh6Mx,Gingerbread Man Records,2024-11-26
+2025-12-24,global,120,76,1,223,2225908,Don’t Say You Love Me,Jin,spotify:track:27xkOIER6uDLKALIelHylZ,BIGHIT MUSIC,2025-05-16
+2025-12-24,global,121,77,5,48,2214747,La Perla,"ROSALÍA, Yahritza Y Su Esencia",spotify:track:4oVO4fGNRRvEn0CRuFO4qv,Columbia,2025-11-07
+2025-12-24,global,122,-1,122,3,2185816,santa doesn’t know you like i do,Sabrina Carpenter,spotify:track:5mi0HQrZMhRb2MRdFiUP6v,Island Records,2023-11-17
+2025-12-24,global,123,147,32,146,2158389,P do Pecado - Ao Vivo,"Grupo Menos É Mais, Simone Mendes",spotify:track:38Ps9Kui6qJjpVqdBOfN5M,Som Livre,2025-10-16
+2025-12-24,global,124,74,12,1948,2109894,Sweater Weather,The Neighbourhood,spotify:track:0cQVqPuHQP4KEwc7ZUQmj6,Columbia,2013-04-19
+2025-12-24,global,125,-1,95,12,2096649,Lonely This Christmas,Mud,spotify:track:5DMItYJluCFc7YtFdP4aXo,Parlophone UK,
+2025-12-24,global,126,-1,46,26,2096364,Christmas Without You,Ava Max,spotify:track:1QLZKzC2pjP4ySf4ALrNhm,Atlantic Records,2020-10-15
+2025-12-24,global,127,79,1,524,2092583,Who,Jimin,spotify:track:7tI8dRuH2Yc6RuoTjxo4dU,BIGHIT MUSIC,2024-07-19
+2025-12-24,global,128,-1,91,9,2072792,(There's No Place Like) Home for the Holidays - 1959 Version,Perry Como,spotify:track:0hvN2v6fAcB6xWyW7UaooA,RCA Records Label,1991-08-26
+2025-12-24,global,129,75,8,587,2055374,WILDFLOWER,Billie Eilish,spotify:track:3QaPy1KgI7nu9FJEQUgn6h,Darkroom/Interscope Records,2024-05-17
+2025-12-24,global,130,68,12,181,2050083,No Broke Boys,"Disco Lines, Tinashe",spotify:track:3cZajhyr8LmtPfHZ9296tj,Nice Life/Atlantic,2025-06-06
+2025-12-24,global,131,-1,131,1,2038991,The Christmas Song,Olivia Dean,spotify:track:4WRb5qAPnvMbUIrnjLaggC,AMF Records,2021-11-03
+2025-12-24,global,132,78,60,17,2028826,I Thought I Saw Your Face Today,She & Him,spotify:track:0myRViRgmQ3J8izICXEAVO,Merge Records,2008-03-18
+2025-12-24,global,133,95,5,354,2006012,NUEVAYoL,Bad Bunny,spotify:track:5TFD2bmFKGhoCRbX61nXY5,Rimas Entertainment LLC.,2025-01-05
+2025-12-24,global,134,71,51,40,1999099,Phantom,"EsDeeKid, Rico Ace",spotify:track:57Z6TJCTMACXxdrcwZ3Zvf,Lizzy Records,2025-06-20
+2025-12-24,global,135,-1,111,9,1998869,"Mary, Did You Know?",Pentatonix,spotify:track:4z8sz6E4YyFuEkv5o7IJni,RCA Records Label,2015-10-30
+2025-12-24,global,136,-1,42,42,1996747,What Christmas Means To Me,Stevie Wonder,spotify:track:7xZsOJBebpV9lsX3XUV7x3,UNI/MOTOWN,2004-09-21
+2025-12-24,global,137,-1,78,19,1993486,It's Beginning To Look Like Christmas,Bing Crosby,spotify:track:44mYhOVgerj2qPjkGDVA6n,Geffen,1945-01-01
+2025-12-24,global,138,-1,115,12,1992572,The Little Drummer Boy,Bing Crosby,spotify:track:2zHu4GAsQIw2skGszWEMFY,EMI Gold,1998-01-01
+2025-12-24,global,139,-1,87,7,1992234,I Want a Hippopotamus for Christmas (Hippo the Hero),Gayla Peevey,spotify:track:5P8Xvy5tzhmfyfA6GplQ8h,Sony Music Entertainment,1953-11-11
+2025-12-24,global,140,81,22,755,1991295,Creep,Radiohead,spotify:track:70LcF31zb1H0PyJoS1Sx1r,XL Recordings,1993-02-22
+2025-12-24,global,141,-1,141,1,1974979,All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey,"Justin Bieber, Mariah Carey",spotify:track:1IUtgwxLYzDVd41EgbKUjX,RBMG/Def Jam,2011-01-01
+2025-12-24,global,142,86,1,706,1964885,Beautiful Things,Benson Boone,spotify:track:3xkHsmpQCBMytMJNiDf3Ii,"Night Street Records, Inc./Warner Records Inc.",2024-04-05
+2025-12-24,global,143,-1,108,8,1958619,Someday At Christmas,Stevie Wonder,spotify:track:0OdTRhhGt8aq4UXh67CKQg,UNI/MOTOWN,2004-09-21
+2025-12-24,global,144,-1,144,1,1956608,O Come All Ye Faithful - Spotify Singles Holiday,Jordan Davis,spotify:track:6iO6ZLKaJF13fuF5HUFSEM,MCA Nashville,2025-10-15
+2025-12-24,global,145,87,11,1267,1945049,I Wanna Be Yours,Arctic Monkeys,spotify:track:5XeFesFbtLpXzIVDNQP22n,Domino Recording Co,2013-09-09
+2025-12-24,global,146,90,1,1907,1938834,Starboy,"The Weeknd, Daft Punk",spotify:track:7MXVkk9YMctZqd1Srtv4MB,The Weeknd/Lyric,2016-11-25
+2025-12-24,global,147,97,1,433,1927612,APT.,"ROSÉ, Bruno Mars",spotify:track:4wJ5Qq0jBN4ajy7ouZIV1c,Atlantic Records,2024-12-06
+2025-12-24,global,148,-1,106,13,1924672,Rockin' Around the Christmas Tree - Rerecorded Version,Brenda Lee,spotify:track:09OojFvtrM9YRzRjnXqJjA,Warner Records,
+2025-12-24,global,149,-1,71,15,1910745,Silver Bells,Dean Martin,spotify:track:4QX5pZQpQTgVlkqfUTDim0,Legacy Recordings,
+2025-12-24,global,150,-1,88,14,1897594,Cold December Night,Michael Bublé,spotify:track:4FPrAERfkPKOBKrRoyuxLu,Reprise,2024-12-05
+2025-12-24,global,151,96,1,622,1895722,Espresso,Sabrina Carpenter,spotify:track:2HRqTpkrJO5ggZyyK6NPWz,Island Records,2024-08-23
+2025-12-24,global,152,-1,152,1,1893086,Candy Cane Lane,Sia,spotify:track:4KevTcBXEIYxXVyPE78XXm,Monkey Puzzle/Atlantic,2018-11-01
+2025-12-24,global,153,91,13,371,1888990,Qué Pasaría...,"Rauw Alejandro, Bad Bunny",spotify:track:0l0vcZMU7AOeQmUIREoI2U,Sony Music Latin/Duars Entertainment,2024-11-15
+2025-12-24,global,154,88,8,281,1883913,Love Me Not,Ravyn Lenae,spotify:track:4WFgvKVfEhb3IUAFGrutTR,Atlantic Records,2024-08-09
+2025-12-24,global,155,-1,109,4,1873707,Christmas Eve / Sarajevo 12/24 - Instrumental,Trans-Siberian Orchestra,spotify:track:3sBnSBnzpEYKpJYGsAIbup,Lava/Atlantic,1996-10-15
+2025-12-24,global,156,-1,93,17,1872765,All I Want for Christmas Is You,Michael Bublé,spotify:track:5S8rkSt8wio92kjIOjbJ0U,Reprise,2024-12-05
+2025-12-24,global,157,-1,134,7,1861902,White Christmas,Michael Bublé,spotify:track:4buHBCFNm5WvttEDevaj9C,Reprise,2024-12-05
+2025-12-24,global,158,85,2,454,1844198,Timeless (feat Playboi Carti),"The Weeknd, Playboi Carti",spotify:track:0FIDCNYYjNvPVimz5icugS,XO / Republic Records,2025-01-31
+2025-12-24,global,159,94,15,1241,1834519,The Night We Met,Lord Huron,spotify:track:3hRV0jL3vUpRrcy398teAU,Lord Huron,2015-04-07
+2025-12-24,global,160,-1,160,1,1824718,Last Christmas - Single Version,Wham!,spotify:track:5Qicor4jFNgZQxSf6UxEzw,Epic,2000-09-15
+2025-12-24,global,161,99,5,1784,1821594,One Dance,"Drake, Wizkid, Kyla",spotify:track:1zi7xx7UVEFkmKfv06H8x0,Cash Money Records/Young Money Ent./Universal Rec.,2016-05-06
+2025-12-24,global,162,80,58,18,1810356,4 Raws,EsDeeKid,spotify:track:554qQSs9lpRVq6TlaaiIKT,Lizzy Records,2025-06-20
+2025-12-24,global,163,103,9,351,1802859,EoO,Bad Bunny,spotify:track:6J5kc12BW5HuP3d7C3vvx8,Rimas Entertainment LLC.,2025-01-05
+2025-12-24,global,164,102,1,202,1801096,Manchild,Sabrina Carpenter,spotify:track:2BwO5K8Q7EPAJSGze3AAh9,Island Records,2025-08-29
+2025-12-24,global,165,111,1,894,1794598,Seven (feat. Latto) (Explicit Ver.),"Jung Kook, Latto",spotify:track:2HRgqmZQC0MC7GeNuDIXHN,BIGHIT MUSIC,2023-11-03
+2025-12-24,global,166,-1,75,18,1769290,Mary's Boy Child / Oh My Lord,Boney M.,spotify:track:2qqZ5fOGuNvYVzgPFDLQ4l,Sony Music Catalog,2017-11-10
+2025-12-24,global,167,109,5,292,1762112,like JENNIE,JENNIE,spotify:track:0fK7ie6XwGxQTIkpFoWkd1,OA Entertainment/Columbia,2025-03-07
+2025-12-24,global,168,104,5,770,1738196,Lose Control,Teddy Swims,spotify:track:17phhZDn6oGtzMe56NuWvj,Warner Records,2023-09-15
+2025-12-24,global,169,108,26,474,1734386,Sparks,Coldplay,spotify:track:7D0RhFcb3CrfPuTJ0obrod,Parlophone UK,2000-07-10
+2025-12-24,global,170,106,53,22,1706021,Raindance (feat. Tems),"Dave, Tems",spotify:track:3oTuTpF1F3A7rEC6RKsMRz,Neighbourhood,2025-10-23
+2025-12-24,global,171,98,15,1819,1695152,Yellow,Coldplay,spotify:track:3AJwUDP919kvQ9QcozQPxg,Parlophone UK,2000-07-10
+2025-12-24,global,172,117,117,8,1693876,Gehra Hua,"Shashwat Sachdev, Arijit Singh, Irshad Kamil, Armaan Khan",spotify:track:5MCbGWnNLLjoHpbDO3BOgi,Saregama India Ltd,2025-12-05
+2025-12-24,global,173,125,88,40,1682194,Pvta Luna,Neton Vega,spotify:track:33MeEaRCeIQMSRyFTr5ZJU,Josa Records (Neton Vega),2025-09-26
+2025-12-24,global,174,114,3,433,1681728,That’s So True,Gracie Abrams,spotify:track:7ne4VBA60CxGM75vw0EYad,"Gracie Abrams, under exclusive license to Interscope Records",2024-10-18
+2025-12-24,global,175,-1,101,3,1680143,Driving Home for Christmas - Spotify Singles Holiday,Dasha,spotify:track:2gciS7UJjv59l7608DFGNl,Warner Records,2024-10-15
+2025-12-24,global,176,-1,52,26,1676356,Mistletoe And Holly - Remastered 1999,Frank Sinatra,spotify:track:7faDzZnZYqTyYThx2sbHVQ,Capitol Records,
+2025-12-24,global,177,120,13,230,1668980,Marlboro Rojo,Fuerza Regida,spotify:track:3hpm0fTeSqlhJbnqAgaLZs,Rancho Humilde/Street Mob Records/Sony Music Latin,2025-05-02
+2025-12-24,global,178,-1,130,4,1664219,Let It Snow! - 10th Anniversary,Michael Bublé,spotify:track:52vzetSrnLAlsNlhXdfBnH,Reprise,2024-12-05
+2025-12-24,global,179,-1,64,11,1663614,O Tannenbaum - Remastered 2012,Vince Guaraldi Trio,spotify:track:4YhY2qHdBmSX33uj8ms0oq,Craft Recordings,2012-01-01
+2025-12-24,global,180,121,1,2216,1658207,Blinding Lights,The Weeknd,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,Republic Records,2020-03-20
+2025-12-24,global,181,-1,33,62,1655772,"Baby, It's Cold Outside (feat. Meghan Trainor)","Brett Eldredge, Meghan Trainor",spotify:track:5Q2P43CJra0uRAogjHyJDK,Atlantic Nashville,2016-10-28
+2025-12-24,global,182,-1,154,12,1655707,Eu Me Apaixonei,Vitinho Imperador,spotify:track:4SjcIkVc4cvFgURD1EHxDM,Vitinho Imperador,2025-02-27
+2025-12-24,global,183,92,12,150,1646549,12 to 12,sombr,spotify:track:05od2qm2MTSKCHxy1GBp5W,Warner Records,2025-08-22
+2025-12-24,global,184,118,3,574,1641042,Let Me Love You,"DJ Snake, Justin Bieber",spotify:track:0lYBSQXN6rCTvUZvg9S0lU,DJ Snake Def Jam,2016-08-05
+2025-12-24,global,185,-1,60,19,1639764,Have Yourself A Merry Little Christmas,Judy Garland,spotify:track:030mot3ZKR3oskfMsqDB2R,Geffen,1944-01-01
+2025-12-24,global,186,112,2,930,1638118,"All The Stars (with SZA) - From ""Black Panther: The Album""","Kendrick Lamar, SZA",spotify:track:3GCdLUSnKSMJhs4Tj6CV3s,Black Panther (TDE/DMG) PS,2018-02-09
+2025-12-24,global,187,-1,26,79,1633708,Santa Baby,Kylie Minogue,spotify:track:2SBr3MK1sdMs8IxdRcN6qz,Parlophone UK,2015-11-13
+2025-12-24,global,188,119,5,1125,1624636,That's What I Like,Bruno Mars,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,Atlantic Records,2016-11-18
+2025-12-24,global,189,-1,189,1,1615453,Santa Claus Is Comin' to Town,Mariah Carey,spotify:track:1f2lkuLldqRzvaFjJdjGXX,Columbia,1994-10-28
+2025-12-24,global,190,126,7,289,1614293,VOY A LLeVARTE PA PR,Bad Bunny,spotify:track:59D4DOkspUbWyMmbAPQkxZ,Rimas Entertainment LLC.,2025-01-05
+2025-12-24,global,191,132,3,185,1607588,Soda Pop,"Saja Boys, Andrew Choi, Neckwav, Danny Chung, KEVIN WOO, samUIL Lee, KPop Demon Hunters Cast",spotify:track:02sy7FAs8dkDNYsHp4Ul3f,K-Pop Demon Hunters,2025-06-20
+2025-12-24,global,192,144,118,35,1597920,Ya Borracho,Herencia De Grandes,spotify:track:4NyUIohBa3CEMGcXURYSOh,Rancho Humilde,2025-11-07
+2025-12-24,global,193,-1,88,10,1590148,Santa Claus Is Comin' to Town,Frank Sinatra,spotify:track:6YeDjSHCDmJKgU8foiaruL,Columbia/Legacy,1994-11-08
+2025-12-24,global,194,113,94,16,1588459,Die On This Hill,SIENNA SPIRO,spotify:track:2gYTC8DsplN3RNdpdBcCOQ,Capitol Records,2025-10-10
+2025-12-24,global,195,153,28,171,1588232,Sahiba,Aditya Rikhari,spotify:track:0eLtIxPRNJfsmehITZ1qaJ,T-Series,2023-12-19
+2025-12-24,global,196,-1,113,5,1585884,Linus And Lucy,Vince Guaraldi Trio,spotify:track:33EcmYsTQVIGRGnGPOfTwu,Craft Recordings,1998-01-01
+2025-12-24,global,197,145,26,164,1580954,TU VAS SIN (fav),Rels B,spotify:track:6uiQ0DqbXTBc8tl0AUKZkR,DALE PLAY Records / Flakk Team,2025-06-20
+2025-12-24,global,198,-1,173,6,1571957,Silent Night,Michael Bublé,spotify:track:3Iev01vjk4AQP2AU36wNvU,Reprise,2024-12-05
+2025-12-24,global,199,-1,131,7,1571936,Cool Yule,"Louis Armstrong, The Commanders",spotify:track:33GkcZ89Aj254FaJoFwCl9,Verve,2022-10-28
+2025-12-24,global,200,-1,137,3,1571769,Christmas In Hollis,Run–D.M.C.,spotify:track:41onDks2UPbyjer5fMeUWf,Arista/Legacy,1988-09-16

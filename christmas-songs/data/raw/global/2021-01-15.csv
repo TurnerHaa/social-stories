@@ -1,0 +1,201 @@
+date,region,rank,previous_rank,peak_rank,days_on_chart,streams,track_name,artists,track_uri,labels,release_date
+2021-01-15,global,1,1,1,8,13714177,drivers license,Olivia Rodrigo,spotify:track:7lPN2DXiMsVn7XUKtOW1CS,Olivia Rodrigo PS,2021-01-08
+2021-01-15,global,2,2,1,78,4596678,DÁKITI,"Bad Bunny, JHAYCO",spotify:track:4MzXwWMhyBbmu6hOcLVD49,Rimas Entertainment LLC.,2020-11-27
+2021-01-15,global,3,4,1,159,3528454,Mood (feat. iann dior),"24kGoldn, iann dior",spotify:track:3tjFYV6RSFtuktYl3ZtYcq,Records/Columbia,2021-03-26
+2021-01-15,global,4,3,1,414,3519519,Blinding Lights,The Weeknd,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,Republic Records,2020-03-20
+2021-01-15,global,5,-1,5,1,3488986,"34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix","Ariana Grande, Doja Cat, Megan Thee Stallion",spotify:track:3jjBPF4NDMCU51psU8JPpR,Republic Records,2021-01-15
+2021-01-15,global,6,6,1,85,3246185,positions,Ariana Grande,spotify:track:35mvY5S1H3J2QZyna3TFe0,Republic Records,2020-10-30
+2021-01-15,global,7,7,2,85,3217106,BICHOTA,KAROL G,spotify:track:7vrJn5hDSXRmdXoR30KgF1,UMLE - Latino,2020-10-23
+2021-01-15,global,8,8,4,15,3076077,Anyone,Justin Bieber,spotify:track:31qCy5ZaophVA81wtlwLc4,RBMG/Def Jam,2021-01-01
+2021-01-15,global,9,9,9,21,3014192,Good Days,SZA,spotify:track:3YJJjQPAbDT7mGpX3WtQ9A,Top Dawg Entertainment/RCA Records,2020-12-25
+2021-01-15,global,10,10,9,49,2907617,WITHOUT YOU,The Kid LAROI,spotify:track:27OeeYzk6klgBh83TSvGMA,Columbia,2021-07-27
+2021-01-15,global,11,11,9,83,2874607,Whoopty,CJ,spotify:track:5vGLcdRuSbUhD8ScwsGSdA,CJ Music Group/T-Series,2020-08-20
+2021-01-15,global,12,5,2,78,2802308,34+35,Ariana Grande,spotify:track:6Im9k8u9iIzKMrmV7BWtlF,Republic Records,2020-10-30
+2021-01-15,global,13,12,2,155,2730982,Lemonade (feat. NAV),"Internet Money, Gunna, Don Toliver, NAV",spotify:track:7hxHWCCAIIxFLCzvDgnQHX,Internet Money Records / TenThousand Projects,2020-08-28
+2021-01-15,global,14,14,2,50,2695027,LA NOCHE DE ANOCHE,"Bad Bunny, ROSALÍA",spotify:track:2XIc1pqjXV3Cr2BQUGNBck,Rimas Entertainment LLC.,2020-11-27
+2021-01-15,global,15,13,1,148,2597856,Dynamite,BTS,spotify:track:4saklk6nie3yiGePpBwUoc,BIGHIT MUSIC,2020-11-20
+2021-01-15,global,16,16,16,28,2588564,Bandido,"Myke Towers, Juhn",spotify:track:1xK1Gg9SxG8fy2Ya373oqb,White World Music,2020-12-10
+2021-01-15,global,17,15,11,106,2587334,Levitating (feat. DaBaby),"Dua Lipa, DaBaby",spotify:track:5nujrmhLynf4yMoMtj8AQF,Warner Records,2020-03-27
+2021-01-15,global,18,19,18,45,2511229,Save Your Tears,The Weeknd,spotify:track:5QO79kh1waicV47BqGRL3g,Republic Records,2020-03-20
+2021-01-15,global,19,18,17,51,2454619,Hecha Pa' Mi,Boza,spotify:track:3VvA1wSxukMLsvXoXtlwWx,Sony Music Latin,2020-07-31
+2021-01-15,global,20,-1,20,1,2421604,Bad Boy (with Young Thug),"Juice WRLD, Young Thug",spotify:track:43CIWpJaJHRcI4mUSjqgc2,Grade A Productions/Interscope Records,2021-01-15
+2021-01-15,global,21,17,2,65,2405387,Therefore I Am,Billie Eilish,spotify:track:54bFM56PmE4YLRnqpW6Tha,Darkroom/Interscope Records,2020-11-12
+2021-01-15,global,22,23,22,81,2257969,The Business,Tiësto,spotify:track:6f3Slt0GbA2bPZlz0aIFXN,Atlantic Records,2020-09-16
+2021-01-15,global,23,20,12,189,2250200,you broke me first,Tate McRae,spotify:track:45bE4HXI0AwGZXfZtMp8JR,RCA Records Label,2021-03-26
+2021-01-15,global,24,21,5,131,2238158,What You Know Bout Love,Pop Smoke,spotify:track:1tkg4EHVoqnhR6iFEXb60y,Victor Victor Worldwide,2020-07-03
+2021-01-15,global,25,22,6,57,2150860,Monster (Shawn Mendes & Justin Bieber),"Shawn Mendes, Justin Bieber",spotify:track:1HbA4N1MiOsPthALesGFR1,Shawn Mendes LP4-5 PS/ Island,2020-12-04
+2021-01-15,global,26,24,10,187,2038362,Head & Heart (feat. MNEK),"Joel Corry, MNEK",spotify:track:6cx06DFPPHchuUAcTxznu9,Atlantic Records UK,2020-07-03
+2021-01-15,global,27,-1,27,1,1987392,De Una Vez,Selena Gomez,spotify:track:0HC6S4VpCGAZvyxTdrMRIQ,Selena Gomez Latin Project,2021-03-12
+2021-01-15,global,28,34,1,162,1970744,WAP (feat. Megan Thee Stallion),"Cardi B, Megan Thee Stallion",spotify:track:4Oun2ylbjFKMPTiaSbbCih,Atlantic/KSR,2020-08-07
+2021-01-15,global,29,25,4,426,1966071,Watermelon Sugar,Harry Styles,spotify:track:6UelLqGlWMcVH1E5c4H7lY,Columbia,2019-12-13
+2021-01-15,global,30,32,10,57,1953844,Prisoner (feat. Dua Lipa),"Miley Cyrus, Dua Lipa",spotify:track:2Oycxb8QbPkpHTo8ZrmG0B,RCA Records Label,2020-11-27
+2021-01-15,global,31,30,2,169,1951483,Hawái,Maluma,spotify:track:1yoMvmasuxZfqHEipJhRbp,Sony Music Latin,2020-08-21
+2021-01-15,global,32,29,16,64,1947449,HOLIDAY,Lil Nas X,spotify:track:6zFMeegAMYQo0mt8rXtrli,Columbia,2020-11-13
+2021-01-15,global,33,27,5,92,1927140,Lonely (with benny blanco),"Justin Bieber, benny blanco",spotify:track:4y4spB9m0Q6026KfkAvy9Q,Friends Keep Secrets/Def Jam Recordings/Interscope Records,2020-10-16
+2021-01-15,global,34,31,1,36,1866012,willow,Taylor Swift,spotify:track:3Uo7WG0vmLQ07WB4BDwy7D,Taylor Swift,2020-12-10
+2021-01-15,global,35,33,4,738,1850114,Someone You Loved,Lewis Capaldi,spotify:track:7qEHsqek33rTcFNT9PFqLf,Vertigo Berlin,2019-05-17
+2021-01-15,global,36,28,12,26,1848317,Afterglow,Ed Sheeran,spotify:track:0E4Y1XIbs8GrAT1YqVy6dq,Atlantic Records UK,2020-12-21
+2021-01-15,global,37,38,37,75,1846931,Paradise (feat. Dermot Kennedy),"MEDUZA, Dermot Kennedy",spotify:track:6ft4hAq6yde8jPZY2i5zLr,Universal-Island Records Ltd.,2020-10-30
+2021-01-15,global,38,35,25,81,1831147,Reloj,"Rauw Alejandro, Anuel AA",spotify:track:4loQgPwJHocL3dFwLfjb1J,Sony Music Latin/Duars Entertainment,2020-11-13
+2021-01-15,global,39,93,36,8,1792164,Vibez,ZAYN,spotify:track:6T6D9CIrHkALcHPafDFA6L,RCA Records Label,2021-01-15
+2021-01-15,global,40,40,1,274,1772188,ROCKSTAR (feat. Roddy Ricch),"DaBaby, Roddy Ricch",spotify:track:7ytR5pFWmSjzHJIeQkgog4,South Coast Music Group/Interscope Records,2020-04-17
+2021-01-15,global,41,39,6,197,1758110,For The Night,"Pop Smoke, Lil Baby, DaBaby",spotify:track:0PvFJmanyNQMseIFrU708S,Victor Victor Worldwide,2020-07-03
+2021-01-15,global,42,41,21,99,1731654,La Nota,"Manuel Turizo, Rauw Alejandro, Myke Towers",spotify:track:7ndTONDDRFGiPnnhOzOXxq,Sony Music Latin/La Industria,2020-10-08
+2021-01-15,global,43,36,9,40,1729614,Snowman,Sia,spotify:track:7uoFMmxln0GPXQ0AcCBXRq,Monkey Puzzle/Atlantic,2018-11-01
+2021-01-15,global,44,42,2,399,1708109,Roses - Imanbek Remix,"SAINt JHN, Imanbek",spotify:track:0zLCBJZSiELJf02ucPP9wb,Columbia/B1 Recordings,2019-10-09
+2021-01-15,global,45,26,26,67,1707986,Goosebumps,HVME,spotify:track:20McUFi8KCIVdNDLrkTDuZ,Columbia/B1 Recordings,2020-06-12
+2021-01-15,global,46,43,1,548,1678853,Dance Monkey,Tones And I,spotify:track:1rgnBhdG2JDFTbYkYRZAku,Elektra (NEK),2021-07-16
+2021-01-15,global,47,37,11,178,1677383,Heather,Conan Gray,spotify:track:4xqrdfXkTW4T0RauPLv3WA,Republic Records,2020-03-20
+2021-01-15,global,48,44,41,144,1598501,Sweater Weather,The Neighbourhood,spotify:track:2QjOHCTQ1Jl3zawyYOpxh6,Columbia,2013-04-19
+2021-01-15,global,49,45,2,442,1596143,Don't Start Now,Dua Lipa,spotify:track:3PfIrDoz19wz7qK7tYeu62,Warner Records,2020-03-27
+2021-01-15,global,50,47,32,85,1552965,Chica Ideal,"Sebastian Yatra, Guaynaa",spotify:track:21N4Buj4xsyLb218lYle61,UMLE - Latino,2020-10-16
+2021-01-15,global,51,46,17,422,1493747,Before You Go,Lewis Capaldi,spotify:track:2gMXnyrvIjhVBUZwvLZDMP,Vertigo Berlin,2019-11-22
+2021-01-15,global,52,48,39,42,1484924,BEBÉ,"Camilo, El Alfa",spotify:track:7D7EH7MGyNHWSkqrszerI1,Sony Music Latin,2020-11-25
+2021-01-15,global,53,49,11,134,1457771,Relación - Remix,"Sech, Daddy Yankee, J Balvin, ROSALÍA, Farruko",spotify:track:35UUpTmrcFXNIVIN26ujXl,Rich Music,2020-09-04
+2021-01-15,global,54,51,51,31,1439056,GIRL LIKE ME,"Black Eyed Peas, Shakira",spotify:track:2vBET2pmrQqafaS6zIaYta,Epic,2020-11-02
+2021-01-15,global,55,52,3,50,1384935,TE MUDASTE,Bad Bunny,spotify:track:5RubKOuDoPn5Kj5TLVxSxY,Rimas Entertainment LLC.,2020-11-27
+2021-01-15,global,56,55,19,133,1336920,La Tóxica,Farruko,spotify:track:15OjBeqNX3bShsGYQbteRv,Sony Music Latin,2020-07-24
+2021-01-15,global,57,54,2,154,1335785,Laugh Now Cry Later (feat. Lil Durk),"Drake, Lil Durk",spotify:track:2SAqBLGA283SUiwJ3xOUVI,OVO,2020-08-14
+2021-01-15,global,58,56,26,173,1317478,Take You Dancing,Jason Derulo,spotify:track:59qrUpoplZxbIZxk6X0Bm3,Atlantic Records,2020-07-22
+2021-01-15,global,59,58,4,120,1312136,Holy (feat. Chance The Rapper),"Justin Bieber, Chance the Rapper",spotify:track:5u1n1kITHCxxp8twBcZxWy,RBMG/Def Jam,2020-09-18
+2021-01-15,global,60,57,23,116,1296615,Vida de Rico,Camilo,spotify:track:73nAK3HgQK8dak83Y2WQ8F,Sony Music Latin,2020-09-21
+2021-01-15,global,61,158,61,4,1295930,Chemtrails Over The Country Club,Lana Del Rey,spotify:track:1PZDyestTVydtHpaIcfUJg,Polydor Records,2021-03-19
+2021-01-15,global,62,83,53,8,1295839,Best Friend (feat. Doja Cat),"Saweetie, Doja Cat",spotify:track:2etHQJxIbV0soyPhelVs9Y,ICY/Warner Records,2021-01-07
+2021-01-15,global,63,50,12,105,1288350,Wonder,Shawn Mendes,spotify:track:6ZuahEctZD6w75peme58hm,Shawn Mendes LP4-5 PS/ Island,2020-12-04
+2021-01-15,global,64,71,1,218,1285312,Savage Love (Laxed - Siren Beat),"Jawsh 685, Jason Derulo",spotify:track:1xQ6trAsedVPCdbtDAmk0c,Columbia,2020-06-11
+2021-01-15,global,65,66,6,300,1283854,Breaking Me,"Topic, A7S",spotify:track:3H7ihDc1dqLriiWXwsc2po,Intercord,2019-12-19
+2021-01-15,global,66,53,52,95,1271364,Train Wreck,James Arthur,spotify:track:55Am8neGJkdj2ADaM3aw5H,Columbia,2016-10-28
+2021-01-15,global,67,60,37,103,1266597,Mi Niña,"Wisin, Myke Towers, Los Legendarios",spotify:track:2bgcUk2A3jjKbCJ7KPquTi,La Base Music Group/ WK Records,2020-09-23
+2021-01-15,global,68,59,40,83,1260532,SO DONE,The Kid LAROI,spotify:track:3qgPpwtuRu5oP8EtFSj8HE,Columbia,2021-07-27
+2021-01-15,global,69,69,30,130,1232455,Una Locura,"Ozuna, J Balvin, Chencho Corleone",spotify:track:5y7DaS3jAc9eZzcSOoUIwU,Aura Music Corp.,2020-09-04
+2021-01-15,global,70,63,1,503,1223386,Circles,Post Malone,spotify:track:21jGcNKet2qwijlDFuPiPb,Republic Records,2019-09-06
+2021-01-15,global,71,62,15,125,1222083,Put Your Records On,Ritt Momney,spotify:track:6AGOKlMZWLCaEJGnaROtF9,Columbia,2020-04-24
+2021-01-15,global,72,64,21,90,1220910,Golden,Harry Styles,spotify:track:45S5WTQEGOB1VHr1Q4FuPl,Columbia,2019-12-13
+2021-01-15,global,73,68,9,175,1218603,UN DIA (ONE DAY) (Feat. Tainy),"J Balvin, Dua Lipa, Bad Bunny, Tainy",spotify:track:0EhpEsp4L0oRGM0vmeaN5e,Universal Music Latino/ NEON16,2020-07-24
+2021-01-15,global,74,72,2,977,1202899,Lucid Dreams,Juice WRLD,spotify:track:285pBltuF7vW8TeWk8hdRR,Juice WRLD Mixtape / ISR P&D,2018-12-10
+2021-01-15,global,75,67,4,336,1202475,death bed (coffee for your head),"Powfu, beabadoobee",spotify:track:7eJMfftS33KTjuF7lTsMCx,Columbia,2020-02-08
+2021-01-15,global,76,74,1,400,1198418,The Box,Roddy Ricch,spotify:track:0nbXyq5TXYPCO7pr3N8S4I,Atlantic Records,2019-12-06
+2021-01-15,global,77,-1,77,1,1196538,Connexion,ZAYN,spotify:track:5euRP53moGQyGCsq8aNjvo,RCA Records Label,2021-01-15
+2021-01-15,global,78,61,3,57,1188574,Life Goes On,BTS,spotify:track:249gnXrbfmV8NG6jTEMSwD,BIGHIT MUSIC,2020-11-20
+2021-01-15,global,79,94,79,5,1177478,Streets,Doja Cat,spotify:track:60ynsPSSKe6O3sfwRnIBRf,Kemosabe Records/RCA Records,2019-11-07
+2021-01-15,global,80,70,19,998,1175257,lovely (with Khalid),"Billie Eilish, Khalid",spotify:track:0u2P5u6lvoDfwTYjAADbn4,Darkroom,2018-04-19
+2021-01-15,global,81,78,54,55,1170132,Body,Megan Thee Stallion,spotify:track:0A1hoCfMLkiAgvhWkkucJa,300 Entertainment,2020-11-20
+2021-01-15,global,82,65,63,46,1167697,"All I Want - From ""High School Musical: The Musical: The Series""","Olivia Rodrigo, Disney",spotify:track:4Yxc55NX3tAXC2mHRAhtcW,Walt Disney Records,2019-11-27
+2021-01-15,global,83,76,1,820,1156073,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",spotify:track:0RiRZpuVRbi7oqRdSMwhQY,Republic Records,2019-09-06
+2021-01-15,global,84,82,6,188,1153724,Wishing Well,Juice WRLD,spotify:track:2U5WueTLIK5WJLD7mvDODv,Grade A Productions/Interscope Records,2020-07-10
+2021-01-15,global,85,77,18,77,1139904,pov,Ariana Grande,spotify:track:3UoULw70kMsiVXxW0L3A33,Republic Records,2020-10-30
+2021-01-15,global,86,99,44,121,1127872,Daisy,Ashnikko,spotify:track:2g1KggY9PKvsoEAOaiz4xx,Parlophone UK,2021-01-15
+2021-01-15,global,87,86,10,1256,1124953,goosebumps,Travis Scott,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Cactus Jack / Epic,2016-09-16
+2021-01-15,global,88,88,50,122,1124032,Head Shoulders Knees & Toes (feat. Norma Jean Martine),"Ofenbach, Quarterhead, Norma Jean Martine",spotify:track:6i7zAdNhzUN2k1HcrBxPHG,Elektra France,2020-05-08
+2021-01-15,global,89,84,8,342,1124017,Blueberry Faygo,Lil Mosey,spotify:track:22LAwLoDA5b4AaGSkg6bKW,Mogul Vision/Interscope Records,2020-02-06
+2021-01-15,global,90,75,19,207,1123218,La Curiosidad,"Jay Wheeler, DJ Nelson, Myke Towers",spotify:track:4HYDUMY0xSpeBr0AMY9cUz,Linked Music / Dynamic Records / EMPIRE,2020-06-12
+2021-01-15,global,91,80,3,405,1121719,Adore You,Harry Styles,spotify:track:3jjujdWJ72nww5eGnfs2E7,Columbia,2019-12-13
+2021-01-15,global,92,79,73,68,1116228,At My Worst,Pink Sweat$,spotify:track:2tI4WyzqOOwC23S5m0kqcB,Atlantic Records,2020-12-04
+2021-01-15,global,93,89,89,19,1113055,All We Got (feat. KIDDO),"Robin Schulz, KIDDO",spotify:track:1FP9s72rDYty6mfoOEYKnE,WM Germany,2020-10-16
+2021-01-15,global,94,81,23,123,1112139,Se Te Nota (with Guaynaa),"Lele Pons, Guaynaa",spotify:track:11EnQRgRMJwMAesfkB5pnu,Shots Studios & Music/10:22pm/Interscope Records,2020-09-02
+2021-01-15,global,95,73,2,482,1098971,Memories,Maroon 5,spotify:track:2b8fOow8UzyDFAE27YhOZM,Interscope Records*,2021-06-11
+2021-01-15,global,96,97,96,27,1095117,Heat Waves,Glass Animals,spotify:track:02MWAaffLxlfxAUY7c5dvx,Polydor Records,2020-08-07
+2021-01-15,global,97,92,92,55,1093415,Polvo,"Nicky Jam, Myke Towers",spotify:track:68mrW6gXHgupgSiDHgaDi5,Sony Music Latin,2020-11-20
+2021-01-15,global,98,91,1,573,1092643,Señorita,"Shawn Mendes, Camila Cabello",spotify:track:6v3KW9xbzN5yKLt9YKDYA2,Island Records,2019-06-19
+2021-01-15,global,99,85,31,141,1089708,Jeans,Justin Quiles,spotify:track:3GtnId3Cm1Xa6joCj08nzW,WEA Latina,2020-08-14
+2021-01-15,global,100,87,35,147,1082416,Parce (feat. Justin Quiles),"Maluma, Lenny Tavárez, Justin Quiles",spotify:track:4RJz8NfIe09gpKMiRUWKhJ,Sony Music Latin,2020-08-21
+2021-01-15,global,101,90,12,189,1072190,"Ay, DiOs Mío!",KAROL G,spotify:track:7x4ASXYEKfQBCewcZhK776,UMLE - Latino,2020-07-10
+2021-01-15,global,102,104,101,21,1054074,Love Not War (The Tampa Beat),"Jason Derulo, Nuka",spotify:track:4Lt6GXGzYsa1tgkv3nGSTm,Robots & Humans,2020-11-20
+2021-01-15,global,103,102,17,110,1050322,Dreams - 2004 Remaster,Fleetwood Mac,spotify:track:0ofHAoxe9vBkTCp2UQIavz,Rhino/Warner Records,1977-02-04
+2021-01-15,global,104,100,11,545,1048940,Robbery,Juice WRLD,spotify:track:6Hj9jySrnFppAI0sEMCZpJ,Grade A Productions/Interscope Records,2019-03-08
+2021-01-15,global,105,98,74,40,1048140,"Nathy Peluso: Bzrp Music Sessions, Vol. 36/66","Bizarrap, NATHY PELUSO",spotify:track:78SeXVRJ7KCqVmOwTiFjnI,DALE PLAY Records,2020-11-27
+2021-01-15,global,106,-1,26,24,1048017,Better,ZAYN,spotify:track:5CBnWXD8M7e8Q6WubFLtXy,RCA Records Label,2021-01-15
+2021-01-15,global,107,103,90,129,1041443,Hello,"Pop Smoke, A Boogie Wit da Hoodie",spotify:track:2r6OAV3WsYtXuXjvJ1lIDi,Victor Victor Worldwide,2020-07-20
+2021-01-15,global,108,96,1,468,1026254,HIGHEST IN THE ROOM,Travis Scott,spotify:track:3eekarcy7kvN4yt5ZFzltW,Cactus Jack/Epic,2019-10-04
+2021-01-15,global,109,105,2,189,1016388,Come & Go (with Marshmello),"Juice WRLD, Marshmello",spotify:track:2Y0wPrPQBrGhoLn14xRYCG,Grade A Productions/Interscope Records,2020-07-10
+2021-01-15,global,110,108,1,657,1006424,bad guy,Billie Eilish,spotify:track:2Fxmhks0bxGSBdJ92vM42m,Darkroom/Interscope Records,2019-03-29
+2021-01-15,global,111,115,6,294,1002659,Break My Heart,Dua Lipa,spotify:track:017PF4Q3l4DBUiWoXk4OWT,Warner Records,2020-03-27
+2021-01-15,global,112,119,3,434,1001247,Tusa,"KAROL G, Nicki Minaj",spotify:track:7k4t7uLgtOxPwTpFmtJNTY,TUSA - Karol G & Nicki Minaj,2019-11-07
+2021-01-15,global,113,109,3,370,998208,Life Is Good (feat. Drake),"Future, Drake",spotify:track:1K5KBOgreBi5fkEHvg5ap3,Epic/Freebandz,2020-05-15
+2021-01-15,global,114,110,1,251,994502,Stuck with U (with Justin Bieber),"Ariana Grande, Justin Bieber",spotify:track:4HBZA5flZLE435QTztThqH,"Ariana Grande & Justin Bieber ""Stuck With U""- Charity",2020-05-08
+2021-01-15,global,115,114,5,424,991765,Falling,Trevor Daniel,spotify:track:2rRJrJEo19S2J82BDsQ3F7,Alamo,2020-03-26
+2021-01-15,global,116,101,91,101,986652,Daddy Issues,The Neighbourhood,spotify:track:5E30LdtzQTGqRvNd7l6kG5,Columbia,2015-10-30
+2021-01-15,global,117,121,2,839,982120,Shallow,"Lady Gaga, Bradley Cooper",spotify:track:2VxeLyX666F8uXCJ0dZF8B,A Star is Born OST,2018-10-05
+2021-01-15,global,118,113,2,1202,980253,Jocelyn Flores,XXXTENTACION,spotify:track:7m9OqQk4RVRkw9JJdeAw96,Bad Vibes Forever / EMPIRE,2017-08-25
+2021-01-15,global,119,95,1,237,972705,Rain On Me (with Ariana Grande),"Lady Gaga, Ariana Grande",spotify:track:7ju97lgwC2rKQ6wwsf9no9,Interscope,2020-05-29
+2021-01-15,global,120,117,15,1441,972374,Believer,Imagine Dragons,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Kid Ina Korner / Interscope,2017-06-23
+2021-01-15,global,121,111,7,1463,959419,Say You Won't Let Go,James Arthur,spotify:track:5uCax9HTNlzGybIStD3vDh,Columbia,2016-10-28
+2021-01-15,global,122,107,37,424,957427,If the World Was Ending (feat. Julia Michaels),"JP Saxe, Julia Michaels",spotify:track:2kJwzbxV2ppxnQoYw4GLBZ,Arista Records,2019-10-17
+2021-01-15,global,123,112,51,8,957257,Wasted On You,Morgan Wallen,spotify:track:3cBsEDNhFI9E82vPj3kvi3,Morgan Wallen,2021-01-08
+2021-01-15,global,124,126,10,153,956802,Midnight Sky,Miley Cyrus,spotify:track:4i2qxFEVVUi8yOYoxB8TCX,RCA Records Label,2020-11-27
+2021-01-15,global,125,124,22,496,955618,All Girls Are The Same,Juice WRLD,spotify:track:4VXIryQMWpIdGgYR4TrjT1,Juice WRLD Mixtape / ISR P&D,2018-12-10
+2021-01-15,global,126,106,55,37,955383,Reminds Me Of You,"Juice WRLD, The Kid LAROI",spotify:track:5YSHygGN9D0mID1NsVd5my,Grade A Productions/Interscope Records,2020-12-08
+2021-01-15,global,127,118,80,34,951063,Way Out (feat. Big Sean),"Jack Harlow, Big Sean",spotify:track:57VeLYXrvNxe8Vs18K2M9W,Generation Now/Atlantic,2020-12-11
+2021-01-15,global,128,-1,128,1,948441,Don't Play,"Anne-Marie, KSI, Digital Farm Animals",spotify:track:4I5bvu2KDsrCg0EWHIcvul,Asylum Records,2021-01-15
+2021-01-15,global,129,116,18,389,944217,Falling,Harry Styles,spotify:track:1ZMiCix7XSAbfAJlEZWMCp,Columbia,2019-12-13
+2021-01-15,global,130,123,36,159,939368,my ex's best friend (with blackbear),"mgk, blackbear",spotify:track:7kDUspsoYfLkWnZR7qwHZl,Bad Boy/Interscope Records,2020-09-25
+2021-01-15,global,131,127,33,133,937062,Despeinada,"Ozuna, Camilo",spotify:track:0JAZWvvqttGFm4UMDsPQXC,Aura Music Corp.,2020-09-04
+2021-01-15,global,132,130,10,192,933569,Mood Swings,"Pop Smoke, Lil Tjay",spotify:track:5rZlwNFl01HqLWBQGryKSm,Victor Victor Worldwide,2020-07-03
+2021-01-15,global,133,120,21,189,933562,Tattoo - Remix with Camilo,"Rauw Alejandro, Camilo",spotify:track:4G3PTss3mU33Tau7t4KbwE,Sony Music Latin/Duars Entertainment,2020-11-13
+2021-01-15,global,134,133,34,307,931811,Dior,Pop Smoke,spotify:track:79s5XnCN4TJKTVMSmOx8Ep,Victor Victor Worldwide,2019-07-26
+2021-01-15,global,135,125,122,19,923688,Why'd You Only Call Me When You're High?,Arctic Monkeys,spotify:track:48q0vSHcJdhK3IiXH8C5WJ,Domino Recording Co,2013-09-09
+2021-01-15,global,136,134,12,494,916341,Ride It,Regard,spotify:track:2tnVG71enUj33Ic2nFN6kZ,Ministry of Sound Recordings,2019-07-26
+2021-01-15,global,137,137,1,720,914928,7 rings,Ariana Grande,spotify:track:6ocbgoVGwYJhOv1GgI9NsF,Republic Records,2019-02-08
+2021-01-15,global,138,122,60,14,913143,Somebody’s Problem,Morgan Wallen,spotify:track:42lqBjPYlmL1EXpMDXvhSN,Morgan Wallen,2021-01-08
+2021-01-15,global,139,135,4,181,911185,POPSTAR (feat. Drake),"DJ Khaled, Drake",spotify:track:6EDO9iiTtwNv6waLwa1UUq,OVO/We The Best/Epic,2020-07-17
+2021-01-15,global,140,128,44,104,907853,Sofia,Clairo,spotify:track:7B3z0ySL9Rr0XvZEAjWZzM,FADER Label,2019-08-02
+2021-01-15,global,141,-1,141,1,905262,Calamity,ZAYN,spotify:track:1hGHHKR7KFF2Wl78LBgKBz,RCA Records Label,2021-01-15
+2021-01-15,global,142,-1,142,1,903633,Outside,ZAYN,spotify:track:6f8cT6qJ1KqqVXjx0xRJBt,RCA Records Label,2021-01-15
+2021-01-15,global,143,131,3,1402,901112,Perfect,Ed Sheeran,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Atlantic Records UK,2017-03-03
+2021-01-15,global,144,132,127,19,890131,Hayloft,Mother Mother,spotify:track:2kS6td1yvmpNgZTt1q5pQq,Last Gang,2008-09-23
+2021-01-15,global,145,-1,145,1,888543,Lie Lie Lie,Joshua Bassett,spotify:track:1jOBlsvKhdqjZAlUAia4Qz,Warner Records,2021-01-14
+2021-01-15,global,146,139,4,271,884491,In Your Eyes,The Weeknd,spotify:track:7szuecWAPwGoV1e5vGu8tl,Republic Records,2020-03-20
+2021-01-15,global,147,138,3,357,881353,Godzilla (feat. Juice WRLD),"Eminem, Juice WRLD",spotify:track:7FIWs0pqAYbP91WWM0vlTQ,Shady/Aftermath/Interscope Records,2020-01-17
+2021-01-15,global,148,129,57,81,873812,Tyler Herro,Jack Harlow,spotify:track:3w1WjD2zJqjBjDz5fwqQPJ,Generation Now/Atlantic,2020-12-11
+2021-01-15,global,149,136,100,146,863484,Maniac,Conan Gray,spotify:track:6KfoDhO4XUWSbnyKjNp9c4,Republic Records,2020-03-20
+2021-01-15,global,150,145,11,203,862569,"Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track","Jack Harlow, Tory Lanez, DaBaby, Lil Wayne",spotify:track:0ZLuW8uOXdFNWcI40C0OC2,Generation Now/Atlantic,2020-12-11
+2021-01-15,global,151,144,2,892,861291,SICKO MODE,Travis Scott,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Cactus Jack / Epic,2018-08-03
+2021-01-15,global,152,143,1,1037,852976,SAD!,XXXTENTACION,spotify:track:3ee8Jmje8o58CHK66QrVC2,"Bad Vibes Forever, LLC",2018-03-16
+2021-01-15,global,153,140,2,202,850860,How You Like That,BLACKPINK,spotify:track:4SFknyjLcyTLJFPKD2m96o,YG Entertainment/Interscope Records,2020-10-02
+2021-01-15,global,154,142,141,22,850149,Do I Wanna Know?,Arctic Monkeys,spotify:track:3rq5w4bQGigXOfdN30ATJt,Domino Recording Co,2013-09-09
+2021-01-15,global,155,147,4,339,848893,Intentions (feat. Quavo),"Justin Bieber, Quavo",spotify:track:4umIPjkehX1r7uhmGvXiSV,RBMG/Def Jam,2020-02-14
+2021-01-15,global,156,153,13,70,846333,Hawái - Remix,"Maluma, The Weeknd",spotify:track:0GzuHFG4Ql6DoyxFRnIk3F,Sony Music Latin,2020-11-05
+2021-01-15,global,157,148,9,289,843335,ily (i love you baby) (feat. Emilee),"Surf Mesa, Emilee",spotify:track:62aP9fBQKYKxi7PDXwcUAS,Astralwerks,2019-11-26
+2021-01-15,global,158,152,12,243,841451,La Jeepeta - Remix,"Nio Garcia, Anuel AA, Myke Towers, Brray, Juanka",spotify:track:6bvfJf4KjonPMuPfGfy3S2,"Flow La Movie, Inc.",2020-07-24
+2021-01-15,global,159,146,1,1449,841191,Shape of You,Ed Sheeran,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Atlantic Records UK,2017-03-03
+2021-01-15,global,160,-1,160,1,839452,Goosebumps - Remix,"Travis Scott, HVME",spotify:track:5uEYRdEIh9Bo4fpjDd4Na9,Cactus Jack/Epic,2021-01-15
+2021-01-15,global,161,159,10,866,838065,Bohemian Rhapsody,Queen,spotify:track:4u7EnebtmKWzUH433cf5Qv,Columbia,1975-11-21
+2021-01-15,global,162,151,12,33,835663,BOOKER T,Bad Bunny,spotify:track:26w9NTiE9NGjW1ZvIOd1So,Rimas Entertainment LLC.,2020-11-27
+2021-01-15,global,163,155,2,443,834225,ROXANNE,Arizona Zervas,spotify:track:696DnlkuDOXcMAnKlTgXXK,Arizona Zervas,2019-10-10
+2021-01-15,global,164,149,43,150,828543,Mi Cuarto,Jerry Di,spotify:track:6fmQjRuo7XvRFCK2qex5hQ,Nacho,2020-04-03
+2021-01-15,global,165,175,77,19,825672,Meia Noite (Você tem meu Whatsapp),Tarcísio do Acordeon,spotify:track:6sPBi0qLI6KM3yXX56NxsA,Sua Música Digital,2020-12-17
+2021-01-15,global,166,150,1,424,815152,everything i wanted,Billie Eilish,spotify:track:3ZCTVFBt2Brf31RLEnCkWJ,Darkroom/Interscope Records,2019-11-13
+2021-01-15,global,167,160,1,286,814524,Toosie Slide,Drake,spotify:track:466cKvZn1j45IpxDdYZqdA,OVO,2020-05-01
+2021-01-15,global,168,-1,168,1,813863,Sweat,ZAYN,spotify:track:6ZHRi0QxzSnlevyhyNkj4a,RCA Records Label,2021-01-15
+2021-01-15,global,169,162,5,368,810447,Say So,Doja Cat,spotify:track:3Dv1eDb0MEgF93GpLXlucZ,Kemosabe Records/RCA Records,2019-11-07
+2021-01-15,global,170,166,166,5,806273,No Te Enamores (Remix),"Milly, Farruko, Nio Garcia, Jay Wheeler, Amenazzy",spotify:track:2mM3gZ0BbPwPPMelbA8vgt,Carbon Fiber Music,2021-11-12
+2021-01-15,global,171,164,164,19,806258,Ponte Pa' Mi,Justin Quiles,spotify:track:4C6BlqqMwjFzOXzqpTeoWR,WEA Latina,2020-11-20
+2021-01-15,global,172,141,3,34,803217,champagne problems,Taylor Swift,spotify:track:0sY6ZUTh4yoctD8VIXz339,Taylor Swift,2020-12-11
+2021-01-15,global,173,157,77,674,802482,All of Me,John Legend,spotify:track:3U4isOIWM3VvDubwSI3y7a,G.O.O.D. Music/Columbia,2013-08-30
+2021-01-15,global,174,179,31,69,797888,Tú Me Dejaste De Querer,"C. Tangana, Niño de Elche, La Húngara",spotify:track:0XinBYhf1X3kdvKQHOX971,Sony Music Entertainment,2020-11-05
+2021-01-15,global,175,154,151,31,797872,Yellow,Coldplay,spotify:track:3AJwUDP919kvQ9QcozQPxg,Parlophone UK,2000-07-10
+2021-01-15,global,176,161,9,491,791099,hot girl bummer,blackbear,spotify:track:2mt1IqcFyY1zmYZT8Q3xw9,Alamo,2020-08-21
+2021-01-15,global,177,-1,177,1,789803,Tightrope,ZAYN,spotify:track:44ngiCPfS8FfdJOqN0eULl,RCA Records Label,2021-01-15
+2021-01-15,global,178,169,64,48,787870,Si Me Tomo Una Cerveza,"Migrantes, Alico, Nico Valdi",spotify:track:3lCbsHaN1wCxyDzcNN2x4N,LEB Records,2020-11-07
+2021-01-15,global,179,-1,179,1,786654,When Love's Around (feat. Syd),"ZAYN, Syd",spotify:track:6bL1Rqcx1RXG6VsMmrYN8F,RCA Records Label,2021-01-15
+2021-01-15,global,180,163,114,120,786065,Someone To You,BANNERS,spotify:track:2f0pn9DkEJwAzXApnFh5cr,Island Records,2019-10-04
+2021-01-15,global,181,178,57,24,783157,MODO TURBO,"Luísa Sonza, Pabllo Vittar, Anitta",spotify:track:0YqTL3nSL36OFdHwHoqCag,Universal Music Ltda.,2020-12-21
+2021-01-15,global,182,167,36,106,779192,Diamonds,Sam Smith,spotify:track:1hJIbOjWpid6LtnozHmzRS,PLG - Capitol,2020-10-30
+2021-01-15,global,183,171,171,11,773902,Cry Baby (feat. DaBaby),"Megan Thee Stallion, DaBaby",spotify:track:4aarlAfLKVCTxUDNgbwhjH,300 Entertainment,2020-11-20
+2021-01-15,global,184,-1,184,1,773702,Masterpiece,DaBaby,spotify:track:26UxwWl9xCb83OynXELJcL,South Coast Music Group/Interscope Records,2021-01-15
+2021-01-15,global,185,170,1,589,773345,I Don't Care (with Justin Bieber),"Ed Sheeran & Justin Bieber, Justin Bieber",spotify:track:0hVXuCcriWRGvwMV1r5Yn9,Atlantic Records UK,2019-07-12
+2021-01-15,global,186,-1,114,4,770013,"Ele É Ele, Eu Sou Eu","Wesley Safadão, Os Barões Da Pisadinha",spotify:track:7EWXP47VlXKO3r7mNxuWHw,Wesley Safadao,2020-11-12
+2021-01-15,global,187,174,174,15,767706,Smells Like Teen Spirit,Nirvana,spotify:track:1f3yAtsJtY87CTmM8RLnxf,Geffen,1991-09-26
+2021-01-15,global,188,173,36,225,766213,Go Crazy,"Chris Brown, Young Thug",spotify:track:1IIKrJVP1C9N7iPtG6eOsK,Chris Brown Entertainment/300 Entertainment/RCA Records,2020-05-08
+2021-01-15,global,189,165,149,94,764222,Star Shopping,Lil Peep,spotify:track:30bqVoKjX479ab90a8Pafp,"Death Note Music, LLC",2015-08-17
+2021-01-15,global,190,168,60,147,760548,Electric Love,BØRNS,spotify:track:2GiJYvgVaD2HtM8GqD9EgQ,UMGRI Interscope,2015-10-16
+2021-01-15,global,191,176,106,46,758227,De Cora <3,"Rauw Alejandro, J Balvin",spotify:track:22Sh5dlwbERqJAq1fZk5b2,Sony Music Latin/Duars Entertainment,2020-11-13
+2021-01-15,global,192,193,155,6,752775,Fly Away,Tones And I,spotify:track:5ri4zqtWhG07hIuNNDWP76,Elektra (NEK),2020-11-13
+2021-01-15,global,193,-1,193,1,746865,Ohne Dich,"KASIMIR1441, badmómzjay, WILDBWOYS",spotify:track:4hSJUp6k7QeHLxU32MrLIU,Bis Es Klappt Records,2021-01-14
+2021-01-15,global,194,172,3,792,746615,Without Me,Halsey,spotify:track:6FZDfxM3a3UCqtzo5pxSLZ,Capitol Records,2020-01-17
+2021-01-15,global,195,180,37,266,745698,Kings & Queens,Ava Max,spotify:track:7a53HqqArd4b9NF4XAmlbI,Atlantic Records,2020-09-18
+2021-01-15,global,196,187,12,177,737256,The Woo,"Pop Smoke, 50 Cent, Roddy Ricch",spotify:track:1H7KnK26kc1YyellpbINEn,Victor Victor Worldwide,2020-07-03
+2021-01-15,global,197,-1,197,1,735897,Buss It,Erica Banks,spotify:track:78xj07VVFK5uHTaGPIu13S,1501 Certified Ent/Warner Records,2020-05-15
+2021-01-15,global,198,-1,49,51,735051,Fever,"Dua Lipa, Angèle",spotify:track:3F1P0QzdXtBz0MXy7KIO5w,Warner Records,2020-03-27
+2021-01-15,global,199,183,91,90,730576,Take Me To Church,Hozier,spotify:track:3dYD57lRAUcMHufyqn9GcI,Universal-Island Records Ltd.,2014-09-19
+2021-01-15,global,200,199,199,2,730079,Astronaut In The Ocean,Masked Wolf,spotify:track:3Ofmpyhv5UAQ70mENzB277,Elektra (NEK),2021-01-06

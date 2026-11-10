@@ -1,0 +1,201 @@
+date,region,rank,previous_rank,peak_rank,days_on_chart,streams,track_name,artists,track_uri,labels,release_date
+2017-12-22,global,1,1,1,99,4695541,rockstar (feat. 21 Savage),"Post Malone, 21 Savage",spotify:track:7wGoVu4Dady5GV0Sv4UIsx,Republic Records,2018-04-27
+2017-12-22,global,2,4,2,42,4355458,All I Want for Christmas Is You,Mariah Carey,spotify:track:0bYg9bo50gSsH3LtXe2SQn,Columbia,1994-10-28
+2017-12-22,global,3,2,2,8,4234102,River (feat. Ed Sheeran),"Eminem, Ed Sheeran",spotify:track:5UEnHoDYpsxlfzWLZIc7LD,Eminem Catalog PS,2017-12-15
+2017-12-22,global,4,3,2,141,3912622,Havana (feat. Young Thug),"Camila Cabello, Young Thug",spotify:track:0ofbQMrRDsUaVKq2mGLEAb,Syco Music/Epic,2018-01-12
+2017-12-22,global,5,9,5,35,3308262,Last Christmas,Wham!,spotify:track:2FRnf9qhLbvw8fu4IBXx78,Epic,1984-11-29
+2017-12-22,global,6,5,2,166,3114454,New Rules,Dua Lipa,spotify:track:2ekn2ttSfGqwhhate0LSR0,Warner Records,
+2017-12-22,global,7,6,3,59,2962951,Wolves,"Selena Gomez, Marshmello",spotify:track:7EmGUiUaOSGDnUUQUDrOXC,Selena Gomez PS,2017-10-25
+2017-12-22,global,8,7,3,295,2836307,Perfect,Ed Sheeran,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Atlantic Records UK,2017-03-03
+2017-12-22,global,9,8,6,79,2690003,Let You Down,NF,spotify:track:6mrKP2jyIQmM0rw6fQryjr,NF Real Music,2017-10-06
+2017-12-22,global,10,11,4,105,2654717,Gucci Gang,Lil Pump,spotify:track:43ZyHQITOjhciSUUNPVRHc,Warner Records,2017-10-06
+2017-12-22,global,11,10,9,22,2581198,Him & I (with Halsey),"G-Eazy, Halsey",spotify:track:5k38wzpLb15YgncyWdTZE4,BPG/RVG/RCA Records,2017-12-15
+2017-12-22,global,12,15,9,36,2572277,Échame La Culpa,"Luis Fonsi, Demi Lovato",spotify:track:1zsG4eaZmkA1dvjDDsAGLK,UMLE - Latino,2019-02-01
+2017-12-22,global,13,12,3,22,2524538,Perfect Duet (Ed Sheeran & Beyoncé),"Ed Sheeran, Beyoncé",spotify:track:1bhUWB0zJMIKr9yVPrkEuI,Atlantic Records UK,2017-11-30
+2017-12-22,global,14,14,4,115,2464130,What Lovers Do (feat. SZA),"Maroon 5, SZA",spotify:track:3hBBKuWJfxlIlnd9QFoC8k,Interscope Records*,2018-06-15
+2017-12-22,global,15,13,1,106,2412528,Too Good At Goodbyes,Sam Smith,spotify:track:1mXVgsBdtIVeCLJnSnmtdV,PLG - Capitol,2017-11-03
+2017-12-22,global,16,16,7,134,2287772,Silence,"Marshmello, Khalid",spotify:track:7vGuf3Y35N4wmASOKLUVVU,Joytime Collective/RCA Records,2017-08-11
+2017-12-22,global,17,17,1,351,2263534,Shape of You,Ed Sheeran,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Atlantic Records UK,2017-03-03
+2017-12-22,global,18,18,10,89,2150258,I Fall Apart,Post Malone,spotify:track:75ZvA4QfFiZvzhj2xkaWAh,Mercury Records/Republic Owned,2016-12-09
+2017-12-22,global,19,20,18,5,2134469,Vai malandra (feat. Tropkillaz & DJ Yuri Martins),"Anitta, ZAAC, Maejor, Tropkillaz, DJ Yuri Martins",spotify:track:6u0EAxf1OJTLS7CvInuNd7,WM Brazil,2017-12-18
+2017-12-22,global,20,19,3,107,1997408,Dusk Till Dawn (feat. Sia) - Radio Edit,"ZAYN, Sia",spotify:track:1j4kHkkpqZRBwE0A4CN4Yv,RCA Records Label,2017-09-07
+2017-12-22,global,21,31,21,28,1984497,Do They Know It's Christmas? - 1984 Version,Band Aid,spotify:track:1hvpDAxZPKjKztOc72sv06,EMI,1984-11-25
+2017-12-22,global,22,34,22,29,1951352,It's Beginning to Look a Lot like Christmas,Michael Bublé,spotify:track:0lLdorYw7lVrJydTINhWdI,Reprise,2024-12-05
+2017-12-22,global,23,23,22,50,1915288,Corazón (feat. Nego do Borel),"Maluma, Nego do Borel",spotify:track:4lESS6vuruP6a79KWRaQou,Sony Music Latin,2018-05-18
+2017-12-22,global,24,22,22,34,1904984,Downtown,"Anitta, J Balvin",spotify:track:3Ga6eKrUFf12ouh9Yw3v2D,WM Brazil,2017-11-19
+2017-12-22,global,25,24,19,50,1874288,Sensualidad,"Bad Bunny, Prince Royce, J Balvin, Mambo Kingz, DJ Luian",spotify:track:5hcisvFMidkMJlElTO9Qmw,Hear This Music,2017-11-03
+2017-12-22,global,26,43,26,28,1819767,Santa Tell Me,Ariana Grande,spotify:track:1ADjWm8QNhgNV8yCNNgQ1T,Universal Records,2014-11-24
+2017-12-22,global,27,-1,27,1,1816179,Modern Slavery,"Huncho Jack, Travis Scott, Quavo",spotify:track:7CRVv14VLogIh8BZLcRpJM,Quality Control Music - Epic,2017-12-21
+2017-12-22,global,28,37,28,29,1795769,Rockin' Around the Christmas Tree - Rerecorded Version,Brenda Lee,spotify:track:3T7dNA7O8c3Axj5WyDNcH3,Warner Records,
+2017-12-22,global,29,21,14,106,1788625,"Let Me Go (with Alesso, Florida Georgia Line & watt)","Hailee Steinfeld, Alesso, Florida Georgia Line, WATT",spotify:track:5AEtlRudpgdT5FtNiuly6Y,Universal Records,2017-09-08
+2017-12-22,global,30,29,18,103,1761515,Criminal,"NATTI NATASHA, Ozuna",spotify:track:6Za3190Sbw39BBC77WSS1C,Natti Natasha,2017-09-01
+2017-12-22,global,31,25,22,84,1717525,No Limit,"G-Eazy, A$AP Rocky, Cardi B",spotify:track:2DQ1ITjI0YoLFzuADN1ZBW,BPG/RVG/RCA Records,2017-12-15
+2017-12-22,global,32,50,32,29,1698541,It's the Most Wonderful Time of the Year,Andy Williams,spotify:track:5hslUAKq9I9CG2bAulFkHN,Columbia/Legacy,1963-11-24
+2017-12-22,global,33,-1,33,1,1692202,Eye 2 Eye,"Huncho Jack, Travis Scott, Quavo, Takeoff",spotify:track:4vwfOiyWxXeEdx4ejAJgdx,Quality Control Music - Epic,2017-12-21
+2017-12-22,global,34,-1,34,1,1681439,Black & Chinese,"Huncho Jack, Travis Scott, Quavo",spotify:track:2GByM82VgSrwywP6MVZmsm,Quality Control Music - Epic,2017-12-21
+2017-12-22,global,35,33,7,239,1644933,Thunder,Imagine Dragons,spotify:track:0tKcYR2II1VCQWT79i5NrW,Kid Ina Korner / Interscope,2017-06-23
+2017-12-22,global,36,30,9,273,1642891,XO Tour Llif3,Lil Uzi Vert,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Generation Now/Atlantic,2017-08-25
+2017-12-22,global,37,32,11,182,1629729,Young Dumb & Broke,Khalid,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,"Right Hand Music Group, LLC/RCA Records",2017-04-27
+2017-12-22,global,38,52,38,24,1629581,Happy Xmas (War Is Over) - Remastered 2010,"John Lennon, Yoko Ono",spotify:track:3zJw3rugfpVrmBeDDnUYzy,EMI Catalogue,2010-10-05
+2017-12-22,global,39,26,16,94,1623632,Candy Paint,Post Malone,spotify:track:42CeaId2XNlxugDvyqHfDf,Republic Records,2018-04-27
+2017-12-22,global,40,28,15,76,1616475,How Long,Charlie Puth,spotify:track:32DGGj6KlNuBr6WaqRxpxi,Artist Partner,2018-05-11
+2017-12-22,global,41,27,20,57,1590447,I Miss You (feat. Julia Michaels),"Clean Bandit, Julia Michaels",spotify:track:2xmrfQpmS2iJExTlklLoAL,Atlantic Records UK,2018-11-30
+2017-12-22,global,42,53,42,22,1587295,Driving Home for Christmas,Chris Rea,spotify:track:0ZoHHROTzwIYeNAHRPedTY,Rhino,1988-10-17
+2017-12-22,global,43,36,20,333,1550542,Congratulations,"Post Malone, Quavo",spotify:track:3a1lNhkSLSkpJE4MSHpDu9,Mercury Records/Republic Owned,2016-12-09
+2017-12-22,global,44,41,28,76,1547347,Man's Not Hot,Big Shaq,spotify:track:2nUJvBO87SkxCViQsLc9Zr,Universal-Island Records Ltd.,2017-09-22
+2017-12-22,global,45,40,1,176,1541540,Mi Gente,"J Balvin, Willy William",spotify:track:2rb5MvYT7ZIxbKW5hfcHx8,UMLE - Latino,2018-05-25
+2017-12-22,global,46,42,26,123,1533380,Se Preparó,Ozuna,spotify:track:1m69ELEgE6k5ZWsap40ozt,VP Records Corp/Dimelo Vi,2017-08-25
+2017-12-22,global,47,38,29,53,1532229,Ric Flair Drip (with Metro Boomin),"Offset, Metro Boomin",spotify:track:7sO5G9EABYOXQKNPNiE9NR,"Slaughter Gang, LLC/Epic/Quality Control Music/Motown/Capitol/Boominati Worldwide/Republic",2017-10-30
+2017-12-22,global,48,35,25,100,1527000,Meant to Be (feat. Florida Georgia Line),"Bebe Rexha, Florida Georgia Line",spotify:track:7iDa6hUg2VgEL1o1HjmfBn,Warner Records,2017-08-11
+2017-12-22,global,49,39,3,239,1475963,1-800-273-8255,"Logic, Alessia Cara, Khalid",spotify:track:5tz69p7tJuGPeMGwNTxYuV,Def Jam Recordings,2017-05-05
+2017-12-22,global,50,-1,50,1,1439797,Motorcycle Patches,"Huncho Jack, Travis Scott, Quavo",spotify:track:4ceMuukXWzAQRYRYXalJMS,Quality Control Music - Epic,2017-12-21
+2017-12-22,global,51,-1,51,1,1437255,Dubai Shit,"Huncho Jack, Travis Scott, Quavo, Offset",spotify:track:5TRaIECBIfSkeqkKoG6psm,Quality Control Music - Epic,2017-12-21
+2017-12-22,global,52,-1,52,1,1433405,Huncho Jack,"Huncho Jack, Travis Scott, Quavo",spotify:track:5vuiHi3QYbwcm1OKJOYnrf,Quality Control Music - Epic,2017-12-21
+2017-12-22,global,53,44,3,258,1429717,Unforgettable,"French Montana, Swae Lee",spotify:track:3B54sVLJ402zGa6Xm4YGNe,Bad Boy Entertainment/Epic Records,2017-07-14
+2017-12-22,global,54,47,18,309,1421445,Me Rehúso,Danny Ocean,spotify:track:6De0lHrwBfPfrhorm9q1Xl,Atlantic Records,2016-09-16
+2017-12-22,global,55,49,30,149,1419984,Mayores,"Becky G, Bad Bunny",spotify:track:7JNh1cfm0eXjqFVOzKLyau,Kemosabe Records/RCA Records/Sony Music Latin,2017-07-14
+2017-12-22,global,56,59,56,24,1418790,White Christmas - 1947 Version,"Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra",spotify:track:4so0Wek9Ig1p6CRCHuINwW,Geffen,1945-01-01
+2017-12-22,global,57,45,1,267,1398059,HUMBLE.,Kendrick Lamar,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,Aftermath,2017-04-14
+2017-12-22,global,58,46,21,169,1384200,Bank Account,21 Savage,spotify:track:2fQrGHiQOvpL9UgPvtYy6G,"Slaughter Gang, LLC/Epic Records",2017-07-06
+2017-12-22,global,59,60,52,29,1353291,Mistletoe,Justin Bieber,spotify:track:32OWobmyAz8J2qA8iWekyS,RBMG/Def Jam,2011-01-01
+2017-12-22,global,60,48,15,92,1353023,Stargazing,"Kygo, Justin Jesso",spotify:track:0Zbbxnx4SGGHoIow4PpISP,Kygo,2017-09-21
+2017-12-22,global,61,62,59,28,1340387,Jingle Bell Rock,Bobby Helms,spotify:track:1cImYkHOQMFE7AZC9aOk4y,Geffen,1957-12-02
+2017-12-22,global,62,-1,62,1,1307668,Saint,"Huncho Jack, Travis Scott, Quavo",spotify:track:5RRw66jDLIzgIqwA7ABJ9o,Quality Control Music - Epic,2017-12-21
+2017-12-22,global,63,51,17,164,1300538,Feel It Still,Portugal. The Man,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Atlantic Records,2017-06-16
+2017-12-22,global,64,55,54,49,1286692,Déjala Que Vuelva,"Piso 21, Manuel Turizo",spotify:track:33bnxcjePIkcmNjEFTJX0l,WM Mexico,2017-10-20
+2017-12-22,global,65,76,58,27,1285736,Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),"Frank Sinatra, B. Swanson Quartet",spotify:track:7inXu0Eaeg02VsM8kHNvzM,Columbia/Legacy,1994-11-08
+2017-12-22,global,66,71,66,22,1263920,Fairytale of New York (feat. Kirsty MacColl),"The Pogues, Kirsty MacColl",spotify:track:3VTNVsTTu05dmTsVFrmGpK,WM UK,1988-09-05
+2017-12-22,global,67,81,67,23,1227268,Feliz Navidad,José Feliciano,spotify:track:7taXf5odg9xCAZERYfyOkS,RCA Records Label,2001-09-03
+2017-12-22,global,68,-1,68,1,1193195,Saint Laurent Mask,"Huncho Jack, Travis Scott, Quavo",spotify:track:7mJ2RZgc9MDpiQBijvPYFX,Quality Control Music - Epic,2017-12-21
+2017-12-22,global,69,78,69,22,1185239,Wonderful Christmastime - Edited Version / Remastered 2011,Paul McCartney,spotify:track:4gavOCQdZ2g86gkvi17FM7,Paul McCartney Catalog,1980-05-16
+2017-12-22,global,70,54,42,62,1163919,Anywhere,Rita Ora,spotify:track:7EI6Iki24tBHAMxtb4xQN2,Atlantic Records UK,2017-10-20
+2017-12-22,global,71,-1,71,1,1154317,Go,"Huncho Jack, Travis Scott, Quavo",spotify:track:4RgoqOBE34Q6zZj8K7RUAx,Quality Control Music - Epic,2017-12-21
+2017-12-22,global,72,65,38,16,1154085,Never Be the Same,Camila Cabello,spotify:track:6VpQdig9pdpTSIFItgkJV5,Syco Music/Epic,2017-12-17
+2017-12-22,global,73,57,5,246,1153087,Attention,Charlie Puth,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Artist Partner,2018-05-11
+2017-12-22,global,74,67,40,78,1148999,Perro Fiel (feat. Nicky Jam),"Shakira, Nicky Jam",spotify:track:70lnL3QaSOIIyMa2X9aVRL,Sony Music Latin,2017-05-26
+2017-12-22,global,75,61,7,165,1136095,Sorry Not Sorry,Demi Lovato,spotify:track:3m660poUr1chesgkkjQM7P,Island Records,2017-09-29
+2017-12-22,global,76,63,52,22,1115919,So Far Away (feat. Jamie Scott & Romy Dya),"Martin Garrix, David Guetta, Jamie Scott, Romy Dya",spotify:track:0OlnLZY4cmQzT6ZGttvWBM,Epic Amsterdam,2017-12-01
+2017-12-22,global,77,66,30,57,1115669,MotorSport,"Migos, Nicki Minaj, Cardi B",spotify:track:1YZfcVLbbJwfizR5cDOp3q,"Quality Control Music, LLC",2018-01-26
+2017-12-22,global,78,64,2,303,1105957,Something Just Like This,"The Chainsmokers, Coldplay",spotify:track:6RUKPb4LETWmmr3iAEQktW,Disruptor Records/Columbia,2017-04-07
+2017-12-22,global,79,58,19,134,1091505,Lonely Together (feat. Rita Ora),"Avicii, Rita Ora",spotify:track:2OALaHcDdKkjYEpAr0Qzab,Pophouse Entertainment Group,2017-08-10
+2017-12-22,global,80,95,80,21,1087040,The Christmas Song (Merry Christmas To You),Nat King Cole,spotify:track:5humEOJehpAwMJEJmb0JJ2,Capitol Records,1961-09-25
+2017-12-22,global,81,99,81,19,1072958,Have Yourself A Merry Little Christmas,Sam Smith,spotify:track:7Hz6LLOVxrojLPIHJJ1S0E,PLG - Capitol,2014-12-05
+2017-12-22,global,82,-1,82,1,1071497,Moon Rock,"Huncho Jack, Travis Scott, Quavo",spotify:track:7bTH8LgGSwyNNE4r1k95Zp,Quality Control Music - Epic,2017-12-21
+2017-12-22,global,83,75,47,119,1070603,Que Va,"Alex Sensation, Ozuna",spotify:track:7ofxPmTNMj2GP07g1VZa0O,JP Entertainment (Jorge Pino),2017-08-04
+2017-12-22,global,84,70,15,324,1068925,Believer,Imagine Dragons,spotify:track:0CcQNd8CINkwQfe1RDtGV6,Kid Ina Korner / Interscope,2017-06-23
+2017-12-22,global,85,68,55,43,1066694,Tip Toe (feat. French Montana),"Jason Derulo, French Montana",spotify:track:2z4pcBLQXF2BXKFvd0BuB6,Beluga Heights/Warner Records,2017-11-10
+2017-12-22,global,86,82,15,147,1064193,Bodak Yellow,Cardi B,spotify:track:2771LMNxwf62FTAdpJMQfM,KSR/Atlantic,2017-06-16
+2017-12-22,global,87,101,87,21,1061183,Holly Jolly Christmas,Michael Bublé,spotify:track:6tjituizSxwSmBB5vtgHZE,Reprise,2024-12-05
+2017-12-22,global,88,73,1,250,1047380,Despacito - Remix,"Luis Fonsi, Daddy Yankee, Justin Bieber",spotify:track:5CtI0qwDJkDQGwXD1H1cLb,UMLE - Latino,2019-02-01
+2017-12-22,global,89,69,24,201,1043757,I Like Me Better,Lauv,spotify:track:1wjzFQodRWrPcQ0AnYnvQ9,Lauv,2018-05-31
+2017-12-22,global,90,84,50,38,1034063,Havana - Remix,"Camila Cabello, Daddy Yankee",spotify:track:3whrwq4DtvucphBPUogRuJ,Syco Music/Epic,2017-11-12
+2017-12-22,global,91,109,91,14,1031665,Santa's Coming for Us,Sia,spotify:track:3AlpkljBS1AU7HFVPms8K6,Monkey Puzzle/Atlantic,2018-11-01
+2017-12-22,global,92,56,11,43,1023745,Walk On Water (feat. Beyoncé),"Eminem, Beyoncé",spotify:track:5PIBgH1cUFwu5IiUk9tnN9,Eminem Catalog PS,2017-12-15
+2017-12-22,global,93,87,52,129,1013348,Báilame - Remix,"Nacho, Yandel, Bad Bunny, Mambo Kingz, DJ Luian",spotify:track:3VClLWqNn80Llv0PJOsKgr,UMLE - Latino,2018-05-11
+2017-12-22,global,94,-1,94,1,1006453,How U Feel,"Huncho Jack, Travis Scott, Quavo",spotify:track:45FMZNp09Z0FMjjOUVGAzm,Quality Control Music - Epic,2017-12-21
+2017-12-22,global,95,74,52,57,1005588,All Falls Down (feat. Juliander),"Alan Walker, Noah Cyrus, Digital Farm Animals, Juliander",spotify:track:5yFSF6qQA1rcLsQRnBsZgb,Kreatell Music,2017-10-27
+2017-12-22,global,96,119,96,16,1001246,Merry Christmas Everyone,Shakin' Stevens,spotify:track:2ISl1zekPsc26sUQpVt8UB,Sony Music CG,1991-11-25
+2017-12-22,global,97,77,54,42,992533,PICK IT UP (feat. A$AP Rocky),"Famous Dex, A$AP Rocky",spotify:track:3ncgNpxLoBQ65ABk4djDyd,300 Entertainment,2017-10-20
+2017-12-22,global,98,85,2,128,989472,Friends (with BloodPop®),"Justin Bieber, BloodPop®",spotify:track:7nZmah2llfvLDiUjm0kiyz,BloodPop/DJ/RMBG/Republic,2017-08-17
+2017-12-22,global,99,86,14,209,988874,More Than You Know,"Axwell /\ Ingrosso, Axwell, Sebastian Ingrosso",spotify:track:71bBFbfn2OBK5QwUJSLS44,BMG Rights Management Scandinavia AB,2017-07-28
+2017-12-22,global,100,83,63,31,982638,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)","mgk, X Ambassadors, Bebe Rexha",spotify:track:0OI7AFifLSoGzpb8bdBLLV,Atlantic Records,2017-11-18
+2017-12-22,global,101,80,33,96,981005,Plain Jane,A$AP Ferg,spotify:track:4dVpf9jZjcORqGTLUaeYj9,RCA Records Label,2017-08-18
+2017-12-22,global,102,121,102,19,980375,Blue Christmas,Elvis Presley,spotify:track:3QiAAp20rPC3dcAtKtMaqQ,RCA Victor,1957-10-15
+2017-12-22,global,103,114,103,21,975112,A Holly Jolly Christmas,Burl Ives,spotify:track:65Q2mv3UlVi9eO70OpsmSe,Geffen,1965-10-01
+2017-12-22,global,104,-1,104,1,971896,Where U From,"Huncho Jack, Travis Scott, Quavo",spotify:track:11cCVYamncF0ezwjj1irQ0,Quality Control Music - Epic,2017-12-21
+2017-12-22,global,105,116,105,16,968899,Christmas Lights,Coldplay,spotify:track:4fzyvSu73BhGvi96p2zwjL,Parlophone UK,2010-12-01
+2017-12-22,global,106,79,15,120,967017,Jocelyn Flores,XXXTENTACION,spotify:track:7m9OqQk4RVRkw9JJdeAw96,Bad Vibes Forever / EMPIRE,2017-08-25
+2017-12-22,global,107,89,36,263,964706,Escápate Conmigo (feat. Ozuna),"Wisin, Ozuna",spotify:track:1KSqYYJFyfTecXFk9M0prc,Sony Music Latin,2017-12-01
+2017-12-22,global,108,93,16,246,964524,Felices los 4,Maluma,spotify:track:0qYTZCo5Bwh1nsUFGZP3zn,Sony Music Latin,2018-05-18
+2017-12-22,global,109,88,73,20,962492,End Game,"Taylor Swift, Ed Sheeran, Future",spotify:track:2x0WlnmfG39ZuDmstl9xfX,Taylor Swift,2017-11-10
+2017-12-22,global,110,91,59,100,962338,Suena El Dembow,"Joey Montana, Sebastian Yatra",spotify:track:5TysCiZtv1HnSWcTcUFusI,UMLE - Latino,2019-11-01
+2017-12-22,global,111,90,37,198,945678,Bonita,"J Balvin, Jowell & Randy",spotify:track:693iqPOQvhI7PobtR8CC8v,Rimas (J Balvin - Jowell & Randy),2017-06-02
+2017-12-22,global,112,104,61,140,911225,Robarte un Beso,"Carlos Vives, Sebastian Yatra",spotify:track:0JcNysfWVWaMS7R6vzGB2k,Sony Music Latin,2017-11-10
+2017-12-22,global,113,94,5,247,908814,There's Nothing Holdin' Me Back,Shawn Mendes,spotify:track:79cuOz3SPQTuFrp8WgftAu,Island Records,2017-04-20
+2017-12-22,global,114,108,88,26,893014,Codeine Dreaming (feat. Lil Wayne),"Kodak Black, Lil Wayne",spotify:track:4DTpngLjoHj5gFxEZFeD3J,Atlantic Records,2017-11-24
+2017-12-22,global,115,123,115,7,892177,Bum Bum Tam Tam,"MC Fioti, Future, J Balvin, Stefflon Don, Juan Magán",spotify:track:4zWO4gvuFtw6EJZC5FFGlr,Universal-Island Records Ltd.,2017-12-15
+2017-12-22,global,116,92,52,49,889031,Betrayed,Lil Xan,spotify:track:6NWl2m8asvH83xjuXVNsuG,Columbia,2017-10-19
+2017-12-22,global,117,149,117,7,879351,Step Into Christmas - Remastered 1995,Elton John,spotify:track:3YQUpKTmtgPJf8u6ooi9KA,UMC (Universal Music Catalogue),1973-10-05
+2017-12-22,global,118,98,84,38,878616,Sky Walker (feat. Travis Scott),"Miguel, Travis Scott",spotify:track:5WoaF1B5XIEnWfmb5NZikf,ByStorm Entertainment/RCA Records,2017-12-01
+2017-12-22,global,119,96,75,29,876274,MIC Drop (feat. Desiigner) [Steve Aoki Remix],"BTS, Desiigner, Steve Aoki",spotify:track:7Ed6BkggCS2KaKY5YlINaF,BIGHIT MUSIC,2017-11-24
+2017-12-22,global,120,100,37,217,874758,BUTTERFLY EFFECT,Travis Scott,spotify:track:1yxgsra98r3qAtxqiGZPiX,Cactus Jack / Epic,2018-08-03
+2017-12-22,global,121,102,57,122,858425,Bad At Love,Halsey,spotify:track:7y9iMe8SOB6z3NoHE2OfXl,Astralwerks (ASW),2017-06-02
+2017-12-22,global,122,105,56,355,856929,goosebumps,Travis Scott,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Cactus Jack / Epic,2016-09-16
+2017-12-22,global,123,110,13,170,855708,Glorious (feat. Skylar Grey),"Macklemore, Skylar Grey",spotify:track:0CokSRCu5hZgPxcZBaEzVE,Bendo LLC,2017-09-22
+2017-12-22,global,124,97,7,356,851865,Say You Won't Let Go,James Arthur,spotify:track:5uCax9HTNlzGybIStD3vDh,Columbia,2016-10-28
+2017-12-22,global,125,107,42,126,850195,I Get the Bag (feat. Migos),"Gucci Mane, Migos",spotify:track:1XRgIKC5TPwo7nWGyKqgG0,Guwop Enterprises/Atlantic,2017-10-13
+2017-12-22,global,126,106,1,120,848268,Look What You Made Me Do,Taylor Swift,spotify:track:1P17dC1amhFzptugyAO7Il,Taylor Swift,2017-11-10
+2017-12-22,global,127,153,127,11,847553,Santa Baby (with Henri René & His Orchestra),"Eartha Kitt, Henri René and His Orchestra",spotify:track:1foCxQtxBweJtZmdxhEHVO,RCA Bluebird,
+2017-12-22,global,128,120,66,81,843331,Vuelve,"Daddy Yankee, Bad Bunny",spotify:track:0lJCqIx5BhZtf6QtYI2fbv,Craft Latino,2017-09-29
+2017-12-22,global,129,72,18,8,842547,Believe,Eminem,spotify:track:2XDhuJvvx2wcIROXbfTTYr,Eminem Catalog PS,2017-12-15
+2017-12-22,global,130,122,5,190,839287,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)","Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav",spotify:track:5bcTCxgc7xVfSaMV3RuVke,Columbia,2017-06-30
+2017-12-22,global,131,146,131,15,832391,Hallelujah,Pentatonix,spotify:track:550rQQCGkrTzvp4SfpOPzx,RCA Records Label,2016-10-21
+2017-12-22,global,132,115,2,295,830681,Galway Girl,Ed Sheeran,spotify:track:0afhq8XCExXpqazXczTSve,Atlantic Records UK,2017-03-03
+2017-12-22,global,133,113,2,239,825477,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)","DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",spotify:track:3DXncPQOG4VBw3QHh3S817,Epic/We The Best,2017-06-22
+2017-12-22,global,134,124,96,56,824470,SUTRA,"Sebastian Yatra, Dalmata",spotify:track:5TmZYdHW6HJ9gt7Aokuql5,UMLE - Latino,2018-05-18
+2017-12-22,global,135,160,135,10,823340,"Carol of the Bells (From ""Home Alone"" Soundtrack)",John Williams,spotify:track:4tHqQMWSqmL6YjXwsqthDI,Masterworks,
+2017-12-22,global,136,118,8,218,820755,Strip That Down (feat. Quavo),"Liam Payne, Quavo",spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,Capitol Records UK / EMI,2019-12-06
+2017-12-22,global,137,111,32,322,818882,Location,Khalid,spotify:track:152lZdxL1OR0ZMW6KquMif,"Right Hand Music Group, LLC/RCA Records",2017-04-27
+2017-12-22,global,138,117,92,43,817657,Wanted You (feat. Lil Uzi Vert),"NAV, Lil Uzi Vert",spotify:track:790MhTXPFrYkrqCKvpg4t1,XO Records,2017-11-03
+2017-12-22,global,139,155,139,7,817456,My Only Wish (This Year),Britney Spears,spotify:track:7aiVBCp1ibIWE5GeHkbtxr,Arista,2000-11-07
+2017-12-22,global,140,177,140,7,815507,Underneath the Tree,Kelly Clarkson,spotify:track:3nAp4IvdMPPWEH9uuXFFV5,RCA Records Label,2013-10-25
+2017-12-22,global,141,127,3,343,814974,Despacito,"Luis Fonsi, Daddy Yankee",spotify:track:4aWmUDTfIPGksMNLV2rQP2,UMLE - Latino,2019-02-01
+2017-12-22,global,142,128,95,148,812305,Bella y Sensual,"Romeo Santos, Daddy Yankee, Nicky Jam",spotify:track:0ERbK7qVqveCaBWIiYCrl3,Sony Music Latin,2017-07-21
+2017-12-22,global,143,164,128,9,803794,It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra),"Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra",spotify:track:6IeK3Ap5m3HabwJxgI6eSE,RCA Records Label,1999-08-23
+2017-12-22,global,144,135,15,253,802819,LOVE. FEAT. ZACARI.,"Kendrick Lamar, Zacari",spotify:track:6PGoSes0D9eUDeeAafB2As,Aftermath,2017-04-14
+2017-12-22,global,145,129,2,190,800471,Wild Thoughts (feat. Rihanna & Bryson Tiller),"DJ Khaled, Rihanna, Bryson Tiller",spotify:track:1OAh8uOEOvTDqkKFsKksCi,Epic/We The Best,2017-06-22
+2017-12-22,global,146,170,146,8,798268,White Christmas (with Shania Twain),"Michael Bublé, Shania Twain",spotify:track:2gbCG4Rt9984UZ7Tc0dIFd,Reprise,2024-12-05
+2017-12-22,global,147,112,95,10,796128,Sober,"G-Eazy, Charlie Puth",spotify:track:3qk4wRMDlaeagZGjSYbsOV,BPG/RVG/RCA Records,2017-12-15
+2017-12-22,global,148,-1,148,1,793833,Best Man,"Huncho Jack, Travis Scott, Quavo",spotify:track:2hIFuoXhzcZGvmdtSE35lc,Quality Control Music - Epic,2017-12-21
+2017-12-22,global,149,134,67,25,786692,Tell Me You Love Me,Demi Lovato,spotify:track:5Htb1uFQ1KrkFXlefS8oGj,Island Records,2017-09-29
+2017-12-22,global,150,130,9,281,780299,Symphony (feat. Zara Larsson),"Clean Bandit, Zara Larsson",spotify:track:1x5sYLZiu9r5E43kMlt9f8,Atlantic Records UK,2017-03-16
+2017-12-22,global,151,126,5,356,772585,That's What I Like,Bruno Mars,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,Atlantic Records,2016-11-18
+2017-12-22,global,152,132,14,134,767336,What About Us,P!nk,spotify:track:0Qh38w01QRXK6KHIv0e3hb,RCA Records Label,2017-10-13
+2017-12-22,global,153,131,75,29,765507,Naked,James Arthur,spotify:track:7krbSH3rd8lhIZvuzTV3Bl,Columbia Local,2017-11-24
+2017-12-22,global,154,141,38,202,762232,Una Lady Como Tú,Manuel Turizo,spotify:track:7MHN1aCFtLXjownGhvEQlF,Sony Music Latin/La Industria,2017-04-10
+2017-12-22,global,155,145,96,15,759658,Real Friends,Camila Cabello,spotify:track:4V6MRo0CEAC9MwAm7dkPuL,Syco Music/Epic,2017-12-06
+2017-12-22,global,156,173,156,6,759569,Christmas Time Is Here,Vince Guaraldi Trio,spotify:track:299lFlaAsNQdgbIZNPmIA0,Craft Recordings,1998-01-01
+2017-12-22,global,157,-1,157,1,754122,Bartier Cardi (feat. 21 Savage),"Cardi B, 21 Savage",spotify:track:75FDPwaULRdYDn4StFN2rT,KSR/Atlantic,2017-12-22
+2017-12-22,global,158,133,51,167,753135,Go Flex,Post Malone,spotify:track:5yuShbu70mtHXY0yLzCQLQ,Mercury Records/Republic Owned,2016-12-09
+2017-12-22,global,159,136,5,309,751573,Mask Off,Future,spotify:track:0VgkVdmE4gld66l8iyGjgx,Epic/Freebandz/A1,2017-06-30
+2017-12-22,global,160,138,11,230,748647,Mama,"Jonas Blue, William Singe",spotify:track:0NiXXAI876aGImAd6rTj8w,UMOD (Universal Music On Demand),2017-07-14
+2017-12-22,global,161,103,51,50,739385,Wait,Maroon 5,spotify:track:1Qg9jWGDkKAGZXj5v2OG59,Interscope Records*,2018-06-15
+2017-12-22,global,162,144,81,49,736044,Dirty Sexy Money (feat. Charli XCX & French Montana),"David Guetta, AFROJACK, Charli xcx, French Montana",spotify:track:0tPQPaOKM32WgMSbPCYyRH,Parlophone (France),2017-11-02
+2017-12-22,global,163,139,2,356,735985,Closer,"The Chainsmokers, Halsey",spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,Disruptor Records/Columbia,2016-07-29
+2017-12-22,global,164,176,164,6,734883,Winter Wonderland,Bing Crosby,spotify:track:5VEuraNSVxMTzDTtrmL3lQ,EMI Gold,1998-01-01
+2017-12-22,global,165,148,5,302,728312,Swalla (feat. Nicki Minaj & Ty Dolla $ign),"Jason Derulo, Nicki Minaj, Ty Dolla $ign",spotify:track:6kex4EBAj0WHXDKZMEJaaF,Beluga Heights/Warner Records,2017-02-23
+2017-12-22,global,166,196,166,3,726296,I'll Be Home,Meghan Trainor,spotify:track:1hy6kKvsPbv7VTcllCuATC,Epic,2015-01-09
+2017-12-22,global,167,143,2,310,724349,It Ain't Me (with Selena Gomez),"Kygo, Selena Gomez",spotify:track:3eR23VReFzcdmS7TYCrhCe,Kygo,2017-02-16
+2017-12-22,global,168,142,40,356,717041,Photograph,Ed Sheeran,spotify:track:6fxVffaTuwjgEk5h9QyRjy,Atlantic Records UK,2014-06-21
+2017-12-22,global,169,154,46,137,710769,Whatever It Takes,Imagine Dragons,spotify:track:4IWAyPf1KMq7JCyGeCjTeH,Kid Ina Korner / Interscope,2017-06-23
+2017-12-22,global,170,-1,170,2,709111,Jingle Bell Rock - Daryl's Version,Daryl Hall & John Oates,spotify:track:6pVW5LRWgeLaHudxauOTJU,Legacy Recordings,1983-11-01
+2017-12-22,global,171,137,19,53,708752,Ghostface Killers (feat. Travis Scott),"21 Savage, Offset, Metro Boomin, Travis Scott",spotify:track:5u6vkDnOyaf8LsteDAj2ub,"Slaughter Gang, LLC/Epic/Quality Control Music/Motown/Capitol/Boominati Worldwide/Republic",2017-10-30
+2017-12-22,global,172,-1,172,2,705913,Santa Baby,Kylie Minogue,spotify:track:2SBr3MK1sdMs8IxdRcN6qz,Parlophone UK,2015-11-13
+2017-12-22,global,173,156,44,260,699991,Ahora Dice,"Chris Jedi, J Balvin, Ozuna, Arcángel",spotify:track:22eADXu8DfOAUEDw4vU8qy,UMLE - Latino,2017-03-17
+2017-12-22,global,174,159,102,98,698413,3 A.M.,"Jesse & Joy, Gente De Zona",spotify:track:0yyZN5ASdrYu0XYWFzfxUu,WM Mexico,2017-08-18
+2017-12-22,global,175,-1,175,2,695383,Run Rudolph Run,Chuck Berry,spotify:track:2pnPe4pJtq7689i5ydzvJJ,Geffen*,1986-01-01
+2017-12-22,global,176,147,20,134,692797,Without You (feat. Sandro Cavazza),"Avicii, Sandro Cavazza",spotify:track:6WbADFqMvR8N5u0BvtsWQE,Pophouse Entertainment Group,2017-08-10
+2017-12-22,global,177,163,119,20,685400,Chambea,Bad Bunny,spotify:track:6ElmxV9B2mSNscEjP27M7i,Rimas Entertainment LLC.,2017-12-01
+2017-12-22,global,178,158,1,356,683546,Starboy,"The Weeknd, Daft Punk",spotify:track:5aAx2yezTd8zXrkmtKl66Z,The Weeknd/Lyric,2016-11-25
+2017-12-22,global,179,151,2,356,682566,I Don’t Wanna Live Forever (Fifty Shades Darker),"ZAYN, Taylor Swift",spotify:track:3NdDpSvN911VPGivFlV5d0,Taylor Swift,2017-11-09
+2017-12-22,global,180,-1,180,2,679042,Jingle Bells (feat. The Puppini Sisters),"Michael Bublé, The Puppini Sisters",spotify:track:4qBejt9FeqLI9blHI1Nq1x,Reprise,2024-12-05
+2017-12-22,global,181,150,37,120,669777,Fuck Love,"XXXTENTACION, Trippie Redd",spotify:track:7AQim7LbvFVZJE3O8TYgf2,Bad Vibes Forever / EMPIRE,2017-08-25
+2017-12-22,global,182,161,67,271,668553,Slippery (feat. Gucci Mane),"Migos, Gucci Mane",spotify:track:6p8NuHm8uCGnn2Dtbtf7zE,Quality Control Music,2017-01-27
+2017-12-22,global,183,167,92,109,668309,Explícale (feat. Bad Bunny),"Yandel, Bad Bunny",spotify:track:1LszjjoVwDDZcWUQbzeDLG,Sony Music Latin,2017-09-08
+2017-12-22,global,184,125,29,8,668288,Like Home (feat. Alicia Keys),"Eminem, Alicia Keys",spotify:track:2rozzUGTRWqhTa2NzJAl8I,Eminem Catalog PS,2017-12-15
+2017-12-22,global,185,157,76,123,667440,Roll in Peace (feat. XXXTENTACION),"Kodak Black, XXXTENTACION",spotify:track:40oKW22ZNNkEdZLJTScaQI,Atlantic Records,2017-08-18
+2017-12-22,global,186,168,63,236,667233,Tú Foto,Ozuna,spotify:track:5zSOVwaY3sVjnmLhuEfsuf,VP Records Corp/Dimelo Vi,2017-08-25
+2017-12-22,global,187,162,43,356,665955,Thinking out Loud,Ed Sheeran,spotify:track:1Slwb6dOYkBlWal1PGtnNg,Atlantic Records UK,2014-06-21
+2017-12-22,global,188,165,95,311,660772,White Iverson,Post Malone,spotify:track:6eT7xZZlB2mwyzJ2sUKG6w,Mercury Records/Republic Owned,2016-12-09
+2017-12-22,global,189,-1,189,1,640281,Little Saint Nick - 1991 Remix,The Beach Boys,spotify:track:5xlS0QkVrSH7ssEbBgBzbM,Capitol Records,1964-11-09
+2017-12-22,global,190,169,5,302,639654,Stay,"Zedd, Alessia Cara",spotify:track:0dA2Mk56wEzDgegdC6R17g,UMGRI Interscope,2017-02-23
+2017-12-22,global,191,174,3,252,638030,DNA.,Kendrick Lamar,spotify:track:6HZILIRieu8S0iqY8kIKhj,Aftermath,2017-04-14
+2017-12-22,global,192,-1,163,4,637927,Perfect Symphony (Ed Sheeran & Andrea Bocelli),"Ed Sheeran, Andrea Bocelli",spotify:track:3zl7j5ua8mF4JDYuxrfo01,Atlantic Records UK,2017-12-15
+2017-12-22,global,193,184,13,85,637593,Mi Gente (feat. Beyoncé),"J Balvin, Willy William, Beyoncé",spotify:track:7fwXWKdDNI5IutOMc5OKYw,Mi Gente Remix,2017-09-28
+2017-12-22,global,194,171,34,356,637468,Redbone,Childish Gambino,spotify:track:3kxfsdsCpFgN412fpnW85Y,Glassnote - VMG,2016-12-02
+2017-12-22,global,195,-1,195,1,636975,Sleigh Ride,The Ronettes,spotify:track:5ASM6Qjiav2xPe7gRkQMsQ,Legacy Recordings,
+2017-12-22,global,196,172,2,349,635944,Castle on the Hill,Ed Sheeran,spotify:track:6PCUP3dWmTjcTtXY02oFdT,Atlantic Records UK,2017-03-03
+2017-12-22,global,197,-1,197,1,635025,Santa Claus Is Coming To Town,The Jackson 5,spotify:track:6a1hzBiTkgqTsDA0Xgfh9z,UNI/MOTOWN,1970-10-15
+2017-12-22,global,198,187,5,356,631931,One Dance,"Drake, Wizkid, Kyla",spotify:track:1xznGGDReH1oQq0xzbwXa3,Cash Money Records/Young Money Ent./Universal Rec.,2016-05-06
+2017-12-22,global,199,166,14,155,631001,Back to You (feat. Bebe Rexha & Digital Farm Animals),"Louis Tomlinson, Bebe Rexha, Digital Farm Animals",spotify:track:7F9vK8hNFMml4GtHsaXui6,Syco Music,2017-07-21
+2017-12-22,global,200,-1,200,1,628079,Cold December Night,Michael Bublé,spotify:track:4FPrAERfkPKOBKrRoyuxLu,Reprise,2024-12-05

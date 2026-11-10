@@ -1,0 +1,201 @@
+date,region,rank,previous_rank,peak_rank,days_on_chart,streams,track_name,artists,track_uri,labels,release_date
+2023-01-23,global,1,1,1,11,16310411,Flowers,Miley Cyrus,spotify:track:0yLdNVWF3Srea0uzk55zFn,Columbia,2023-08-18
+2023-01-23,global,2,2,1,12,8449185,"Shakira: Bzrp Music Sessions, Vol. 53/66","Bizarrap, Shakira",spotify:track:4nrPB8O7Y7wsOCJdgXkthe,DALE PLAY Records,2023-01-11
+2023-01-23,global,3,3,1,46,7919453,Kill Bill,SZA,spotify:track:1Qrg8KqiBpW07V7PNxwwwL,Top Dawg Entertainment/RCA Records,2022-12-08
+2023-01-23,global,4,4,1,53,5259029,Creepin' (with The Weeknd & 21 Savage),"Metro Boomin, The Weeknd, 21 Savage",spotify:track:2dHHgzDwk4BJdRwy9uXhTO,Republic Records,2022-12-02
+2023-01-23,global,5,5,1,124,4356542,Unholy (feat. Kim Petras),"Sam Smith, Kim Petras",spotify:track:3nqQXoyQOWXiESFLlDF1hG,Capitol Records UK / EMI,2022-09-22
+2023-01-23,global,6,6,1,299,4102541,As It Was,Harry Styles,spotify:track:4Dvkj6JhhA12EX05fT7y2e,Columbia,2022-05-20
+2023-01-23,global,7,8,1,151,3665174,I'm Good (Blue),"David Guetta, Bebe Rexha",spotify:track:4uUG5RXrOk84mYEfFvj3cK,Parlophone UK,2022-08-26
+2023-01-23,global,8,10,1,95,3525094,Anti-Hero,Taylor Swift,spotify:track:0V3wPSX9ygBnCm8psDIegu,Taylor Swift,2022-10-21
+2023-01-23,global,9,7,3,206,3525084,La Bachata,Manuel Turizo,spotify:track:5ww2BF9slyYgNOk37BlC4u,Sony Music Latin/La Industria,2022-05-26
+2023-01-23,global,10,12,10,57,3458616,Escapism.,"RAYE, 070 Shake",spotify:track:5WxVXxCMRnvxUKFq40ELwq,Human Re Sources,2023-02-03
+2023-01-23,global,11,11,11,151,3419356,Calm Down (with Selena Gomez),"Rema, Selena Gomez",spotify:track:0WtM2NBVQNNJLh6scP13H8,Mavin Records / Jonzing World,2022-08-25
+2023-01-23,global,12,9,7,54,3406989,La Jumpa,"Arcángel, Bad Bunny",spotify:track:2mnXxnrX5vCGolNkaFvVeM,Rimas Entertainment LLC.,2022-12-01
+2023-01-23,global,13,13,13,12,3359818,Nonsense,Sabrina Carpenter,spotify:track:6dgUya35uo964z7GZXM07g,Island Records,2022-07-15
+2023-01-23,global,14,15,14,41,3144819,Sure Thing,Miguel,spotify:track:0JXXNGljqupsJaZsgSbMZV,Jive,2010-11-30
+2023-01-23,global,15,16,15,89,3109399,Here With Me,d4vd,spotify:track:78Sw5GDo6AlGwTwanjXbGh,"D4VD ENT, LLC",2023-05-26
+2023-01-23,global,16,17,9,36,2994130,Ditto,NewJeans,spotify:track:3r8RuvgbX9s7ammBn07D3W,ADOR,2022-12-19
+2023-01-23,global,17,14,1,201,2967232,"Quevedo: Bzrp Music Sessions, Vol. 52/66","Bizarrap, Quevedo",spotify:track:2tTmW7RDtMQtBk7m2rYeSw,DALE PLAY Records,2022-07-06
+2023-01-23,global,18,18,11,154,2944552,golden hour,JVKE,spotify:track:5odlY52u43F5BjByhxg7wg,JVKE,2022-09-23
+2023-01-23,global,19,20,14,20,2895758,Yandel 150,"Yandel, Feid",spotify:track:4FAKtPVycI4DxoOHC01YqD,La Leyenda LLC,2023-01-13
+2023-01-23,global,20,22,17,355,2849284,Die For You,The Weeknd,spotify:track:2LBqCSwhJGcFQeTHMVGwy3,The Weeknd/Lyric,2016-11-24
+2023-01-23,global,21,21,11,649,2826380,Another Love,Tom Odell,spotify:track:7jtQIBanIiJOMS6RyCx6jZ,ITNO/Columbia,2013-06-24
+2023-01-23,global,22,19,11,102,2769778,Hey Mor,"Ozuna, Feid",spotify:track:1zsPaEkglFvxjAhrM8yhpr,Aura Music Corp.,2022-10-07
+2023-01-23,global,23,23,7,233,2730707,I Ain't Worried,OneRepublic,spotify:track:4h9wh7iOZ0GGn8QVp4RAOB,Interscope Records,2022-05-13
+2023-01-23,global,24,25,24,22,2643109,OMG,NewJeans,spotify:track:65FftemJ1DbbZ45DUfHJXE,ADOR,2023-01-02
+2023-01-23,global,25,28,9,53,2596436,Superhero (Heroes & Villains) [with Future & Chris Brown],"Metro Boomin, Future, Chris Brown",spotify:track:0vjeOZ3Ft5jvAi9SBFJm1j,Republic Records,2022-12-02
+2023-01-23,global,26,26,22,201,2532064,I Wanna Be Yours,Arctic Monkeys,spotify:track:5XeFesFbtLpXzIVDNQP22n,Domino Recording Co,2013-09-09
+2023-01-23,global,27,29,12,39,2528054,LET GO,Central Cee,spotify:track:3zkyus0njMCL6phZmNNEeN,Central Cee,2022-12-15
+2023-01-23,global,28,27,20,101,2432899,Mockingbird,Eminem,spotify:track:561jH07mF1jHuk7KlaeF0s,Eminem Catalog PS,2004-11-12
+2023-01-23,global,29,24,17,27,2418438,Bebe Dame,"Fuerza Regida, Grupo Frontera",spotify:track:0IKeDy5bT9G0bA7ZixRT4A,Rancho Humilde/Street Mob Records,2022-12-28
+2023-01-23,global,30,30,1,81,2412479,Rich Flex,"Drake, 21 Savage",spotify:track:1bDbXMyjaUIooNwFE9wn0N,OVO / Republic Records,2022-11-04
+2023-01-23,global,31,33,9,93,2346004,Made You Look,Meghan Trainor,spotify:track:0QHEIqNKsMoOY5urbzN48u,Epic,2022-10-21
+2023-01-23,global,32,37,9,106,2276788,Miss You - Bonus Track,"Oliver Tree, Robin Schulz",spotify:track:73vIOb4Q7YN6HeJTbscRx5,Atlantic Records,2023-09-29
+2023-01-23,global,33,39,15,197,2237943,SNAP,Rosa Linn,spotify:track:6zJejIfVYLgjud3lTk4DLB,Nvak Collective,2022-03-19
+2023-01-23,global,34,35,17,142,2226776,Romantic Homicide,d4vd,spotify:track:1xK59OXxi2TAAAbmZK0kBL,"D4VD ENT, LLC",2022-07-20
+2023-01-23,global,35,45,6,52,2122525,Until I Found You (with Em Beihold) - Em Beihold Version,"Stephen Sanchez, Em Beihold",spotify:track:1Y3LN4zO1Edc2EluIoSPJN,Republic Records,2022-04-22
+2023-01-23,global,36,34,19,81,2120491,PUNTO G,Quevedo,spotify:track:4WiQA1AGWHFvaxBU6bHghs,Quevedo,2023-01-20
+2023-01-23,global,37,32,2,263,2102016,Me Porto Bonito,"Bad Bunny, Chencho Corleone",spotify:track:6Sq7ltF9Qa7SNFBsV5Cogx,Rimas Entertainment LLC.,2022-05-06
+2023-01-23,global,38,44,19,882,2097002,Sweater Weather,The Neighbourhood,spotify:track:2QjOHCTQ1Jl3zawyYOpxh6,Columbia,2013-04-19
+2023-01-23,global,39,42,27,319,2089517,Bones,Imagine Dragons,spotify:track:54ipXppHLA8U4yqpOFTUhr,Kid Ina Korner / Interscope,2022-07-01
+2023-01-23,global,40,43,6,185,2085068,Under The Influence,Chris Brown,spotify:track:5IgjP7X4th6nMNDh4akUHb,Chris Brown Entertainment/RCA Records,2019-10-04
+2023-01-23,global,41,53,25,36,2054195,Snooze,SZA,spotify:track:4iZ4pt7kvcaH6Yo8UoZ4s2,Top Dawg Entertainment/RCA Records,2022-12-09
+2023-01-23,global,42,48,8,201,2033934,Bad Habit,Steve Lacy,spotify:track:4k6Uh1HXdhtusDW5y8Gbvy,L-M Records/RCA Records,2022-07-15
+2023-01-23,global,43,31,30,28,2021556,Que Vuelvas,"Carín León, Grupo Frontera",spotify:track:6Um358vY92UBv5DloTRX9L,BorderKid Records/Sony Music Latin,2022-12-09
+2023-01-23,global,44,46,13,32,2016843,Gato de Noche,"Ñengo Flow, Bad Bunny",spotify:track:54ELExv56KCAB4UP9cOCzC,Rimas Entertainment LLC.,2022-12-22
+2023-01-23,global,45,41,24,57,2013508,Bloody Mary,Lady Gaga,spotify:track:11BKm0j4eYoCPPpCONAVwA,Interscope,2011-05-23
+2023-01-23,global,46,52,1,841,1992929,Starboy,"The Weeknd, Daft Punk",spotify:track:7MXVkk9YMctZqd1Srtv4MB,The Weeknd/Lyric,2016-11-25
+2023-01-23,global,47,36,36,18,1977939,AMG,"Natanael Cano, Peso Pluma, Gabito Ballesteros",spotify:track:1lRtH4FszTrwwlK5gTSbXO,WEA Latina,2022-11-24
+2023-01-23,global,48,40,4,263,1971294,Tití Me Preguntó,Bad Bunny,spotify:track:1IHWl5LamUGEuP4ozKQSXZ,Rimas Entertainment LLC.,2022-05-06
+2023-01-23,global,49,51,35,157,1938986,Feliz Cumpleaños Ferxxo,Feid,spotify:track:2CeKVsFFXG4QzA415QygGb,UMLE - Latino,2022-09-14
+2023-01-23,global,50,50,12,96,1927322,Monotonía,"Shakira, Ozuna",spotify:track:6G12ZafqofSq7YtrMqUm76,Sony Music Latin,2022-10-19
+2023-01-23,global,51,54,51,29,1921694,Escapism. - Sped Up,"RAYE, 070 Shake",spotify:track:4rPJSqrov3zqGwXlemLBMw,Human Re Sources,2022-12-07
+2023-01-23,global,52,47,5,180,1909432,DESPECHÁ,ROSALÍA,spotify:track:53tfEupEzQRtVFOeZvk7xq,Columbia,2022-09-09
+2023-01-23,global,53,57,11,156,1894138,CUFF IT,Beyoncé,spotify:track:1xzi1Jcr7mEi9K2RfzLOqS,Parkwood Entertainment/Columbia,2022-07-29
+2023-01-23,global,54,59,7,46,1880126,Nobody Gets Me,SZA,spotify:track:5Y35SjAfXjjG0sFQ3KOxmm,Top Dawg Entertainment/RCA Records,2022-12-09
+2023-01-23,global,55,66,55,45,1862016,10:35,"Tiësto, Tate McRae",spotify:track:6BePGk3eCan4FqaW2X8Qy3,Atlantic Records,2022-11-03
+2023-01-23,global,56,56,36,98,1835747,Just Wanna Rock,Lil Uzi Vert,spotify:track:4FyesJzVpA39hbYvcseO2d,Generation Now/Atlantic,2022-10-17
+2023-01-23,global,57,55,1,765,1830310,Heat Waves,Glass Animals,spotify:track:02MWAaffLxlfxAUY7c5dvx,Polydor Records,2020-08-07
+2023-01-23,global,58,64,17,45,1821643,Low,SZA,spotify:track:2GAhgAjOhEmItWLfgisyOn,Top Dawg Entertainment/RCA Records,2022-12-09
+2023-01-23,global,59,49,25,66,1796326,Maan Meri Jaan,King,spotify:track:1418IuVKQPTYqt7QNJ9RXN,Warner Music India,2022-09-13
+2023-01-23,global,60,61,1,1152,1746141,Blinding Lights,The Weeknd,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,Republic Records,2020-03-20
+2023-01-23,global,61,69,60,70,1735493,SPIT IN MY FACE!,ThxSoMch,spotify:track:1N8TTK1Uoy7UvQNUazfUt5,Elektra (NEK),2022-12-20
+2023-01-23,global,62,65,1,228,1733272,Glimpse of Us,Joji,spotify:track:4ewazQLXFTDC8XvCbhvtXs,88rising Music,2022-11-04
+2023-01-23,global,63,63,59,34,1726887,CHORRITO PA LAS ANIMAS,Feid,spotify:track:0CYTGMBYkwUxrj1MWDLrC5,UMLE - Latino,2022-12-02
+2023-01-23,global,64,72,64,13,1726573,People,Libianca,spotify:track:26b3oVLrRUaaybJulow9kz,5K Records Limited,2022-12-06
+2023-01-23,global,65,38,34,22,1690050,Leão,Marília Mendonça,spotify:track:2K9kZpwD2CzTa6iiSYYOoO,Som Livre,2022-12-09
+2023-01-23,global,66,60,2,263,1687039,Ojitos Lindos,"Bad Bunny, Bomba Estéreo",spotify:track:3k3NWokhRRkEPhCzPmV8TW,Rimas Entertainment LLC.,2022-05-06
+2023-01-23,global,67,58,6,263,1675566,Efecto,Bad Bunny,spotify:track:5Eax0qFko2dh7Rl2lYs3bx,Rimas Entertainment LLC.,2022-05-06
+2023-01-23,global,68,67,1,564,1630702,STAY (with Justin Bieber),"The Kid LAROI, Justin Bieber",spotify:track:567e29TDzLwZwfDuEpGTwo,Columbia,2021-07-27
+2023-01-23,global,69,74,8,238,1578780,I Was Never There,"The Weeknd, Gesaffelstein",spotify:track:1cKHdTo9u0ZymJdPGSh6nq,The Weeknd/Lyric,2018-03-30
+2023-01-23,global,70,68,60,4,1560048,MOONLIGHT SUNRISE,TWICE,spotify:track:38DlSDrx9tgc5Gfq6y3aBa,Republic Records - TWICE,2023-03-10
+2023-01-23,global,71,77,71,138,1550580,When I Was Your Man,Bruno Mars,spotify:track:0B7wvvmu9EISAwZnOpjhNI,Atlantic Records,2012-12-07
+2023-01-23,global,72,73,32,524,1549163,Dandelions,Ruth B.,spotify:track:2eAvDnpXP5W0cVtiI0PUxV,Columbia,2017-05-05
+2023-01-23,global,73,76,19,260,1545638,Until I Found You,Stephen Sanchez,spotify:track:6VhuP99TE6gYNQRJIlAWFD,Republic Records,2022-08-19
+2023-01-23,global,74,91,60,41,1542145,The Color Violet,Tory Lanez,spotify:track:3azJifCSqg9fRij2yKIbWz,One Umbrella Records,2021-12-10
+2023-01-23,global,75,71,61,11,1523876,Fin de Semana,"Oscar Maydon, Junior H",spotify:track:6TBzRwnX2oYd8aOrOuyK1p,Rancho Humilde,2023-01-13
+2023-01-23,global,76,86,18,88,1506146,Shirt,SZA,spotify:track:2wSTnntOPRi7aQneobFtU4,Top Dawg Entertainment/RCA Records,2022-12-09
+2023-01-23,global,77,80,59,70,1489912,CAIRO,"KAROL G, Ovy On The Drums",spotify:track:6WbAhuwE6fCOriBu5786X1,BICHOTA RECORDS / INTERSCOPE RECORDS / UNIVERSAL MUSIC LATINO,2022-11-13
+2023-01-23,global,78,70,70,28,1480094,,,spotify:track:7Els4IIFYa4P4RxBkZkxdd,,
+2023-01-23,global,79,84,40,395,1477090,505,Arctic Monkeys,spotify:track:58ge6dfP91o9oXMzq3XkIS,Domino Recording Co,2007-04-22
+2023-01-23,global,80,82,65,34,1471772,PLAYA DEL INGLÉS,"Quevedo, Myke Towers",spotify:track:0Sfn2TYbpQtCGMBf6C0Y6T,Quevedo,2023-01-20
+2023-01-23,global,81,62,30,122,1450820,NO SE VA - En Vivo,Grupo Frontera,spotify:track:23Lyy7ZXRvzfgH4JtDkKrX,BorderTown Records,2023-08-25
+2023-01-23,global,82,78,66,32,1438417,Marisola - Remix,"Cris MJ, Duki, Nicki Nicole, Standly, Stars Music Chile",spotify:track:0NO2zL0kw8sGGnaMvHKAZF,Stars Music Chile,2022-12-15
+2023-01-23,global,83,99,64,4,1429885,AHORA QUÉ,Quevedo,spotify:track:5qP24CrDI0rmY5zwRvUfzU,Quevedo,2023-01-20
+2023-01-23,global,84,85,2,529,1429533,Cold Heart - PNAU Remix,"Elton John, Dua Lipa, PNAU",spotify:track:6JIC3hbC28JZKZ8AlAqX8h,EMI,2021-10-22
+2023-01-23,global,85,87,12,11,1411224,VIBE (feat. Jimin of BTS),"TAEYANG, Jimin",spotify:track:61AZsmFB3VoJdmraMk5ZSn,THEBLACKLABEL/Interscope Records,2023-01-13
+2023-01-23,global,86,79,57,141,1407997,Shinunoga E-Wa,Fujii Kaze,spotify:track:0o9zmvc5f3EFApU52PPIyW,Universal Music LLC,2020-05-20
+2023-01-23,global,87,89,69,116,1404676,Hype Boy,NewJeans,spotify:track:0a4MMyCrzT0En247IhqZbD,ADOR,2022-08-01
+2023-01-23,global,88,88,19,1732,1401462,lovely (with Khalid),"Billie Eilish, Khalid",spotify:track:0u2P5u6lvoDfwTYjAADbn4,Darkroom,2018-04-19
+2023-01-23,global,89,97,89,14,1378163,Heart To Heart,Mac DeMarco,spotify:track:7EAMXbLcL0qXmciM5SwMh2,Mac’s Record Label,2019-05-10
+2023-01-23,global,90,83,43,136,1374592,VISTA AL MAR,Quevedo,spotify:track:5q86iSKkBtOoNkdgEDY5WV,Quevedo,2023-01-20
+2023-01-23,global,91,94,1,458,1365889,Call Out My Name,The Weeknd,spotify:track:09mEdoA6zrmBPgTEN5qXmN,The Weeknd/Lyric,2018-03-30
+2023-01-23,global,92,96,2,93,1365336,Lavender Haze,Taylor Swift,spotify:track:5jQI2r1RdgtuT8S3iG8zFC,Taylor Swift,2022-10-21
+2023-01-23,global,93,90,37,167,1361153,LOKERA,"Rauw Alejandro, Lyanno, Brray",spotify:track:33cF8aTmGJ6TsEf23uqGIN,Sony Music Latin/Duars Entertainment,2023-01-24
+2023-01-23,global,94,98,4,1466,1360345,Someone You Loved,Lewis Capaldi,spotify:track:7qEHsqek33rTcFNT9PFqLf,Vertigo Berlin,2019-05-17
+2023-01-23,global,95,81,11,263,1352634,Neverita,Bad Bunny,spotify:track:31i56LZnwE6uSu3exoHjtB,Rimas Entertainment LLC.,2022-05-06
+2023-01-23,global,96,107,2,247,1333491,Late Night Talking,Harry Styles,spotify:track:1qEmFfgcLObUfQm0j1W2CK,Columbia,2022-05-20
+2023-01-23,global,97,111,53,137,1332700,Something in the Orange,Zach Bryan,spotify:track:3WMj8moIAXJhHsyLaqIIHI,Warner Records,2022-04-22
+2023-01-23,global,98,93,50,98,1322974,ANTIFRAGILE,LE SSERAFIM,spotify:track:4fsQ0K37TOXa3hEQfjEic1,SOURCE MUSIC,2022-10-17
+2023-01-23,global,99,92,92,41,1321384,METAMORPHOSIS,INTERWORLD,spotify:track:2ksyzVfU0WJoBpu8otr4pz,INTERWORLD,2021-11-25
+2023-01-23,global,100,112,1,463,1306972,Easy On Me,Adele,spotify:track:46IZ0fSY2mpAiktS3KOqds,Columbia,2021-11-19
+2023-01-23,global,101,106,29,481,1303927,Without Me,Eminem,spotify:track:7lQ8MOhq6IN2w8EYcFNSUk,Eminem Catalog PS,2002-05-26
+2023-01-23,global,102,105,2,779,1302377,Save Your Tears,The Weeknd,spotify:track:5QO79kh1waicV47BqGRL3g,Republic Records,2020-03-20
+2023-01-23,global,103,121,65,72,1299148,Shut up My Moms Calling,Hotel Ugly,spotify:track:3hxIUxnT27p5WcmjGUXNwx,"Hotel Ugly, under exclusive license to Amuseio AB",2020-02-10
+2023-01-23,global,104,116,97,342,1289596,Unstoppable,Sia,spotify:track:2J2Z1SkXYghSajLibnQHOa,Monkey Puzzle Records/RCA Records,2016-10-21
+2023-01-23,global,105,102,86,151,1286863,Viva La Vida,Coldplay,spotify:track:1mea3bSkSGXuIRvnydlB5b,Parlophone UK,2008-06-12
+2023-01-23,global,106,113,49,755,1286684,Yellow,Coldplay,spotify:track:3AJwUDP919kvQ9QcozQPxg,Parlophone UK,2000-07-10
+2023-01-23,global,107,130,69,564,1286192,No Role Modelz,J. Cole,spotify:track:68Dni7IE4VyPkTOH9mRWHr,Roc Nation Records LLC,2014-12-09
+2023-01-23,global,108,122,3,86,1280001,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,spotify:track:6sCvvleqKbeyOkQDieBYgp,Roc Nation/Def Jam/Hollywood,2022-11-11
+2023-01-23,global,109,114,81,196,1272097,Apocalypse,Cigarettes After Sex,spotify:track:3AVrVz5rK8Hrqo9YGiVGN5,Partisan Records,2017-06-09
+2023-01-23,global,110,103,71,165,1263149,Murder In My Mind,Kordhell,spotify:track:6qyS9qBy0mEk3qYaH8mPss,Kordhell,2022-01-21
+2023-01-23,global,111,124,19,121,1260691,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,spotify:track:38T0tPVZHcPZyhtOcCP7pF,Columbia,2022-09-22
+2023-01-23,global,112,142,4,219,1256043,Jimmy Cooks (feat. 21 Savage),"Drake, 21 Savage",spotify:track:3F5CgOj3wFlRv51JsHbxhe,OVO,2022-06-17
+2023-01-23,global,113,104,3,2128,1255865,Perfect,Ed Sheeran,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Atlantic Records UK,2017-03-03
+2023-01-23,global,114,109,83,715,1254310,Riptide,Vance Joy,spotify:track:7yq4Qj7cqayVTp3FF9CWbm,F-Stop Records/Atlantic,2014-09-08
+2023-01-23,global,115,125,6,233,1247138,I Like You (A Happier Song) (with Doja Cat),"Post Malone, Doja Cat",spotify:track:0O6u0VJ46W86TxN9wgyqDj,Mercury Records/Republic Records,2022-06-03
+2023-01-23,global,116,119,4,93,1226621,Midnight Rain,Taylor Swift,spotify:track:3rWDp9tBPQR9z6U5YyRSK4,Taylor Swift,2022-10-21
+2023-01-23,global,117,115,18,466,1225391,I Love You So,The Walters,spotify:track:4SqWKzw0CbA05TGszDgMlc,Warner Records,2014-11-28
+2023-01-23,global,118,126,91,493,1223373,Do I Wanna Know?,Arctic Monkeys,spotify:track:5FVd6KXrgO9B3JPmC8OPst,Domino Recording Co,2013-09-09
+2023-01-23,global,119,110,2,65,1222284,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],"Jung Kook, BTS, FIFA Sound",spotify:track:1RDvyOk4WtPCtoqciJwVn8,Katara Studios | 2101 Records under exclusive license to UnitedMasters LLC,2022-11-20
+2023-01-23,global,120,131,93,113,1219970,Superman,"Eminem, Dina Rae",spotify:track:4woTEX1wYOTGDqNXuavlRC,Eminem Catalog PS,2002-05-26
+2023-01-23,global,121,120,68,196,1219549,Calm Down,Rema,spotify:track:3BnDvpeuGOj21Ir2aVEtQo,Mavin Records / Jonzing World,2022-03-24
+2023-01-23,global,122,146,24,311,1217946,Revenge,XXXTENTACION,spotify:track:5TXDeTFVRVY7Cvt0Dw4vWW,Bad Vibes Forever / EMPIRE,2017-08-25
+2023-01-23,global,123,100,12,253,1217702,Te Felicito,"Shakira, Rauw Alejandro",spotify:track:2rurDawMfoKP4uHyb2kJBt,Sony Music Latin,2022-04-21
+2023-01-23,global,124,101,1,263,1217003,Moscow Mule,Bad Bunny,spotify:track:6Xom58OOXk2SoU711L2IXO,Rimas Entertainment LLC.,2022-05-06
+2023-01-23,global,125,127,3,212,1215413,Left and Right (Feat. Jung Kook of BTS),"Charlie Puth, Jung Kook, BTS",spotify:track:5Odq8ohlgIbQKMZivbWkEo,Atlantic Records,2022-10-06
+2023-01-23,global,126,95,1,128,1213199,Shut Down,BLACKPINK,spotify:track:7gRFDGEzF9UkBV233yv2dc,YG Entertainment/Interscope Records,2022-09-15
+2023-01-23,global,127,108,55,115,1210840,Besos Moja2,"Wisin & Yandel, ROSALÍA",spotify:track:6OzUIp8KjuwxJnCWkXp1uL,Sony Music Latin,2022-12-01
+2023-01-23,global,128,143,16,90,1207957,TV,Billie Eilish,spotify:track:3GYlZ7tbxLOxe6ewMNVTkw,Darkroom/Interscope Records,2022-07-21
+2023-01-23,global,129,128,53,161,1205773,"Sex, Drugs, Etc.",Beach Weather,spotify:track:7DbdUf8aHSYoliSjO6LZv6,8123 / Arista Records,2016-11-04
+2023-01-23,global,130,138,110,170,1204007,Stargirl Interlude,"The Weeknd, Lana Del Rey",spotify:track:5gDWsRxpJ2lZAffh5p7K0w,The Weeknd/Lyric,2016-11-24
+2023-01-23,global,131,150,68,104,1197419,How Do I Say Goodbye,Dean Lewis,spotify:track:1aOl53hkZGHkl2Snhr7opL,Universal Music Australia Pty. Ltd.,2022-11-04
+2023-01-23,global,132,136,58,523,1190647,Dark Red,Steve Lacy,spotify:track:3EaJDYHA0KnX88JvDhL9oa,Three Quarter,2017-02-20
+2023-01-23,global,133,151,10,489,1187606,Ghost,Justin Bieber,spotify:track:6I3mqTwhRpn34SLVafSH7G,RBMG/Def Jam,2021-03-19
+2023-01-23,global,134,177,134,5,1185192,Players,Coi Leray,spotify:track:6UN73IYd0hZxLi8wFPMQij,Uptown / Republic Records,2022-11-30
+2023-01-23,global,135,139,99,116,1183272,Space Song,Beach House,spotify:track:7H0ya83CMmgFcOhw0UB6ow,Bella Union,2015-08-28
+2023-01-23,global,136,117,4,277,1182141,PROVENZA,KAROL G,spotify:track:7dSZ6zGTQx66c2GF91xCrb,BICHOTA RECORDS / INTERSCOPE RECORDS / UNIVERSAL MUSIC LATINO,2022-04-22
+2023-01-23,global,137,129,3,450,1179914,Enemy (with JID) - from the series Arcane League of Legends,"Imagine Dragons, JID, Arcane, League of Legends",spotify:track:3CIyK1V4JEJkg02E4EJnDl,Kid Ina Korner / Interscope,2022-07-01
+2023-01-23,global,138,144,121,31,1178265,Those Eyes,New West,spotify:track:50x1Ic8CaXkYNvjmxe3WXy,Republic Records,2019-05-10
+2023-01-23,global,139,137,36,599,1178221,The Real Slim Shady,Eminem,spotify:track:3yfqSUWxFvZELEM4PmlwIR,Eminem Catalog PS,2000-05-23
+2023-01-23,global,140,145,24,509,1174319,The Hills,The Weeknd,spotify:track:7fBv7CLKzipRk6EC6TWHOB,The Weeknd/Lyric,2015-08-28
+2023-01-23,global,141,118,86,43,1163245,Qué Agonía,"Yuridia, Ángela Aguilar",spotify:track:4H6o1bxKRGzmsE0vzo968m,Sony Music México,2022-10-20
+2023-01-23,global,142,149,4,1160,1158401,Watermelon Sugar,Harry Styles,spotify:track:6UelLqGlWMcVH1E5c4H7lY,Columbia,2019-12-13
+2023-01-23,global,143,133,11,876,1148724,Heather,Conan Gray,spotify:track:4xqrdfXkTW4T0RauPLv3WA,Republic Records,2020-03-20
+2023-01-23,global,144,134,15,2175,1147214,Believer,Imagine Dragons,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Kid Ina Korner / Interscope,2017-06-23
+2023-01-23,global,145,140,86,233,1147203,Night Changes,One Direction,spotify:track:5O2P9iiztwhomNh8xkR9lJ,Syco Music,2014-11-17
+2023-01-23,global,146,135,42,107,1140402,PUNTO 40,"Rauw Alejandro, Baby Rasta",spotify:track:58cEG7FsVoipRiRKUMgOjo,Sony Music Latin/Duars Entertainment,2023-01-24
+2023-01-23,global,147,141,81,25,1138686,Party In The U.S.A.,Miley Cyrus,spotify:track:3E7dfMvvCLUddWissuqMwr,Hollywood Records,2009-01-01
+2023-01-23,global,148,148,78,163,1137660,Summertime Sadness,Lana Del Rey,spotify:track:1FEiijYPJtyswChfcpv3p0,Polydor Records,2012-01-01
+2023-01-23,global,149,155,27,174,1133437,Normal,Feid,spotify:track:0T2pB7P1VdXPhLdQZ488uH,UMLE - Latino,2022-09-14
+2023-01-23,global,150,159,16,79,1130485,Die For You,Joji,spotify:track:26hOm7dTtBi0TdpDGl141t,88rising Music,2022-11-04
+2023-01-23,global,151,157,100,419,1129283,Why'd You Only Call Me When You're High?,Arctic Monkeys,spotify:track:086myS9r57YsLbJpU0TgK9,Domino Recording Co,2013-09-09
+2023-01-23,global,152,153,55,171,1123425,Atlantis,Seafret,spotify:track:1Fid2jjqsHViMX6xNH70hE,Sweet Jane Recordings,2016-01-29
+2023-01-23,global,153,158,68,191,1118763,LA INOCENTE,"Mora, Feid",spotify:track:5jt25aFjW2kNoBqaEVaz5W,Rimas Entertainment LLC,2022-04-01
+2023-01-23,global,154,160,97,264,1114339,After Dark,Mr.Kitty,spotify:track:5FkJHVudUByVjanCqFXRql,Juggernaut Music Group,2014-08-08
+2023-01-23,global,155,168,4,496,1113001,Shivers,Ed Sheeran,spotify:track:3xWGA8pa0IKFI7IMPri4P0,Atlantic Records UK,
+2023-01-23,global,156,152,152,17,1110754,Boy's a Liar,PinkPantheress,spotify:track:3NanY0K4okhIQzL33U5Ad8,Warner Records,2022-11-30
+2023-01-23,global,157,191,153,4,1106665,WANDA,Quevedo,spotify:track:0Iozrbed8spxoBnmtBMshO,Quevedo,2023-01-20
+2023-01-23,global,158,169,7,264,1095936,About Damn Time,Lizzo,spotify:track:6HMtHNpW6YPi1hrw9tgF8P,Nice Life/Atlantic,2022-07-15
+2023-01-23,global,159,154,27,261,1091784,Sunroof,"Nicky Youre, hey daisy",spotify:track:4h4QlmocP3IuwYEj2j14p8,Thirty Knots/Columbia,2023-06-09
+2023-01-23,global,160,192,26,50,1090167,Too Many Nights (feat. Don Toliver & with Future),"Metro Boomin, Future, Don Toliver",spotify:track:2Hh3ETdQKrmSI3QS0hme7g,Republic Records,2022-12-02
+2023-01-23,global,161,179,3,618,1087957,Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,"The Weeknd, Ariana Grande",spotify:track:1oFAF1hdPOickyHgbuRjyX,XO / Republic Records,2020-03-20
+2023-01-23,global,162,166,101,650,1082372,Counting Stars,OneRepublic,spotify:track:2tpWsVSb9UEmDRxAl1zhX1,Mosley / Interscope,2013-01-01
+2023-01-23,global,163,182,46,41,1072676,Set Fire to the Rain,Adele,spotify:track:7j4OmvkjRz0PrjFADlHfQx,XL Recordings,2011-01-24
+2023-01-23,global,164,183,89,4,1072608,KNIGHT CRAWLER,"Trippie Redd, Juice WRLD",spotify:track:3fNMgjG8yXaSam46swhz7w,"1400 Entertainment, Inc. / 10K Projects",2023-01-20
+2023-01-23,global,165,175,141,93,1071249,Demons,Imagine Dragons,spotify:track:5qaEfEh1AtSdrdrByCP7qR,Kid Ina Korner / Interscope,2012-09-04
+2023-01-23,global,166,174,57,346,1065694,Can't Hold Us (feat. Ray Dalton),"Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton",spotify:track:22skzmqfdWrjJylampe0kt,Macklemore,2012-10-09
+2023-01-23,global,167,75,45,61,1065474,Bombonzinho - Ao Vivo,"Israel & Rodolffo, Ana Castela",spotify:track:4o6v3Oooyt7HF20idztRD4,Som Livre,2022-11-03
+2023-01-23,global,168,167,94,424,1065042,Blank Space,Taylor Swift,spotify:track:1u8c2t2Cy7UBoG4ArRcF5g,Taylor Swift,2014-01-01
+2023-01-23,global,169,186,12,43,1063419,Blind,SZA,spotify:track:2CSRrnOEELmhpq8iaAi9cd,Top Dawg Entertainment/RCA Records,2022-12-09
+2023-01-23,global,170,-1,132,3,1058239,Komet,"Udo Lindenberg, Apache 207",spotify:track:7oQepKHmXDaPC3rgeLRvQu,Warner Music Central Europe,2023-01-19
+2023-01-23,global,171,164,9,397,1057332,MIDDLE OF THE NIGHT,Elley Duhé,spotify:track:58HvfVOeJY7lUuCqF0m3ly,Not Fit For Society/RCA Records,2020-01-10
+2023-01-23,global,172,170,112,65,1057164,Limbo,Freddie Dredd,spotify:track:37F7E7BKEw2E4O2L7u0IEp,Doomshop Records/RCA Records,2022-08-11
+2023-01-23,global,173,171,133,46,1054410,WORTH NOTHING (feat. Oliver Tree) - Fast & Furious: Drift Tape/Phonk Vol 1,"TWISTED, Oliver Tree, Fast & Furious: The Fast Saga",spotify:track:5Zlb01Jcn0Ld49zazzZJSB,APG Inc – FF10,2022-09-28
+2023-01-23,global,174,185,7,1886,1054342,Say You Won't Let Go,James Arthur,spotify:track:5uCax9HTNlzGybIStD3vDh,Columbia,2016-10-28
+2023-01-23,global,175,172,68,202,1054023,Don’t Blame Me,Taylor Swift,spotify:track:1R0a2iXumgCiFb7HEZ7gUE,Taylor Swift,2017-11-10
+2023-01-23,global,176,184,114,94,1052474,Somewhere Only We Know,Keane,spotify:track:0ll8uFnc0nANY35E0Lfxvg,Universal-Island Records Ltd.,2004-05-10
+2023-01-23,global,177,176,102,322,1052017,Locked out of Heaven,Bruno Mars,spotify:track:5g7sDjBhZ4I3gcFIpkrLuI,Atlantic Records,2012-12-07
+2023-01-23,global,178,123,117,5,1051676,Puta Mexicana,"DJ Jeeh FDC, MC Menor MT, Yuri Redicopa, Mc Pelé",spotify:track:4mD9hjoTckjeL1CrJCx0MT,PMI Records Oficial,2022-12-06
+2023-01-23,global,179,163,95,164,1051249,Everybody Wants To Rule The World,Tears For Fears,spotify:track:4RvWPyQ5RL0ao9LPZeSouE,UMC (Universal Music Catalogue),1985-02-25
+2023-01-23,global,180,161,16,706,1050821,LA CANCIÓN,"J Balvin, Bad Bunny",spotify:track:0fea68AdmYNygeTGI4RC18,Universal Music Latino / Rimas,2019-06-28
+2023-01-23,global,181,-1,125,14,1050357,Sie weiß (feat. Mero),"AYLIVA, MERO",spotify:track:7DyDjhZMEIK5Ied4juTCyc,Whiteheart Records/WM Germany,2023-01-06
+2023-01-23,global,182,190,43,52,1042882,THE LONELIEST,Måneskin,spotify:track:7exHT4swWOKL5addPeqkLP,Epic,2023-01-20
+2023-01-23,global,183,194,73,157,1039755,I'm Not The Only One,Sam Smith,spotify:track:5QM0SsyzmBM0pbFY52Xj1X,PLG - Capitol,2014-05-26
+2023-01-23,global,184,173,1,742,1034200,One Kiss (with Dua Lipa),"Calvin Harris, Dua Lipa",spotify:track:7ef4DlsgrMEH11cDZd32M6,Sony Music UK,2018-04-06
+2023-01-23,global,185,198,91,642,1028435,Take Me To Church,Hozier,spotify:track:3dYD57lRAUcMHufyqn9GcI,Universal-Island Records Ltd.,2014-09-19
+2023-01-23,global,186,156,1,156,1026950,Pink Venom,BLACKPINK,spotify:track:5zwwW9Oq7ubSxoCGyW1nbY,YG Entertainment/Interscope Records,2022-09-15
+2023-01-23,global,187,-1,16,46,1018756,Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage],"Metro Boomin, Travis Scott, 21 Savage",spotify:track:4WuOWVnAqvEQxgSRrspBgt,Republic Records,2022-12-02
+2023-01-23,global,188,-1,27,725,1018324,Lose Yourself,Eminem,spotify:track:1v7L65Lzy0j0vdpRjJewt1,Eminem Catalog PS,2004-01-01
+2023-01-23,global,189,189,2,547,1015737,INDUSTRY BABY (feat. Jack Harlow),"Lil Nas X, Jack Harlow",spotify:track:5Z9KJZvQzH6PFmb8SNkxuk,Columbia,2021-09-17
+2023-01-23,global,190,187,11,425,1011799,Gangsta's Paradise,"Coolio, L.V.",spotify:track:1DIXPcTDzTj8ZMHt3PDt8p,"Tommy Boy Music, LLC",1995-11-07
+2023-01-23,global,191,-1,5,251,995974,WAIT FOR U (feat. Drake & Tems),"Future, Drake, Tems",spotify:track:59nOXPmaKlBfGMDeOVGrIK,Epic/Freebandz,2022-04-29
+2023-01-23,global,192,178,1,2091,993188,Shape of You,Ed Sheeran,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Atlantic Records UK,2017-03-03
+2023-01-23,global,193,-1,45,81,989904,Evergreen (You Didn’t Deserve Me At All),Omar Apollo,spotify:track:2TktkzfozZifbQhXjT6I33,Warner Records,2022-04-08
+2023-01-23,global,194,-1,4,108,978241,After Hours,The Weeknd,spotify:track:2p8IUWQDrpjuFltbdgLOag,Republic Records,2020-03-20
+2023-01-23,global,195,-1,17,482,976547,Where Are You Now,"Lost Frequencies, Calum Scott",spotify:track:3uUuGVFu1V7jTQL60S1r8z,Epic Amsterdam,2021-07-30
+2023-01-23,global,196,147,55,59,974023,Gatita,Bellakath,spotify:track:4ilZV1WNjL7IxwE81OnaRY,La Mafia del Perreo\ PFIVE Entertainment México,2023-10-05
+2023-01-23,global,197,181,181,3,971017,Muñecas,"TINI, La Joaqui, Steve Aoki",spotify:track:1PAvhqefivTNdxZ4u8RT1d,5020 Records,2023-01-12
+2023-01-23,global,198,197,1,1522,969941,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",spotify:track:0RiRZpuVRbi7oqRdSMwhQY,Republic Records,2019-09-06
+2023-01-23,global,199,196,13,162,969747,Super Freaky Girl,Nicki Minaj,spotify:track:2yjlYDiNiQkdxVqTlaSrlX,Republic Records,2022-08-26
+2023-01-23,global,200,-1,63,405,965199,Till I Collapse,"Eminem, Nate Dogg",spotify:track:4xkOaSrkexMciUUogZKVTS,Eminem Catalog PS,2002-05-26
